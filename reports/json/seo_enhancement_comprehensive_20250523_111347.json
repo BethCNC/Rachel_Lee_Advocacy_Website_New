@@ -1,0 +1,526 @@
+{
+  "seo_opportunities": {
+    "keyword_opportunities": {
+      "https://umiwellnesscenter.com/community-programs/": {
+        "category": "movement",
+        "confidence": 0.2,
+        "recommendation": "Strengthen movement keyword focus"
+      },
+      "https://umiwellnesscenter.com/faqs/": {
+        "category": "advocacy",
+        "confidence": 0.6,
+        "recommendation": "Strengthen advocacy keyword focus"
+      },
+      "https://umiwellnesscenter.com/how-umi-works/": {
+        "category": "advocacy",
+        "confidence": 0.45454545454545453,
+        "recommendation": "Strengthen advocacy keyword focus"
+      },
+      "https://umiwellnesscenter.com/offerings/": {
+        "category": "movement",
+        "confidence": 0.07317073170731707,
+        "recommendation": "Strengthen movement keyword focus"
+      },
+      "https://umiwellnesscenter.com/providers/": {
+        "category": "movement",
+        "confidence": 0.2571428571428571,
+        "recommendation": "Strengthen movement keyword focus"
+      },
+      "https://umiwellnesscenter.com/staff-volunteers/": {
+        "category": "advocacy",
+        "confidence": 0.3333333333333333,
+        "recommendation": "Strengthen advocacy keyword focus"
+      },
+      "https://umiwellnesscenter.com/zebra-heard/": {
+        "category": "advocacy",
+        "confidence": 0.5,
+        "recommendation": "Strengthen advocacy keyword focus"
+      },
+      "https://umiwellnesscenter.com/roads-we-travel/": {
+        "category": "movement",
+        "confidence": 0.16666666666666666,
+        "recommendation": "Strengthen movement keyword focus"
+      }
+    },
+    "content_gaps": [],
+    "duplicate_content_risks": [],
+    "internal_linking_opportunities": [
+      {
+        "source_page": "https://umiwellnesscenter.com/",
+        "target_page": "https://umiwellnesscenter.com/offerings/classes/",
+        "category": "movement",
+        "common_keywords": [
+          "numberemail",
+          "complete",
+          "apply",
+          "association",
+          "private"
+        ],
+        "recommendation": "Add internal link from https://umiwellnesscenter.com/ to https://umiwellnesscenter.com/offerings/classes/ using anchor text related to: numberemail, complete, apply"
+      },
+      {
+        "source_page": "https://umiwellnesscenter.com/",
+        "target_page": "https://umiwellnesscenter.com/community-programs/",
+        "category": "movement",
+        "common_keywords": [
+          "complete",
+          "numberemail",
+          "apply",
+          "private",
+          "association"
+        ],
+        "recommendation": "Add internal link from https://umiwellnesscenter.com/ to https://umiwellnesscenter.com/community-programs/ using anchor text related to: complete, numberemail, apply"
+      },
+      {
+        "source_page": "https://umiwellnesscenter.com/",
+        "target_page": "https://umiwellnesscenter.com/offerings/",
+        "category": "movement",
+        "common_keywords": [
+          "complete",
+          "numberemail",
+          "apply",
+          "association",
+          "private"
+        ],
+        "recommendation": "Add internal link from https://umiwellnesscenter.com/ to https://umiwellnesscenter.com/offerings/ using anchor text related to: complete, numberemail, apply"
+      },
+      {
+        "source_page": "https://umiwellnesscenter.com/",
+        "target_page": "https://umiwellnesscenter.com/providers/",
+        "category": "movement",
+        "common_keywords": [
+          "association",
+          "private",
+          "membership",
+          "wellness",
+          "bodies"
+        ],
+        "recommendation": "Add internal link from https://umiwellnesscenter.com/ to https://umiwellnesscenter.com/providers/ using anchor text related to: association, private, membership"
+      },
+      {
+        "source_page": "https://umiwellnesscenter.com/",
+        "target_page": "https://umiwellnesscenter.com/upcoming-umi-events/",
+        "category": "movement",
+        "common_keywords": [
+          "complete",
+          "numberemail",
+          "apply",
+          "association",
+          "private"
+        ],
+        "recommendation": "Add internal link from https://umiwellnesscenter.com/ to https://umiwellnesscenter.com/upcoming-umi-events/ using anchor text related to: complete, numberemail, apply"
+      },
+      {
+        "source_page": "https://umiwellnesscenter.com/",
+        "target_page": "https://umiwellnesscenter.com/rhythms-for-blues/",
+        "category": "movement",
+        "common_keywords": [
+          "numberemail",
+          "complete",
+          "apply",
+          "association",
+          "private"
+        ],
+        "recommendation": "Add internal link from https://umiwellnesscenter.com/ to https://umiwellnesscenter.com/rhythms-for-blues/ using anchor text related to: numberemail, complete, apply"
+      },
+      {
+        "source_page": "https://umiwellnesscenter.com/",
+        "target_page": "https://umiwellnesscenter.com/roads-we-travel/",
+        "category": "movement",
+        "common_keywords": [
+          "numberemail",
+          "complete",
+          "apply",
+          "association",
+          "private"
+        ],
+        "recommendation": "Add internal link from https://umiwellnesscenter.com/ to https://umiwellnesscenter.com/roads-we-travel/ using anchor text related to: numberemail, complete, apply"
+      },
+      {
+        "source_page": "https://umiwellnesscenter.com/",
+        "target_page": "https://umiwellnesscenter.com/contact-us/",
+        "category": "movement",
+        "common_keywords": [
+          "complete",
+          "numberemail",
+          "apply",
+          "enable",
+          "membership"
+        ],
+        "recommendation": "Add internal link from https://umiwellnesscenter.com/ to https://umiwellnesscenter.com/contact-us/ using anchor text related to: complete, numberemail, apply"
+      },
+      {
+        "source_page": "https://umiwellnesscenter.com/offerings/classes/",
+        "target_page": "https://umiwellnesscenter.com/community-programs/",
+        "category": "movement",
+        "common_keywords": [
+          "complete",
+          "numberemail",
+          "apply",
+          "private",
+          "association"
+        ],
+        "recommendation": "Add internal link from https://umiwellnesscenter.com/offerings/classes/ to https://umiwellnesscenter.com/community-programs/ using anchor text related to: complete, numberemail, apply"
+      },
+      {
+        "source_page": "https://umiwellnesscenter.com/offerings/classes/",
+        "target_page": "https://umiwellnesscenter.com/offerings/",
+        "category": "movement",
+        "common_keywords": [
+          "events",
+          "numberemail",
+          "apply",
+          "association",
+          "private"
+        ],
+        "recommendation": "Add internal link from https://umiwellnesscenter.com/offerings/classes/ to https://umiwellnesscenter.com/offerings/ using anchor text related to: events, numberemail, apply"
+      }
+    ],
+    "title_optimization": [
+      {
+        "url": "https://umiwellnesscenter.com/faqs/",
+        "current_title": "FAQs - Umi Wellness Center",
+        "issue": "Title too short",
+        "recommendation": "Expand title to include more descriptive keywords"
+      }
+    ],
+    "meta_description_optimization": [
+      {
+        "url": "https://umiwellnesscenter.com/",
+        "current_meta": "[et_pb_column type=\"1_5\"",
+        "issue": "Meta description too short",
+        "recommendation": "Expand to 120-160 characters with compelling CTA"
+      },
+      {
+        "url": "https://umiwellnesscenter.com/patient-advocacy-consulting/",
+        "issue": "Missing meta description",
+        "recommendation": "Expert patient advocacy services at Umi Wellness Center. Get professional support navigating healthcare systems. Contact us for consultation."
+      },
+      {
+        "url": "https://umiwellnesscenter.com/community-programs/",
+        "issue": "Missing meta description",
+        "recommendation": "Discover community programs - umi wellness center at Umi Wellness Center. Professional movement therapy and somatic practices to improve your wellbeing. Book your session today."
+      },
+      {
+        "url": "https://umiwellnesscenter.com/faqs/",
+        "issue": "Missing meta description",
+        "recommendation": "Expert patient advocacy services at Umi Wellness Center. Get professional support navigating healthcare systems. Contact us for consultation."
+      },
+      {
+        "url": "https://umiwellnesscenter.com/how-umi-works/",
+        "issue": "Missing meta description",
+        "recommendation": "Expert patient advocacy services at Umi Wellness Center. Get professional support navigating healthcare systems. Contact us for consultation."
+      },
+      {
+        "url": "https://umiwellnesscenter.com/offerings/",
+        "issue": "Missing meta description",
+        "recommendation": "Discover offerings - umi wellness center at Umi Wellness Center. Professional movement therapy and somatic practices to improve your wellbeing. Book your session today."
+      },
+      {
+        "url": "https://umiwellnesscenter.com/staff-volunteers/",
+        "issue": "Missing meta description",
+        "recommendation": "Expert patient advocacy services at Umi Wellness Center. Get professional support navigating healthcare systems. Contact us for consultation."
+      },
+      {
+        "url": "https://umiwellnesscenter.com/upcoming-umi-events/",
+        "issue": "Missing meta description",
+        "recommendation": "Discover upcoming umi events - umi wellness center at Umi Wellness Center. Professional movement therapy and somatic practices to improve your wellbeing. Book your session today."
+      },
+      {
+        "url": "https://umiwellnesscenter.com/rhythms-for-blues/",
+        "issue": "Missing meta description",
+        "recommendation": "Discover rhythms for blues - umi wellness center at Umi Wellness Center. Professional movement therapy and somatic practices to improve your wellbeing. Book your session today."
+      },
+      {
+        "url": "https://umiwellnesscenter.com/roads-we-travel/",
+        "issue": "Missing meta description",
+        "recommendation": "Discover roads we travel - umi wellness center at Umi Wellness Center. Professional movement therapy and somatic practices to improve your wellbeing. Book your session today."
+      },
+      {
+        "url": "https://umiwellnesscenter.com/contact-us/",
+        "issue": "Missing meta description",
+        "recommendation": "Discover contact us - umi wellness center at Umi Wellness Center. Professional movement therapy and somatic practices to improve your wellbeing. Book your session today."
+      }
+    ],
+    "heading_structure_issues": [],
+    "image_seo_issues": [
+      {
+        "url": "https://umiwellnesscenter.com/",
+        "images_without_alt": 5,
+        "total_images": 7,
+        "recommendation": "Add descriptive alt text to all images"
+      },
+      {
+        "url": "https://umiwellnesscenter.com/offerings/classes/",
+        "images_without_alt": 3,
+        "total_images": 5,
+        "recommendation": "Add descriptive alt text to all images"
+      },
+      {
+        "url": "https://umiwellnesscenter.com/patient-advocacy-consulting/",
+        "images_without_alt": 2,
+        "total_images": 4,
+        "recommendation": "Add descriptive alt text to all images"
+      },
+      {
+        "url": "https://umiwellnesscenter.com/community-programs/",
+        "images_without_alt": 6,
+        "total_images": 8,
+        "recommendation": "Add descriptive alt text to all images"
+      },
+      {
+        "url": "https://umiwellnesscenter.com/faqs/",
+        "images_without_alt": 1,
+        "total_images": 3,
+        "recommendation": "Add descriptive alt text to all images"
+      },
+      {
+        "url": "https://umiwellnesscenter.com/how-umi-works/",
+        "images_without_alt": 2,
+        "total_images": 4,
+        "recommendation": "Add descriptive alt text to all images"
+      },
+      {
+        "url": "https://umiwellnesscenter.com/offerings/",
+        "images_without_alt": 6,
+        "total_images": 8,
+        "recommendation": "Add descriptive alt text to all images"
+      },
+      {
+        "url": "https://umiwellnesscenter.com/providers/",
+        "images_without_alt": 4,
+        "total_images": 5,
+        "recommendation": "Add descriptive alt text to all images"
+      },
+      {
+        "url": "https://umiwellnesscenter.com/staff-volunteers/",
+        "images_without_alt": 2,
+        "total_images": 3,
+        "recommendation": "Add descriptive alt text to all images"
+      },
+      {
+        "url": "https://umiwellnesscenter.com/upcoming-umi-events/",
+        "images_without_alt": 3,
+        "total_images": 5,
+        "recommendation": "Add descriptive alt text to all images"
+      },
+      {
+        "url": "https://umiwellnesscenter.com/zebra-heard/",
+        "images_without_alt": 1,
+        "total_images": 3,
+        "recommendation": "Add descriptive alt text to all images"
+      },
+      {
+        "url": "https://umiwellnesscenter.com/rhythms-for-blues/",
+        "images_without_alt": 1,
+        "total_images": 3,
+        "recommendation": "Add descriptive alt text to all images"
+      },
+      {
+        "url": "https://umiwellnesscenter.com/roads-we-travel/",
+        "images_without_alt": 2,
+        "total_images": 4,
+        "recommendation": "Add descriptive alt text to all images"
+      },
+      {
+        "url": "https://umiwellnesscenter.com/contact-us/",
+        "images_without_alt": 1,
+        "total_images": 3,
+        "recommendation": "Add descriptive alt text to all images"
+      }
+    ]
+  },
+  "action_plan": {
+    "high_priority": [
+      {
+        "task": "Add meta description to https://umiwellnesscenter.com/patient-advocacy-consulting/",
+        "impact": "High",
+        "effort": "Low",
+        "recommendation": "Expert patient advocacy services at Umi Wellness Center. Get professional support navigating healthcare systems. Contact us for consultation."
+      },
+      {
+        "task": "Add meta description to https://umiwellnesscenter.com/community-programs/",
+        "impact": "High",
+        "effort": "Low",
+        "recommendation": "Discover community programs - umi wellness center at Umi Wellness Center. Professional movement therapy and somatic practices to improve your wellbeing. Book your session today."
+      },
+      {
+        "task": "Add meta description to https://umiwellnesscenter.com/faqs/",
+        "impact": "High",
+        "effort": "Low",
+        "recommendation": "Expert patient advocacy services at Umi Wellness Center. Get professional support navigating healthcare systems. Contact us for consultation."
+      },
+      {
+        "task": "Add meta description to https://umiwellnesscenter.com/how-umi-works/",
+        "impact": "High",
+        "effort": "Low",
+        "recommendation": "Expert patient advocacy services at Umi Wellness Center. Get professional support navigating healthcare systems. Contact us for consultation."
+      },
+      {
+        "task": "Add meta description to https://umiwellnesscenter.com/offerings/",
+        "impact": "High",
+        "effort": "Low",
+        "recommendation": "Discover offerings - umi wellness center at Umi Wellness Center. Professional movement therapy and somatic practices to improve your wellbeing. Book your session today."
+      },
+      {
+        "task": "Add meta description to https://umiwellnesscenter.com/staff-volunteers/",
+        "impact": "High",
+        "effort": "Low",
+        "recommendation": "Expert patient advocacy services at Umi Wellness Center. Get professional support navigating healthcare systems. Contact us for consultation."
+      },
+      {
+        "task": "Add meta description to https://umiwellnesscenter.com/upcoming-umi-events/",
+        "impact": "High",
+        "effort": "Low",
+        "recommendation": "Discover upcoming umi events - umi wellness center at Umi Wellness Center. Professional movement therapy and somatic practices to improve your wellbeing. Book your session today."
+      },
+      {
+        "task": "Add meta description to https://umiwellnesscenter.com/rhythms-for-blues/",
+        "impact": "High",
+        "effort": "Low",
+        "recommendation": "Discover rhythms for blues - umi wellness center at Umi Wellness Center. Professional movement therapy and somatic practices to improve your wellbeing. Book your session today."
+      },
+      {
+        "task": "Add meta description to https://umiwellnesscenter.com/roads-we-travel/",
+        "impact": "High",
+        "effort": "Low",
+        "recommendation": "Discover roads we travel - umi wellness center at Umi Wellness Center. Professional movement therapy and somatic practices to improve your wellbeing. Book your session today."
+      },
+      {
+        "task": "Add meta description to https://umiwellnesscenter.com/contact-us/",
+        "impact": "High",
+        "effort": "Low",
+        "recommendation": "Discover contact us - umi wellness center at Umi Wellness Center. Professional movement therapy and somatic practices to improve your wellbeing. Book your session today."
+      }
+    ],
+    "medium_priority": [
+      {
+        "task": "Optimize title on https://umiwellnesscenter.com/faqs/",
+        "impact": "Medium",
+        "effort": "Medium",
+        "current": "FAQs - Umi Wellness Center",
+        "issue": "Title too short",
+        "recommendation": "Expand title to include more descriptive keywords"
+      }
+    ],
+    "low_priority": [
+      {
+        "task": "Add internal link from https://umiwellnesscenter.com/ to https://umiwellnesscenter.com/offerings/classes/",
+        "impact": "Low",
+        "effort": "Low",
+        "recommendation": "Add internal link from https://umiwellnesscenter.com/ to https://umiwellnesscenter.com/offerings/classes/ using anchor text related to: numberemail, complete, apply"
+      },
+      {
+        "task": "Add internal link from https://umiwellnesscenter.com/ to https://umiwellnesscenter.com/community-programs/",
+        "impact": "Low",
+        "effort": "Low",
+        "recommendation": "Add internal link from https://umiwellnesscenter.com/ to https://umiwellnesscenter.com/community-programs/ using anchor text related to: complete, numberemail, apply"
+      },
+      {
+        "task": "Add internal link from https://umiwellnesscenter.com/ to https://umiwellnesscenter.com/offerings/",
+        "impact": "Low",
+        "effort": "Low",
+        "recommendation": "Add internal link from https://umiwellnesscenter.com/ to https://umiwellnesscenter.com/offerings/ using anchor text related to: complete, numberemail, apply"
+      },
+      {
+        "task": "Add internal link from https://umiwellnesscenter.com/ to https://umiwellnesscenter.com/providers/",
+        "impact": "Low",
+        "effort": "Low",
+        "recommendation": "Add internal link from https://umiwellnesscenter.com/ to https://umiwellnesscenter.com/providers/ using anchor text related to: association, private, membership"
+      },
+      {
+        "task": "Add internal link from https://umiwellnesscenter.com/ to https://umiwellnesscenter.com/upcoming-umi-events/",
+        "impact": "Low",
+        "effort": "Low",
+        "recommendation": "Add internal link from https://umiwellnesscenter.com/ to https://umiwellnesscenter.com/upcoming-umi-events/ using anchor text related to: complete, numberemail, apply"
+      }
+    ],
+    "quick_wins": [
+      {
+        "task": "Add alt text to 5 images on https://umiwellnesscenter.com/",
+        "impact": "Medium",
+        "effort": "Low",
+        "recommendation": "Add descriptive alt text to all images"
+      },
+      {
+        "task": "Add alt text to 3 images on https://umiwellnesscenter.com/offerings/classes/",
+        "impact": "Medium",
+        "effort": "Low",
+        "recommendation": "Add descriptive alt text to all images"
+      },
+      {
+        "task": "Add alt text to 2 images on https://umiwellnesscenter.com/patient-advocacy-consulting/",
+        "impact": "Medium",
+        "effort": "Low",
+        "recommendation": "Add descriptive alt text to all images"
+      },
+      {
+        "task": "Add alt text to 6 images on https://umiwellnesscenter.com/community-programs/",
+        "impact": "Medium",
+        "effort": "Low",
+        "recommendation": "Add descriptive alt text to all images"
+      },
+      {
+        "task": "Add alt text to 1 images on https://umiwellnesscenter.com/faqs/",
+        "impact": "Medium",
+        "effort": "Low",
+        "recommendation": "Add descriptive alt text to all images"
+      },
+      {
+        "task": "Add alt text to 2 images on https://umiwellnesscenter.com/how-umi-works/",
+        "impact": "Medium",
+        "effort": "Low",
+        "recommendation": "Add descriptive alt text to all images"
+      },
+      {
+        "task": "Add alt text to 6 images on https://umiwellnesscenter.com/offerings/",
+        "impact": "Medium",
+        "effort": "Low",
+        "recommendation": "Add descriptive alt text to all images"
+      },
+      {
+        "task": "Add alt text to 4 images on https://umiwellnesscenter.com/providers/",
+        "impact": "Medium",
+        "effort": "Low",
+        "recommendation": "Add descriptive alt text to all images"
+      },
+      {
+        "task": "Add alt text to 2 images on https://umiwellnesscenter.com/staff-volunteers/",
+        "impact": "Medium",
+        "effort": "Low",
+        "recommendation": "Add descriptive alt text to all images"
+      },
+      {
+        "task": "Add alt text to 3 images on https://umiwellnesscenter.com/upcoming-umi-events/",
+        "impact": "Medium",
+        "effort": "Low",
+        "recommendation": "Add descriptive alt text to all images"
+      },
+      {
+        "task": "Add alt text to 1 images on https://umiwellnesscenter.com/zebra-heard/",
+        "impact": "Medium",
+        "effort": "Low",
+        "recommendation": "Add descriptive alt text to all images"
+      },
+      {
+        "task": "Add alt text to 1 images on https://umiwellnesscenter.com/rhythms-for-blues/",
+        "impact": "Medium",
+        "effort": "Low",
+        "recommendation": "Add descriptive alt text to all images"
+      },
+      {
+        "task": "Add alt text to 2 images on https://umiwellnesscenter.com/roads-we-travel/",
+        "impact": "Medium",
+        "effort": "Low",
+        "recommendation": "Add descriptive alt text to all images"
+      },
+      {
+        "task": "Add alt text to 1 images on https://umiwellnesscenter.com/contact-us/",
+        "impact": "Medium",
+        "effort": "Low",
+        "recommendation": "Add descriptive alt text to all images"
+      }
+    ]
+  },
+  "analysis_date": "2025-05-23T11:13:47.657453"
+}

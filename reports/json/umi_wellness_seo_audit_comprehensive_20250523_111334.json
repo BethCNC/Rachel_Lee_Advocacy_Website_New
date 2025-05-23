@@ -1,0 +1,1036 @@
+{
+  "audit_summary": {
+    "total_pages_analyzed": 25,
+    "pages_with_seo_issues": 23,
+    "total_seo_issues": 69,
+    "issue_breakdown": {
+      "Meta Description Issues": 19,
+      "Heading Issues": 22,
+      "Image Issues": 19,
+      "Other Issues": 6,
+      "Title Issues": 3
+    },
+    "broken_links_count": 8,
+    "redirect_chains_count": 0,
+    "slow_pages_count": 0,
+    "average_load_time": 0.35,
+    "pages_missing_meta_description": 16,
+    "pages_missing_title": 2
+  },
+  "broken_links": [
+    {
+      "url": "https://umiwellnesscenter.com/roads-we-travel/www.rachelleepac.com",
+      "status_code": 404,
+      "source_page": "https://umiwellnesscenter.com/",
+      "error_type": "Page Not Found"
+    },
+    {
+      "url": "https://umiwellnesscenter.com/how-umi-works/www.umiwellnesscenter.com/community-programs/",
+      "status_code": 404,
+      "source_page": "https://umiwellnesscenter.com/",
+      "error_type": "Page Not Found"
+    },
+    {
+      "url": "https://umiwellnesscenter.com/providers/www.rachelleepac.com",
+      "status_code": 404,
+      "source_page": "https://umiwellnesscenter.com/",
+      "error_type": "Page Not Found"
+    },
+    {
+      "url": "https://umiwellnesscenter.com/faqs/www.rachelleepac.com",
+      "status_code": 404,
+      "source_page": "https://umiwellnesscenter.com/",
+      "error_type": "Page Not Found"
+    },
+    {
+      "url": "https://umiwellnesscenter.com/./newsletter/",
+      "status_code": 404,
+      "source_page": "https://umiwellnesscenter.com/",
+      "error_type": "Page Not Found"
+    },
+    {
+      "url": "https://umiwellnesscenter.com/./uncategorized/",
+      "status_code": 404,
+      "source_page": "https://umiwellnesscenter.com/",
+      "error_type": "Page Not Found"
+    },
+    {
+      "url": "https://umiwellnesscenter.com/providers/www.umiwellnesscenter.com/umi-moves/",
+      "status_code": 404,
+      "source_page": "https://umiwellnesscenter.com/",
+      "error_type": "Page Not Found"
+    },
+    {
+      "url": "https://www.facebook.com/UmiWellnessCenter",
+      "status_code": 400,
+      "source_page": "https://umiwellnesscenter.com/",
+      "error_type": "Client Error"
+    }
+  ],
+  "redirect_chains": [],
+  "slow_pages": [],
+  "page_analyses": {
+    "https://umiwellnesscenter.com/": {
+      "url": "https://umiwellnesscenter.com/",
+      "status_code": 200,
+      "load_time": 1.42,
+      "accessible": true,
+      "content_size": 138526,
+      "content_type": "text/html; charset=UTF-8",
+      "seo_issues": [
+        "Meta description too short (< 120 characters)",
+        "Multiple H1 tags found (5)",
+        "5 images with empty alt text",
+        "Low content (< 300 words)"
+      ],
+      "title": "Home Page - Umi Wellness Center",
+      "title_length": 31,
+      "meta_description": "[et_pb_column type=\"1_5\"",
+      "meta_description_length": 24,
+      "headings": {
+        "h1": 5,
+        "h2": 0,
+        "h3": 0,
+        "h4": 11,
+        "h5": 0,
+        "h6": 0
+      },
+      "images": {
+        "total_images": 7,
+        "images_without_alt": 0,
+        "images_with_empty_alt": 5,
+        "large_images": 0
+      },
+      "links": {
+        "internal_links": 27,
+        "external_links": 4,
+        "total_links": 31
+      },
+      "word_count": 228,
+      "canonical": "https://umiwellnesscenter.com/",
+      "meta_robots": "max-image-preview:large",
+      "schema_markup": true
+    },
+    "https://umiwellnesscenter.com/about-us/": {
+      "url": "https://umiwellnesscenter.com/about-us/",
+      "status_code": 200,
+      "load_time": 0.79,
+      "accessible": true,
+      "content_size": 147672,
+      "content_type": "text/html; charset=UTF-8",
+      "seo_issues": [
+        "Multiple H1 tags found (10)"
+      ],
+      "title": "About Us - Umi Wellness Center",
+      "title_length": 30,
+      "meta_description": "The vision of Umi Wellness is to lay a foundation for changing the paradigm of how we live and communicate about medical care.",
+      "meta_description_length": 126,
+      "headings": {
+        "h1": 10,
+        "h2": 0,
+        "h3": 0,
+        "h4": 0,
+        "h5": 0,
+        "h6": 0
+      },
+      "images": {
+        "total_images": 2,
+        "images_without_alt": 0,
+        "images_with_empty_alt": 0,
+        "large_images": 0
+      },
+      "links": {
+        "internal_links": 31,
+        "external_links": 5,
+        "total_links": 37
+      },
+      "word_count": 492,
+      "canonical": "https://umiwellnesscenter.com/about-us/",
+      "meta_robots": "max-image-preview:large",
+      "schema_markup": true
+    },
+    "https://umiwellnesscenter.com/how-umi-works/": {
+      "url": "https://umiwellnesscenter.com/how-umi-works/",
+      "status_code": 200,
+      "load_time": 0.08,
+      "accessible": true,
+      "content_size": 150712,
+      "content_type": "text/html; charset=UTF-8",
+      "seo_issues": [
+        "Missing meta description",
+        "Multiple H1 tags found (19)",
+        "2 images with empty alt text"
+      ],
+      "title": "How Umi Works - Umi Wellness Center",
+      "title_length": 35,
+      "meta_description": "",
+      "meta_description_length": 0,
+      "headings": {
+        "h1": 19,
+        "h2": 0,
+        "h3": 0,
+        "h4": 0,
+        "h5": 0,
+        "h6": 0
+      },
+      "images": {
+        "total_images": 4,
+        "images_without_alt": 0,
+        "images_with_empty_alt": 2,
+        "large_images": 0
+      },
+      "links": {
+        "internal_links": 33,
+        "external_links": 6,
+        "total_links": 40
+      },
+      "word_count": 686,
+      "canonical": "https://umiwellnesscenter.com/how-umi-works/",
+      "meta_robots": "max-image-preview:large",
+      "schema_markup": true
+    },
+    "https://umiwellnesscenter.com/faqs/": {
+      "url": "https://umiwellnesscenter.com/faqs/",
+      "status_code": 200,
+      "load_time": 0.07,
+      "accessible": true,
+      "content_size": 139078,
+      "content_type": "text/html; charset=UTF-8",
+      "seo_issues": [
+        "Title too short (< 30 characters)",
+        "Missing meta description",
+        "Multiple H1 tags found (3)",
+        "1 images with empty alt text"
+      ],
+      "title": "FAQs - Umi Wellness Center",
+      "title_length": 26,
+      "meta_description": "",
+      "meta_description_length": 0,
+      "headings": {
+        "h1": 3,
+        "h2": 0,
+        "h3": 0,
+        "h4": 0,
+        "h5": 0,
+        "h6": 0
+      },
+      "images": {
+        "total_images": 3,
+        "images_without_alt": 0,
+        "images_with_empty_alt": 1,
+        "large_images": 0
+      },
+      "links": {
+        "internal_links": 27,
+        "external_links": 3,
+        "total_links": 30
+      },
+      "word_count": 1273,
+      "canonical": "https://umiwellnesscenter.com/faqs/",
+      "meta_robots": "max-image-preview:large",
+      "schema_markup": true
+    },
+    "https://umiwellnesscenter.com/providers/": {
+      "url": "https://umiwellnesscenter.com/providers/",
+      "status_code": 200,
+      "load_time": 0.07,
+      "accessible": true,
+      "content_size": 143839,
+      "content_type": "text/html; charset=UTF-8",
+      "seo_issues": [
+        "Multiple H1 tags found (5)",
+        "4 images with empty alt text"
+      ],
+      "title": "Providers - Umi Wellness Center",
+      "title_length": 31,
+      "meta_description": "Meet our amazing community of providers and staff! Many of whom live with chronic conditions themselves and have channeled that experience into your care.",
+      "meta_description_length": 154,
+      "headings": {
+        "h1": 5,
+        "h2": 0,
+        "h3": 0,
+        "h4": 0,
+        "h5": 0,
+        "h6": 0
+      },
+      "images": {
+        "total_images": 5,
+        "images_without_alt": 0,
+        "images_with_empty_alt": 4,
+        "large_images": 0
+      },
+      "links": {
+        "internal_links": 27,
+        "external_links": 3,
+        "total_links": 33
+      },
+      "word_count": 703,
+      "canonical": "https://umiwellnesscenter.com/providers/",
+      "meta_robots": "max-image-preview:large",
+      "schema_markup": true
+    },
+    "https://umiwellnesscenter.com/staff-volunteers/": {
+      "url": "https://umiwellnesscenter.com/staff-volunteers/",
+      "status_code": 200,
+      "load_time": 0.07,
+      "accessible": true,
+      "content_size": 192327,
+      "content_type": "text/html; charset=UTF-8",
+      "seo_issues": [
+        "Missing meta description",
+        "Multiple H1 tags found (3)",
+        "2 images with empty alt text"
+      ],
+      "title": "Staff & Volunteers - Umi Wellness Center",
+      "title_length": 40,
+      "meta_description": "",
+      "meta_description_length": 0,
+      "headings": {
+        "h1": 3,
+        "h2": 0,
+        "h3": 2,
+        "h4": 0,
+        "h5": 0,
+        "h6": 0
+      },
+      "images": {
+        "total_images": 3,
+        "images_without_alt": 0,
+        "images_with_empty_alt": 2,
+        "large_images": 0
+      },
+      "links": {
+        "internal_links": 24,
+        "external_links": 2,
+        "total_links": 27
+      },
+      "word_count": 466,
+      "canonical": "https://umiwellnesscenter.com/staff-volunteers/",
+      "meta_robots": "max-image-preview:large",
+      "schema_markup": true
+    },
+    "https://umiwellnesscenter.com/founders/": {
+      "url": "https://umiwellnesscenter.com/founders/",
+      "status_code": 200,
+      "load_time": 0.77,
+      "accessible": true,
+      "content_size": 138012,
+      "content_type": "text/html; charset=UTF-8",
+      "seo_issues": [
+        "Missing meta description",
+        "Multiple H1 tags found (2)",
+        "2 images with empty alt text"
+      ],
+      "title": "Founders - Umi Wellness Center",
+      "title_length": 30,
+      "meta_description": "",
+      "meta_description_length": 0,
+      "headings": {
+        "h1": 2,
+        "h2": 1,
+        "h3": 0,
+        "h4": 0,
+        "h5": 0,
+        "h6": 0
+      },
+      "images": {
+        "total_images": 3,
+        "images_without_alt": 0,
+        "images_with_empty_alt": 2,
+        "large_images": 0
+      },
+      "links": {
+        "internal_links": 24,
+        "external_links": 2,
+        "total_links": 26
+      },
+      "word_count": 903,
+      "canonical": "https://umiwellnesscenter.com/founders/",
+      "meta_robots": "max-image-preview:large",
+      "schema_markup": true
+    },
+    "https://umiwellnesscenter.com/privacy-policy/": {
+      "url": "https://umiwellnesscenter.com/privacy-policy/",
+      "status_code": 200,
+      "load_time": 0.66,
+      "accessible": true,
+      "content_size": 118307,
+      "content_type": "text/html; charset=UTF-8",
+      "seo_issues": [
+        "Meta description too long (> 160 characters)"
+      ],
+      "title": "Privacy Policy - Umi Wellness Center",
+      "title_length": 36,
+      "meta_description": "Who we are Our website address is: https://umiwellnesscenter.com. Comments When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection. An anonymized string created from your email address (also called a hash) may be provided",
+      "meta_description_length": 341,
+      "headings": {
+        "h1": 1,
+        "h2": 12,
+        "h3": 0,
+        "h4": 0,
+        "h5": 0,
+        "h6": 0
+      },
+      "images": {
+        "total_images": 1,
+        "images_without_alt": 0,
+        "images_with_empty_alt": 0,
+        "large_images": 0
+      },
+      "links": {
+        "internal_links": 37,
+        "external_links": 1,
+        "total_links": 38
+      },
+      "word_count": 709,
+      "canonical": "https://umiwellnesscenter.com/privacy-policy/",
+      "meta_robots": "max-image-preview:large",
+      "schema_markup": true
+    },
+    "https://umiwellnesscenter.com/upcoming-umi-events/": {
+      "url": "https://umiwellnesscenter.com/upcoming-umi-events/",
+      "status_code": 200,
+      "load_time": 0.07,
+      "accessible": true,
+      "content_size": 139648,
+      "content_type": "text/html; charset=UTF-8",
+      "seo_issues": [
+        "Missing meta description",
+        "Multiple H1 tags found (9)",
+        "3 images with empty alt text",
+        "Low content (< 300 words)"
+      ],
+      "title": "Upcoming Umi Events - Umi Wellness Center",
+      "title_length": 41,
+      "meta_description": "",
+      "meta_description_length": 0,
+      "headings": {
+        "h1": 9,
+        "h2": 0,
+        "h3": 0,
+        "h4": 0,
+        "h5": 0,
+        "h6": 0
+      },
+      "images": {
+        "total_images": 5,
+        "images_without_alt": 0,
+        "images_with_empty_alt": 3,
+        "large_images": 0
+      },
+      "links": {
+        "internal_links": 26,
+        "external_links": 7,
+        "total_links": 33
+      },
+      "word_count": 224,
+      "canonical": "https://umiwellnesscenter.com/upcoming-umi-events/",
+      "meta_robots": "max-image-preview:large",
+      "schema_markup": true
+    },
+    "https://umiwellnesscenter.com/zebra-heard/": {
+      "url": "https://umiwellnesscenter.com/zebra-heard/",
+      "status_code": 200,
+      "load_time": 0.07,
+      "accessible": true,
+      "content_size": 140612,
+      "content_type": "text/html; charset=UTF-8",
+      "seo_issues": [
+        "Multiple H1 tags found (7)",
+        "1 images with empty alt text"
+      ],
+      "title": "Zebra Heard - Umi Wellness Center",
+      "title_length": 33,
+      "meta_description": "Companionship, Community and Creative Fun. Happening every third Friday or Saturday evening of each month. Sign Up below for event details and announcements!",
+      "meta_description_length": 157,
+      "headings": {
+        "h1": 7,
+        "h2": 7,
+        "h3": 1,
+        "h4": 0,
+        "h5": 0,
+        "h6": 0
+      },
+      "images": {
+        "total_images": 3,
+        "images_without_alt": 0,
+        "images_with_empty_alt": 1,
+        "large_images": 0
+      },
+      "links": {
+        "internal_links": 25,
+        "external_links": 8,
+        "total_links": 33
+      },
+      "word_count": 300,
+      "canonical": "https://umiwellnesscenter.com/zebra-heard/",
+      "meta_robots": "max-image-preview:large",
+      "schema_markup": true
+    },
+    "https://umiwellnesscenter.com/roads-we-travel/": {
+      "url": "https://umiwellnesscenter.com/roads-we-travel/",
+      "status_code": 200,
+      "load_time": 0.07,
+      "accessible": true,
+      "content_size": 143143,
+      "content_type": "text/html; charset=UTF-8",
+      "seo_issues": [
+        "Missing meta description",
+        "Multiple H1 tags found (9)",
+        "2 images with empty alt text"
+      ],
+      "title": "Roads We Travel - Umi Wellness Center",
+      "title_length": 37,
+      "meta_description": "",
+      "meta_description_length": 0,
+      "headings": {
+        "h1": 9,
+        "h2": 0,
+        "h3": 0,
+        "h4": 0,
+        "h5": 0,
+        "h6": 0
+      },
+      "images": {
+        "total_images": 4,
+        "images_without_alt": 0,
+        "images_with_empty_alt": 2,
+        "large_images": 0
+      },
+      "links": {
+        "internal_links": 26,
+        "external_links": 10,
+        "total_links": 37
+      },
+      "word_count": 645,
+      "canonical": "https://umiwellnesscenter.com/roads-we-travel/",
+      "meta_robots": "max-image-preview:large",
+      "schema_markup": true
+    },
+    "https://umiwellnesscenter.com/offerings/": {
+      "url": "https://umiwellnesscenter.com/offerings/",
+      "status_code": 200,
+      "load_time": 0.07,
+      "accessible": true,
+      "content_size": 159149,
+      "content_type": "text/html; charset=UTF-8",
+      "seo_issues": [
+        "Missing meta description",
+        "Multiple H1 tags found (7)",
+        "6 images with empty alt text"
+      ],
+      "title": "Offerings - Umi Wellness Center",
+      "title_length": 31,
+      "meta_description": "",
+      "meta_description_length": 0,
+      "headings": {
+        "h1": 7,
+        "h2": 3,
+        "h3": 0,
+        "h4": 3,
+        "h5": 0,
+        "h6": 0
+      },
+      "images": {
+        "total_images": 8,
+        "images_without_alt": 0,
+        "images_with_empty_alt": 6,
+        "large_images": 0
+      },
+      "links": {
+        "internal_links": 28,
+        "external_links": 8,
+        "total_links": 36
+      },
+      "word_count": 453,
+      "canonical": "https://umiwellnesscenter.com/offerings/",
+      "meta_robots": "max-image-preview:large",
+      "schema_markup": true
+    },
+    "https://umiwellnesscenter.com/umi-calendar/": {
+      "url": "https://umiwellnesscenter.com/umi-calendar/",
+      "status_code": 200,
+      "load_time": 0.94,
+      "accessible": true,
+      "content_size": 146374,
+      "content_type": "text/html; charset=UTF-8",
+      "seo_issues": [
+        "Missing meta description",
+        "Multiple H1 tags found (4)",
+        "2 images with empty alt text",
+        "Low content (< 300 words)"
+      ],
+      "title": "Umi Calendar - Umi Wellness Center",
+      "title_length": 34,
+      "meta_description": "",
+      "meta_description_length": 0,
+      "headings": {
+        "h1": 4,
+        "h2": 0,
+        "h3": 0,
+        "h4": 1,
+        "h5": 0,
+        "h6": 0
+      },
+      "images": {
+        "total_images": 4,
+        "images_without_alt": 0,
+        "images_with_empty_alt": 2,
+        "large_images": 0
+      },
+      "links": {
+        "internal_links": 26,
+        "external_links": 3,
+        "total_links": 29
+      },
+      "word_count": 169,
+      "canonical": "https://umiwellnesscenter.com/umi-calendar/",
+      "meta_robots": "max-image-preview:large",
+      "schema_markup": true
+    },
+    "https://umiwellnesscenter.com/patient-advocacy-consulting/": {
+      "url": "https://umiwellnesscenter.com/patient-advocacy-consulting/",
+      "status_code": 200,
+      "load_time": 0.78,
+      "accessible": true,
+      "content_size": 152661,
+      "content_type": "text/html; charset=UTF-8",
+      "seo_issues": [
+        "Missing meta description",
+        "Multiple H1 tags found (9)",
+        "2 images with empty alt text"
+      ],
+      "title": "Patient Advocacy Consulting - Umi Wellness Center",
+      "title_length": 49,
+      "meta_description": "",
+      "meta_description_length": 0,
+      "headings": {
+        "h1": 9,
+        "h2": 0,
+        "h3": 0,
+        "h4": 0,
+        "h5": 0,
+        "h6": 0
+      },
+      "images": {
+        "total_images": 4,
+        "images_without_alt": 0,
+        "images_with_empty_alt": 2,
+        "large_images": 0
+      },
+      "links": {
+        "internal_links": 31,
+        "external_links": 6,
+        "total_links": 37
+      },
+      "word_count": 606,
+      "canonical": "https://umiwellnesscenter.com/patient-advocacy-consulting/",
+      "meta_robots": "max-image-preview:large",
+      "schema_markup": true
+    },
+    "https://umiwellnesscenter.com/offerings/classes/": {
+      "url": "https://umiwellnesscenter.com/offerings/classes/",
+      "status_code": 200,
+      "load_time": 0.08,
+      "accessible": true,
+      "content_size": 155464,
+      "content_type": "text/html; charset=UTF-8",
+      "seo_issues": [
+        "Meta description too long (> 160 characters)",
+        "Multiple H1 tags found (5)",
+        "3 images with empty alt text"
+      ],
+      "title": "Community Classes - Umi Wellness Center",
+      "title_length": 39,
+      "meta_description": "Group classes offer techniques, fitness, physical therapy foundations, self-treatment and so much more. Suited to health recovery, stability, and preservation of wellness for all bodies!",
+      "meta_description_length": 186,
+      "headings": {
+        "h1": 5,
+        "h2": 2,
+        "h3": 0,
+        "h4": 0,
+        "h5": 0,
+        "h6": 0
+      },
+      "images": {
+        "total_images": 5,
+        "images_without_alt": 0,
+        "images_with_empty_alt": 3,
+        "large_images": 0
+      },
+      "links": {
+        "internal_links": 24,
+        "external_links": 16,
+        "total_links": 40
+      },
+      "word_count": 310,
+      "canonical": "https://umiwellnesscenter.com/offerings/classes/",
+      "meta_robots": "max-image-preview:large",
+      "schema_markup": true
+    },
+    "https://umiwellnesscenter.com/umi-moves/": {
+      "url": "https://umiwellnesscenter.com/umi-moves/",
+      "status_code": 200,
+      "load_time": 0.81,
+      "accessible": true,
+      "content_size": 141848,
+      "content_type": "text/html; charset=UTF-8",
+      "seo_issues": [
+        "Title too long (> 60 characters)",
+        "Missing meta description",
+        "Multiple H1 tags found (8)",
+        "1 images with empty alt text"
+      ],
+      "title": "Umi Moves! Vivid Tissue & Intelligent Bones - Umi Wellness Center",
+      "title_length": 65,
+      "meta_description": "",
+      "meta_description_length": 0,
+      "headings": {
+        "h1": 8,
+        "h2": 1,
+        "h3": 0,
+        "h4": 0,
+        "h5": 0,
+        "h6": 0
+      },
+      "images": {
+        "total_images": 3,
+        "images_without_alt": 0,
+        "images_with_empty_alt": 1,
+        "large_images": 0
+      },
+      "links": {
+        "internal_links": 25,
+        "external_links": 10,
+        "total_links": 35
+      },
+      "word_count": 606,
+      "canonical": "https://umiwellnesscenter.com/umi-moves/",
+      "meta_robots": "max-image-preview:large",
+      "schema_markup": true
+    },
+    "https://umiwellnesscenter.com/community-programs/": {
+      "url": "https://umiwellnesscenter.com/community-programs/",
+      "status_code": 200,
+      "load_time": 0.08,
+      "accessible": true,
+      "content_size": 154085,
+      "content_type": "text/html; charset=UTF-8",
+      "seo_issues": [
+        "Missing meta description",
+        "Multiple H1 tags found (3)",
+        "6 images with empty alt text",
+        "Low content (< 300 words)"
+      ],
+      "title": "Community Programs - Umi Wellness Center",
+      "title_length": 40,
+      "meta_description": "",
+      "meta_description_length": 0,
+      "headings": {
+        "h1": 3,
+        "h2": 3,
+        "h3": 0,
+        "h4": 0,
+        "h5": 0,
+        "h6": 0
+      },
+      "images": {
+        "total_images": 8,
+        "images_without_alt": 0,
+        "images_with_empty_alt": 6,
+        "large_images": 0
+      },
+      "links": {
+        "internal_links": 24,
+        "external_links": 3,
+        "total_links": 27
+      },
+      "word_count": 146,
+      "canonical": "https://umiwellnesscenter.com/community-programs/",
+      "meta_robots": "max-image-preview:large",
+      "schema_markup": true
+    },
+    "https://umiwellnesscenter.com/u-mi-news/": {
+      "url": "https://umiwellnesscenter.com/u-mi-news/",
+      "status_code": 200,
+      "load_time": 0.71,
+      "accessible": true,
+      "content_size": 151141,
+      "content_type": "text/html; charset=UTF-8",
+      "seo_issues": [
+        "Meta description too short (< 120 characters)",
+        "Missing H1 tag"
+      ],
+      "title": "U/mi News - Umi Wellness Center",
+      "title_length": 31,
+      "meta_description": "Healing Together",
+      "meta_description_length": 16,
+      "headings": {
+        "h1": 0,
+        "h2": 13,
+        "h3": 0,
+        "h4": 0,
+        "h5": 0,
+        "h6": 0
+      },
+      "images": {
+        "total_images": 7,
+        "images_without_alt": 0,
+        "images_with_empty_alt": 0,
+        "large_images": 0
+      },
+      "links": {
+        "internal_links": 73,
+        "external_links": 1,
+        "total_links": 74
+      },
+      "word_count": 492,
+      "canonical": "https://umiwellnesscenter.com/u-mi-news/",
+      "meta_robots": "max-image-preview:large",
+      "schema_markup": true
+    },
+    "https://umiwellnesscenter.com/contact-us/": {
+      "url": "https://umiwellnesscenter.com/contact-us/",
+      "status_code": 200,
+      "load_time": 0.08,
+      "accessible": true,
+      "content_size": 143158,
+      "content_type": "text/html; charset=UTF-8",
+      "seo_issues": [
+        "Missing meta description",
+        "Multiple H1 tags found (4)",
+        "1 images with empty alt text",
+        "Low content (< 300 words)"
+      ],
+      "title": "Contact Us - Umi Wellness Center",
+      "title_length": 32,
+      "meta_description": "",
+      "meta_description_length": 0,
+      "headings": {
+        "h1": 4,
+        "h2": 0,
+        "h3": 0,
+        "h4": 0,
+        "h5": 0,
+        "h6": 0
+      },
+      "images": {
+        "total_images": 3,
+        "images_without_alt": 0,
+        "images_with_empty_alt": 1,
+        "large_images": 0
+      },
+      "links": {
+        "internal_links": 24,
+        "external_links": 3,
+        "total_links": 27
+      },
+      "word_count": 147,
+      "canonical": "https://umiwellnesscenter.com/contact-us/",
+      "meta_robots": "max-image-preview:large",
+      "schema_markup": true
+    },
+    "https://umiwellnesscenter.com/#www.facebook.com/umiwellnesscenter/": {
+      "url": "https://umiwellnesscenter.com/#www.facebook.com/umiwellnesscenter/",
+      "status_code": 200,
+      "load_time": 0.08,
+      "accessible": true,
+      "content_size": 138526,
+      "content_type": "text/html; charset=UTF-8",
+      "seo_issues": [
+        "Meta description too short (< 120 characters)",
+        "Multiple H1 tags found (5)",
+        "5 images with empty alt text",
+        "Low content (< 300 words)"
+      ],
+      "title": "Home Page - Umi Wellness Center",
+      "title_length": 31,
+      "meta_description": "[et_pb_column type=\"1_5\"",
+      "meta_description_length": 24,
+      "headings": {
+        "h1": 5,
+        "h2": 0,
+        "h3": 0,
+        "h4": 11,
+        "h5": 0,
+        "h6": 0
+      },
+      "images": {
+        "total_images": 7,
+        "images_without_alt": 0,
+        "images_with_empty_alt": 5,
+        "large_images": 0
+      },
+      "links": {
+        "internal_links": 27,
+        "external_links": 4,
+        "total_links": 31
+      },
+      "word_count": 228,
+      "canonical": "https://umiwellnesscenter.com/",
+      "meta_robots": "max-image-preview:large",
+      "schema_markup": true
+    },
+    "https://umiwellnesscenter.com/about-us/#www.facebook.com/umiwellnesscenter/": {
+      "url": "https://umiwellnesscenter.com/about-us/#www.facebook.com/umiwellnesscenter/",
+      "status_code": 200,
+      "load_time": 0.08,
+      "accessible": true,
+      "content_size": 147672,
+      "content_type": "text/html; charset=UTF-8",
+      "seo_issues": [
+        "Multiple H1 tags found (10)"
+      ],
+      "title": "About Us - Umi Wellness Center",
+      "title_length": 30,
+      "meta_description": "The vision of Umi Wellness is to lay a foundation for changing the paradigm of how we live and communicate about medical care.",
+      "meta_description_length": 126,
+      "headings": {
+        "h1": 10,
+        "h2": 0,
+        "h3": 0,
+        "h4": 0,
+        "h5": 0,
+        "h6": 0
+      },
+      "images": {
+        "total_images": 2,
+        "images_without_alt": 0,
+        "images_with_empty_alt": 0,
+        "large_images": 0
+      },
+      "links": {
+        "internal_links": 31,
+        "external_links": 5,
+        "total_links": 37
+      },
+      "word_count": 492,
+      "canonical": "https://umiwellnesscenter.com/about-us/",
+      "meta_robots": "max-image-preview:large",
+      "schema_markup": true
+    },
+    "https://umiwellnesscenter.com/how-umi-works/www.umiwellnesscenter.com/community-programs/": {
+      "url": "https://umiwellnesscenter.com/how-umi-works/www.umiwellnesscenter.com/community-programs/",
+      "status_code": 404,
+      "error": "HTTP 404",
+      "accessible": false
+    },
+    "https://umiwellnesscenter.com/how-umi-works/#www.facebook.com/umiwellnesscenter/": {
+      "url": "https://umiwellnesscenter.com/how-umi-works/#www.facebook.com/umiwellnesscenter/",
+      "status_code": 200,
+      "load_time": 0.07,
+      "accessible": true,
+      "content_size": 150712,
+      "content_type": "text/html; charset=UTF-8",
+      "seo_issues": [
+        "Missing meta description",
+        "Multiple H1 tags found (19)",
+        "2 images with empty alt text"
+      ],
+      "title": "How Umi Works - Umi Wellness Center",
+      "title_length": 35,
+      "meta_description": "",
+      "meta_description_length": 0,
+      "headings": {
+        "h1": 19,
+        "h2": 0,
+        "h3": 0,
+        "h4": 0,
+        "h5": 0,
+        "h6": 0
+      },
+      "images": {
+        "total_images": 4,
+        "images_without_alt": 0,
+        "images_with_empty_alt": 2,
+        "large_images": 0
+      },
+      "links": {
+        "internal_links": 33,
+        "external_links": 6,
+        "total_links": 40
+      },
+      "word_count": 686,
+      "canonical": "https://umiwellnesscenter.com/how-umi-works/",
+      "meta_robots": "max-image-preview:large",
+      "schema_markup": true
+    },
+    "https://umiwellnesscenter.com/faqs/www.rachelleepac.com": {
+      "url": "https://umiwellnesscenter.com/faqs/www.rachelleepac.com",
+      "status_code": 404,
+      "error": "HTTP 404",
+      "accessible": false
+    },
+    "https://umiwellnesscenter.com/faqs/#www.facebook.com/umiwellnesscenter/": {
+      "url": "https://umiwellnesscenter.com/faqs/#www.facebook.com/umiwellnesscenter/",
+      "status_code": 200,
+      "load_time": 0.07,
+      "accessible": true,
+      "content_size": 139078,
+      "content_type": "text/html; charset=UTF-8",
+      "seo_issues": [
+        "Title too short (< 30 characters)",
+        "Missing meta description",
+        "Multiple H1 tags found (3)",
+        "1 images with empty alt text"
+      ],
+      "title": "FAQs - Umi Wellness Center",
+      "title_length": 26,
+      "meta_description": "",
+      "meta_description_length": 0,
+      "headings": {
+        "h1": 3,
+        "h2": 0,
+        "h3": 0,
+        "h4": 0,
+        "h5": 0,
+        "h6": 0
+      },
+      "images": {
+        "total_images": 3,
+        "images_without_alt": 0,
+        "images_with_empty_alt": 1,
+        "large_images": 0
+      },
+      "links": {
+        "internal_links": 27,
+        "external_links": 3,
+        "total_links": 30
+      },
+      "word_count": 1273,
+      "canonical": "https://umiwellnesscenter.com/faqs/",
+      "meta_robots": "max-image-preview:large",
+      "schema_markup": true
+    }
+  },
+  "technical_seo": {
+    "robots_txt": {
+      "exists": true,
+      "content": "User-agent: *\r\nDisallow: /wp-admin/\r\nAllow: /wp-admin/admin-ajax.php\r\n\r\nSitemap: https://umiwellnesscenter.com/sitemap.xml\r\nSitemap: https://umiwellnesscenter.com/sitemap.rss\n",
+      "issues": []
+    },
+    "sitemap": {
+      "exists": true,
+      "url": "https://umiwellnesscenter.com/sitemap.xml",
+      "content_type": "text/xml; charset=UTF-8",
+      "size": 840,
+      "issues": [
+        "No URLs found in sitemap"
+      ]
+    },
+    "ssl_certificate": {
+      "valid": true,
+      "issuer": {
+        "countryName": "US",
+        "organizationName": "Let's Encrypt",
+        "commonName": "R10"
+      },
+      "expires": "Jul 28 17:18:28 2025 GMT",
+      "subject": {
+        "commonName": "www.umiwellnesscenter.com"
+      }
+    }
+  },
+  "audit_date": "2025-05-23T11:13:35.225102",
+  "website": "https://umiwellnesscenter.com/"
+}

@@ -1,0 +1,153 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+🌐 Custom Website Development with Next.js, Figma, and DreamHost
+
+🎯 Project Goal
+
+Develop a fully custom, responsive website using a Figma-based design system and Next.js. The site will be hosted on DreamHost, and include a client-friendly content editing solution to allow non-technical updates (text, images, basic layout).
+
+⸻
+
+🛠️ Tech Stack
+
+Layer	Technology	Purpose
+Frontend	Next.js (React + App Router)	Component-driven UI with routing and SSR/SSG support
+Styling	Tailwind CSS	Utility-first, design-token-aligned styling
+Design System	Figma	Central design source for tokens and components
+CMS	Sanity (or WordPress REST)	Client-friendly content editing
+Deployment	DreamHost VPS or App Hosting	Hosting the production build (via FTP or CI/CD)
+Optional AI Tools	OpenAI API, Cursor, GPTs	AI-assisted code generation and content suggestions
+
+
+⸻
+
+🧱 1. Design System Preparation in Figma
+
+✅ Tasks
+	•	Define and organize:
+	•	Colors (primitives, semantic/mapped)
+	•	Typography (text styles, heading/body variants)
+	•	Spacing and layout primitives
+	•	Components: buttons, forms, cards, nav, etc.
+	•	Export Design Tokens:
+	•	Use Figma Variables and/or Tokens Studio plugin to export JSON tokens
+	•	Use component properties and auto layout for responsive design previews
+
+⸻
+
+⚙️ 2. Setting Up the Next.js Project
+
+▶️ Initialize Project
+
+npx create-next-app@latest my-project
+cd my-project
+npm install
+
+💨 Add Tailwind CSS
+
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+
+Update tailwind.config.js:
+
+content: ["./app/**/*.{js,ts,jsx,tsx}", "./components/**/*.{js,ts,jsx,tsx}"],
+theme: {
+  extend: {},
+},
+
+In app/globals.css:
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+Add your design tokens to tailwind.config.js via theme.extend or import from JSON.
+
+⸻
+
+🧩 3. Convert Figma Components to React
+
+Folder Structure:
+
+src/
+  components/
+    Button.tsx
+    Card.tsx
+  styles/
+    tokens.css
+    globals.css
+  app/
+    page.tsx
+    layout.tsx
+
+Example Component:
+
+const Button = ({ variant = 'primary', children }) => (
+  <button className={`px-4 py-2 rounded ${variant === 'primary' ? 'bg-blue-700 text-white' : 'border'}`}>
+    {children}
+  </button>
+)
+
+
+⸻
+
+🧠 4. Add CMS for Editable Content
+
+Option A: Sanity.io (Recommended for Custom Frontends)
+	1.	npm create sanity@latest in a separate folder
+	2.	Define schema for homepage, about page, etc.
+	3.	Add GROQ queries to your Next.js pages to fetch content
+
+Option B: WordPress REST API (if keeping DreamHost WP site)
+	1.	Create posts/pages/custom fields in WP
+	2.	Fetch via REST API from your frontend
+	3.	Requires authentication and field mapping
+
+⸻
+
+🔌 5. AI & Automation Enhancements
+
+Tool	Use Case
+Cursor	Live AI pair programming
+OpenAI API	Generate alt text, meta, copy
+Figma plugin	Token export, auto style generation
+Use AI to:
+	•	Auto-generate page templates from wireframes
+	•	Suggest semantic tokens
+	•	Assist writing component logic or utility functions
+
+⸻
+
+🚀 6. Deploy to DreamHost
+
+Option A: Static Export + FTP
+
+npm run build
+next export
+
+Upload /out directory via DreamHost FTP or File Manager
+
+Option B: Deploy to VPS
+	•	Use Node.js hosting
+	•	Set up PM2 or use Docker
+	•	Set custom server.js if needed
+
+⸻
+
+📋 Client Editing Workflow
+	•	If using Sanity: client logs into [studio.yourdomain.com]
+	•	If using WordPress REST: client uses standard WP admin
+	•	Create a Notion-style content guide for your client
+
+⸻
+
+📌 Final Notes
+	•	Use Git for version control
+	•	Consider Storybook to document components
+	•	Make sure tokens in Figma and code are 1:1 consistent
+	•	Set up analytics, SEO, and accessibility best practices
+
+Let me know if you want a GitHub starter repo, Figma token config, or Sanity schema to go with this setup.

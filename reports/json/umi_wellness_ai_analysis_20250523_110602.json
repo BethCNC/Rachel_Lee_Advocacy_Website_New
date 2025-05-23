@@ -1,0 +1,3556 @@
+{
+  "analysis_insights": {
+    "content_distribution": {
+      "movement_focused": 5,
+      "advocacy_focused": 4,
+      "mixed_content": 5,
+      "total_pages": 14
+    },
+    "movement_branch_content": {
+      "page_count": 5,
+      "total_word_count": 1065,
+      "average_word_count": 213.0,
+      "common_headings": [
+        [
+          "Inquire about membership here.",
+          5
+        ],
+        [
+          "OR",
+          3
+        ],
+        [
+          "or",
+          2
+        ],
+        [
+          "Our wellness philosophy:",
+          2
+        ],
+        [
+          "Why use a club when a feather works even better?",
+          2
+        ],
+        [
+          "Welcome to Umi Wellness Center",
+          1
+        ],
+        [
+          "a healing together community",
+          1
+        ],
+        [
+          "Have you ever felt out of place in your own body?",
+          1
+        ],
+        [
+          "Have you ever walked with a sense that everyone else seems to know more about your body than YOU do?",
+          1
+        ],
+        [
+          "You’re not alone.",
+          1
+        ]
+      ],
+      "call_to_actions": [
+        [
+          "Submit",
+          5
+        ]
+      ],
+      "pages": [
+        [
+          "https://umiwellnesscenter.com/",
+          "Home Page - Umi Wellness Center",
+          0.8181818181818182
+        ],
+        [
+          "https://umiwellnesscenter.com/offerings/classes/",
+          "Community Classes - Umi Wellness Center",
+          0.7
+        ],
+        [
+          "https://umiwellnesscenter.com/upcoming-umi-events/",
+          "Upcoming Umi Events - Umi Wellness Center",
+          1.0
+        ],
+        [
+          "https://umiwellnesscenter.com/rhythms-for-blues/",
+          "Rhythms for Blues - Umi Wellness Center",
+          0.7647058823529411
+        ],
+        [
+          "https://umiwellnesscenter.com/contact-us/",
+          "Contact Us - Umi Wellness Center",
+          1.0
+        ]
+      ]
+    },
+    "advocacy_branch_content": {
+      "page_count": 4,
+      "total_word_count": 2612,
+      "average_word_count": 653.0,
+      "common_headings": [
+        [
+          "Inquire about membership here.",
+          4
+        ],
+        [
+          "or",
+          3
+        ],
+        [
+          "Zebra Heard!!!",
+          2
+        ],
+        [
+          "Patient Advocacy Consulting",
+          1
+        ],
+        [
+          "What is Patient Advocacy?",
+          1
+        ],
+        [
+          "Can you still help with paperwork?",
+          1
+        ],
+        [
+          "The Umi Purpose",
+          1
+        ],
+        [
+          "Umi FAQs",
+          1
+        ],
+        [
+          "OR",
+          1
+        ],
+        [
+          "Healing Together",
+          1
+        ]
+      ],
+      "call_to_actions": [
+        [
+          "Submit",
+          4
+        ]
+      ],
+      "pages": [
+        [
+          "https://umiwellnesscenter.com/patient-advocacy-consulting/",
+          "Patient Advocacy Consulting - Umi Wellness Center",
+          0.8285714285714286
+        ],
+        [
+          "https://umiwellnesscenter.com/faqs/",
+          "FAQs - Umi Wellness Center",
+          0.6
+        ],
+        [
+          "https://umiwellnesscenter.com/how-umi-works/",
+          "How Umi Works - Umi Wellness Center",
+          0.45454545454545453
+        ],
+        [
+          "https://umiwellnesscenter.com/zebra-heard/",
+          "Zebra Heard - Umi Wellness Center",
+          0.5
+        ]
+      ]
+    },
+    "mixed_content_analysis": [
+      {
+        "url": "https://umiwellnesscenter.com/community-programs/",
+        "title": "Community Programs - Umi Wellness Center",
+        "movement_weight": 3,
+        "advocacy_weight": 2,
+        "recommendation": "Primary focus: Movement. Consider moving advocacy content to separate page. Movement sections: ['Community programs are the expression of the members who embody them!']"
+      },
+      {
+        "url": "https://umiwellnesscenter.com/offerings/",
+        "title": "Offerings - Umi Wellness Center",
+        "movement_weight": 22,
+        "advocacy_weight": 19,
+        "recommendation": "Primary focus: Advocacy. Consider moving movement content to separate page. Advocacy sections: ['Our core, patient advocacy consulting and health coaching, is in full swing.', 'we are adding new free, community programs, online classes and self treatment courses each month.', 'All are welcome, because what works for the most sensitive of us is better care for ALL of us.']"
+      },
+      {
+        "url": "https://umiwellnesscenter.com/providers/",
+        "title": "Providers - Umi Wellness Center",
+        "movement_weight": 22,
+        "advocacy_weight": 13,
+        "recommendation": "Primary focus: Movement. Consider moving advocacy content to separate page. Movement sections: ['Clinical & Wellness Providers']"
+      },
+      {
+        "url": "https://umiwellnesscenter.com/staff-volunteers/",
+        "title": "Staff & Volunteers - Umi Wellness Center",
+        "movement_weight": 4,
+        "advocacy_weight": 8,
+        "recommendation": "Primary focus: Advocacy. Consider moving movement content to separate page. Advocacy sections: ['Do you enjoy hosting or putting on events? Or supporting from the quiet background? There’s room for you here. Come and give back to the amazing chronic warrior community with support for your gifts.']"
+      },
+      {
+        "url": "https://umiwellnesscenter.com/roads-we-travel/",
+        "title": "Roads We Travel - Umi Wellness Center",
+        "movement_weight": 7,
+        "advocacy_weight": 5,
+        "recommendation": "Primary focus: Movement. Consider moving advocacy content to separate page. Movement sections: ['Our wellness philosophy:']"
+      }
+    ],
+    "navigation_analysis": {
+      "current_nav_items": [],
+      "suggested_movement_nav": [
+        "Movement Services",
+        "Somatic Therapy",
+        "Movement Intelligence",
+        "Training Programs",
+        "About Movement Work",
+        "Book Session"
+      ],
+      "suggested_advocacy_nav": [
+        "Patient Advocacy",
+        "Healthcare Navigation",
+        "Insurance Support",
+        "Medical Liaison",
+        "Advocacy Services",
+        "Get Support"
+      ]
+    },
+    "content_gaps": {
+      "movement_branch_gaps": [
+        "about the practitioner",
+        "service offerings",
+        "pricing",
+        "booking system",
+        "testimonials",
+        "methodology"
+      ],
+      "advocacy_branch_gaps": [
+        "advocacy services",
+        "process overview",
+        "success stories",
+        "consultation booking"
+      ]
+    },
+    "ux_recommendations": {
+      "information_architecture": [
+        "Create clear separation between Movement and Advocacy services",
+        "Implement distinct visual branding for each business branch",
+        "Design separate user journeys for each target audience",
+        "Create dedicated landing pages for each service type"
+      ],
+      "navigation_strategy": [
+        "Use distinct primary navigation for each website",
+        "Implement breadcrumbs for complex service hierarchies",
+        "Create cross-referral system between the two sites",
+        "Design mobile-first navigation for both branches"
+      ],
+      "content_strategy": [
+        "Develop audience-specific content for each branch",
+        "Create clear calls-to-action for different user intents",
+        "Implement content personalization based on user journey",
+        "Design conversion-focused landing pages"
+      ],
+      "user_experience": [
+        "Streamline booking processes for each service type",
+        "Create trust signals appropriate for each audience",
+        "Implement progressive disclosure for complex information",
+        "Design accessible interfaces for healthcare context"
+      ]
+    },
+    "technical_recommendations": {
+      "seo_strategy": [
+        "Implement separate domain strategy or clear subdomain structure",
+        "Create distinct keyword strategies for each business branch",
+        "Optimize meta descriptions for target audiences",
+        "Implement structured data for healthcare services"
+      ],
+      "performance": [
+        "Optimize for Core Web Vitals on both sites",
+        "Implement efficient image loading strategies",
+        "Use CDN for faster global content delivery",
+        "Minimize JavaScript for better mobile performance"
+      ],
+      "security_compliance": [
+        "Implement HIPAA compliance measures for patient advocacy",
+        "Use SSL certificates for both domains",
+        "Implement proper data handling for contact forms",
+        "Consider privacy regulations for health-related content"
+      ]
+    },
+    "content_migration_plan": {
+      "movement_website": {
+        "direct_migration": [
+          {
+            "url": "https://umiwellnesscenter.com/",
+            "title": "Home Page - Umi Wellness Center"
+          },
+          {
+            "url": "https://umiwellnesscenter.com/offerings/classes/",
+            "title": "Community Classes - Umi Wellness Center"
+          },
+          {
+            "url": "https://umiwellnesscenter.com/upcoming-umi-events/",
+            "title": "Upcoming Umi Events - Umi Wellness Center"
+          },
+          {
+            "url": "https://umiwellnesscenter.com/rhythms-for-blues/",
+            "title": "Rhythms for Blues - Umi Wellness Center"
+          },
+          {
+            "url": "https://umiwellnesscenter.com/contact-us/",
+            "title": "Contact Us - Umi Wellness Center"
+          }
+        ],
+        "content_to_extract": [
+          {
+            "source_url": "https://umiwellnesscenter.com/community-programs/",
+            "title": "Community Programs - Umi Wellness Center",
+            "movement_sections": [
+              "Community programs are the expression of the members who embody them!"
+            ]
+          },
+          {
+            "source_url": "https://umiwellnesscenter.com/offerings/",
+            "title": "Offerings - Umi Wellness Center",
+            "movement_sections": [
+              "Check out our new weekly and monthly classes HERE. Movement intelligence, music, and the InBody lecture series with special guest speakers."
+            ]
+          },
+          {
+            "source_url": "https://umiwellnesscenter.com/providers/",
+            "title": "Providers - Umi Wellness Center",
+            "movement_sections": [
+              "Clinical & Wellness Providers"
+            ]
+          },
+          {
+            "source_url": "https://umiwellnesscenter.com/staff-volunteers/",
+            "title": "Staff & Volunteers - Umi Wellness Center",
+            "movement_sections": []
+          },
+          {
+            "source_url": "https://umiwellnesscenter.com/roads-we-travel/",
+            "title": "Roads We Travel - Umi Wellness Center",
+            "movement_sections": [
+              "Our wellness philosophy:"
+            ]
+          }
+        ],
+        "new_content_needed": [
+          "Movement philosophy page",
+          "Practitioner credentials and training",
+          "Session types and pricing",
+          "Online booking system"
+        ]
+      },
+      "advocacy_website": {
+        "direct_migration": [
+          {
+            "url": "https://umiwellnesscenter.com/patient-advocacy-consulting/",
+            "title": "Patient Advocacy Consulting - Umi Wellness Center"
+          },
+          {
+            "url": "https://umiwellnesscenter.com/faqs/",
+            "title": "FAQs - Umi Wellness Center"
+          },
+          {
+            "url": "https://umiwellnesscenter.com/how-umi-works/",
+            "title": "How Umi Works - Umi Wellness Center"
+          },
+          {
+            "url": "https://umiwellnesscenter.com/zebra-heard/",
+            "title": "Zebra Heard - Umi Wellness Center"
+          }
+        ],
+        "content_to_extract": [
+          {
+            "source_url": "https://umiwellnesscenter.com/community-programs/",
+            "title": "Community Programs - Umi Wellness Center",
+            "advocacy_sections": []
+          },
+          {
+            "source_url": "https://umiwellnesscenter.com/offerings/",
+            "title": "Offerings - Umi Wellness Center",
+            "advocacy_sections": [
+              "Our core, patient advocacy consulting and health coaching, is in full swing.",
+              "we are adding new free, community programs, online classes and self treatment courses each month.",
+              "All are welcome, because what works for the most sensitive of us is better care for ALL of us."
+            ]
+          },
+          {
+            "source_url": "https://umiwellnesscenter.com/providers/",
+            "title": "Providers - Umi Wellness Center",
+            "advocacy_sections": []
+          },
+          {
+            "source_url": "https://umiwellnesscenter.com/staff-volunteers/",
+            "title": "Staff & Volunteers - Umi Wellness Center",
+            "advocacy_sections": [
+              "Do you enjoy hosting or putting on events? Or supporting from the quiet background? There’s room for you here. Come and give back to the amazing chronic warrior community with support for your gifts."
+            ]
+          },
+          {
+            "source_url": "https://umiwellnesscenter.com/roads-we-travel/",
+            "title": "Roads We Travel - Umi Wellness Center",
+            "advocacy_sections": []
+          }
+        ],
+        "new_content_needed": [
+          "Advocacy process overview",
+          "Client success stories",
+          "Healthcare navigation guides",
+          "Consultation booking system"
+        ]
+      },
+      "shared_elements": {
+        "about_pages": "Create separate about pages highlighting relevant expertise",
+        "contact_info": "Maintain consistent contact information with service-specific forms",
+        "branding": "Develop cohesive but distinct visual identities"
+      }
+    }
+  },
+  "raw_content_data": {
+    "https://umiwellnesscenter.com/": {
+      "url": "https://umiwellnesscenter.com/",
+      "title": "Home Page - Umi Wellness Center",
+      "meta_description": "[et_pb_column type=\"1_5\"",
+      "headings": {
+        "h1": [
+          "Welcome to Umi Wellness Center",
+          "a healing together community",
+          "Inquire about membership here.",
+          "or"
+        ],
+        "h2": [],
+        "h3": [],
+        "h4": [
+          "Have you ever felt out of place in your own body?",
+          "Have you ever walked with a sense that everyone else seems to know more about your body than YOU do?",
+          "You’re not alone.",
+          "This disconnect is not how we are made to live.",
+          "From the skin to the spinal cord, to each beautiful swath of fascia and tissue, our bodies are designed to communicate with our conscious mind in a language beyond words.",
+          "We are made to KNOW ourselves.",
+          "At Umi our mission is to honor the unique mind, body, and spirit of each individual member, from the womb to the beginning of forever.",
+          "With us, start feeling like you’re right where you need to be."
+        ],
+        "h5": [],
+        "h6": []
+      },
+      "body_text": "Welcome to Umi Wellness Center\n\n\n\n\n\n\n\n\n\n\n\na healing together community\n\n\nHave you ever felt out of place in your own body?\nHave you ever walked with a sense that everyone else seems to know more about your body than YOU do?\nYou’re not alone.\nThis disconnect is not how we are made to live.\nFrom the skin to the spinal cord, to each beautiful swath of fascia and tissue, our bodies are designed to communicate with our conscious mind in a language beyond words. \n\nWe are made to KNOW ourselves.\n\nAt Umi our mission is to honor the unique mind, body, and spirit of each individual member, from the womb to the beginning of forever.\nWith us, start feeling like you’re right where you need to be.\n\n\n\n\n\n\nWellness\n\n\n\n\n\nAdvocacy\n\n\n\n\n\nCommunity\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\na private membership association\n\n\n\n\n\n\n\n\nInquire about membership here.\n or\n\n\nApply Online\n\n\n\n\nPlease enable JavaScript in your browser to complete this form.Please enable JavaScript in your browser to complete this form.Name *FirstLastContact NumberEmail *Comment or Message *Submit",
+      "links": [
+        {
+          "url": "https://umiwellnesscenter.com/",
+          "text": "",
+          "is_internal": true,
+          "context": ""
+        },
+        {
+          "url": "https://umiwellnesscenter.com/offerings/classes/",
+          "text": "",
+          "is_internal": true,
+          "context": ""
+        },
+        {
+          "url": "https://umiwellnesscenter.com/patient-advocacy-consulting/",
+          "text": "",
+          "is_internal": true,
+          "context": ""
+        },
+        {
+          "url": "https://umiwellnesscenter.com/community-programs/",
+          "text": "",
+          "is_internal": true,
+          "context": ""
+        },
+        {
+          "url": "http://www.umiwellnesscenter.com/roads-we-travel/",
+          "text": "",
+          "is_internal": false,
+          "context": ""
+        },
+        {
+          "url": "http://www.umiwellnesscenter.com/faqs/",
+          "text": "a private membership association",
+          "is_internal": false,
+          "context": "a private membership association"
+        },
+        {
+          "url": "https://forms.monday.com/forms/d1799ba7dca4c226986e97e424a00bfd?r=use1",
+          "text": "Apply Online",
+          "is_internal": false,
+          "context": "Apply Online"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://umiwellnesscenter.com/wp-content/uploads/2023/09/Umi-Oval-Logo_WebRes.png",
+          "alt": "Umi Wellness Center",
+          "title": "",
+          "context": ""
+        },
+        {
+          "src": "https://i0.wp.com/umiwellnesscenter.com/wp-content/uploads/2023/09/Umi-Logo_NoBkLg_WebRes.png?resize=300%2C282&ssl=1",
+          "alt": "",
+          "title": "Umi Logo_NoBkLg_WebRes",
+          "context": ""
+        },
+        {
+          "src": "https://i0.wp.com/umiwellnesscenter.com/wp-content/uploads/2023/09/Wellness-Icon.png?resize=300%2C300&ssl=1",
+          "alt": "",
+          "title": "Wellness Icon",
+          "context": ""
+        },
+        {
+          "src": "https://i0.wp.com/umiwellnesscenter.com/wp-content/uploads/2023/09/Community-Icon.png?resize=300%2C300&ssl=1",
+          "alt": "",
+          "title": "Community Icon",
+          "context": ""
+        },
+        {
+          "src": "https://i0.wp.com/umiwellnesscenter.com/wp-content/uploads/2023/09/Advocacy-Icon.png?resize=300%2C300&ssl=1",
+          "alt": "",
+          "title": "Advocacy Icon",
+          "context": ""
+        },
+        {
+          "src": "https://i0.wp.com/umiwellnesscenter.com/wp-content/uploads/2024/03/RoadsWeTravelCard.png?resize=918%2C613&ssl=1",
+          "alt": "",
+          "title": "RoadsWeTravelCard",
+          "context": ""
+        },
+        {
+          "src": "https://umiwellnesscenter.com/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg",
+          "alt": "Loading",
+          "title": "",
+          "context": "Submit"
+        }
+      ],
+      "forms": [
+        {
+          "action": "https://umiwellnesscenter.com/",
+          "method": "get",
+          "fields": [
+            {
+              "type": "search",
+              "name": "s",
+              "placeholder": "Search …",
+              "required": false
+            }
+          ],
+          "purpose": "unknown"
+        },
+        {
+          "action": "/",
+          "method": "post",
+          "fields": [
+            {
+              "type": "text",
+              "name": "wpforms[fields][0][first]",
+              "placeholder": "",
+              "required": true
+            },
+            {
+              "type": "text",
+              "name": "wpforms[fields][0][last]",
+              "placeholder": "",
+              "required": true
+            },
+            {
+              "type": "number",
+              "name": "wpforms[fields][3]",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "email",
+              "name": "wpforms[fields][1]",
+              "placeholder": "",
+              "required": true
+            },
+            {
+              "type": "text",
+              "name": "wpforms[fields][2]",
+              "placeholder": "",
+              "required": true
+            },
+            {
+              "type": "hidden",
+              "name": "wpforms[id]",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "page_title",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "page_url",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "url_referer",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "page_id",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "wpforms[post_id]",
+              "placeholder": "",
+              "required": false
+            }
+          ],
+          "purpose": "contact"
+        }
+      ],
+      "navigation_items": [],
+      "call_to_actions": [
+        {
+          "text": "Submit",
+          "type": "button",
+          "url": "",
+          "context": "Submit"
+        }
+      ],
+      "contact_info": [],
+      "services_mentioned": [],
+      "testimonials": [],
+      "dynamic_content": "",
+      "category_analysis": {
+        "movement_score": 2,
+        "advocacy_score": 1,
+        "movement_weight": 10,
+        "advocacy_weight": 1,
+        "movement_density": 0.03289473684210526,
+        "advocacy_density": 0.003289473684210526,
+        "primary_category": "movement",
+        "confidence": 0.8181818181818182,
+        "is_mixed_content": false
+      },
+      "sentiment_analysis": {
+        "polarity": 0.2882367632367633,
+        "subjectivity": 0.5854395604395605,
+        "tone": "positive"
+      },
+      "word_count": 165,
+      "reading_time": 0.825,
+      "analysis_timestamp": "2025-05-23T11:05:31.200283"
+    },
+    "https://umiwellnesscenter.com/offerings/classes/": {
+      "url": "https://umiwellnesscenter.com/offerings/classes/",
+      "title": "Community Classes - Umi Wellness Center",
+      "meta_description": "Group classes offer techniques, fitness, physical therapy foundations, self-treatment and so much more. Suited to health recovery, stability, and preservation of wellness for all bodies!",
+      "headings": {
+        "h1": [
+          "Community Classes",
+          "Our wellness philosophy:",
+          "Why use a club when a feather works even better?",
+          "Inquire about membership here.",
+          "OR"
+        ],
+        "h2": [
+          "“The body says what words cannot.”",
+          "~ Martha Graham ~"
+        ],
+        "h3": [],
+        "h4": [],
+        "h5": [],
+        "h6": []
+      },
+      "body_text": "Community Classes\n\n\n\n\n\n\n\n\n\n“The body says what words cannot.”\n~ Martha Graham ~\n\nGroup classes offer techniques, fitness, physical therapy foundations, self-treatment and so much more. Suited to health recovery, stability, and preservation of wellness for all bodies!\n\n\n\n\n\n\n\nMovement Intelligence:\nFascial Mobility, Movement, and Bones for Life (R).\n\n\n\nThe Road We Travel:\nEducation & Awareness Lectures\n\n\n\nRhythms for Blues: \nMusic, Art and Drama with You in Mind\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nClasses are offered in 6 week or 8 weeks blocks with rest periods between.\nMost classes are designed to be taught online! Join from the comfort of your home.\n\nMedia Release Form\n\n\n\nOur wellness philosophy:\nWhy use a club when a feather works even better?\n\nWe design our classes to specially fit those with complex health challenges like:\nEhlers-Danlos Syndromes/Hypermobile spectrum Disorder\nGenetic disorders\nEhlers-Danlos Syndromes\nFibromyalgia\nChronic fatigue\nCancer\nand\nAutoimmune Conditions\nThis thoughtfulness of nuance in our offerings make them MORE than suitable for all. the details of creating work for the most challenging bodies speaks deeply and more effectively to all bodies.\n\n\n\nSee our community calendar or events page for upcoming activities!\nSome classes are for Umi Members only. Our unique model allows providers and teachers to work across state lines, among other benefits. Find out more about our membership model here.\n\n\n\n\n\na private membership association\n\n\n\n\n\n\n\n\nInquire about membership here.\n OR\n\n\nApply Online\n\n\n\n\nPlease enable JavaScript in your browser to complete this form.Please enable JavaScript in your browser to complete this form.Name *FirstLastContact NumberEmail *Comment or Message *Submit",
+      "links": [
+        {
+          "url": "https://umiwellnesscenter.com/",
+          "text": "",
+          "is_internal": true,
+          "context": ""
+        },
+        {
+          "url": "http://www.umiwellnesscenter.com/umi-moves/",
+          "text": "Movement Intelligence:",
+          "is_internal": false,
+          "context": "Movement Intelligence:"
+        },
+        {
+          "url": "http://www.umiwellnesscenter.com/umi-moves/",
+          "text": "Fascial Mobility, Movement, and Bones for Life (R).",
+          "is_internal": false,
+          "context": "Fascial Mobility, Movement, and Bones for Life (R)."
+        },
+        {
+          "url": "http://www.umiwellnesscenter.com/roads-we-travel",
+          "text": "The Road We Travel:",
+          "is_internal": false,
+          "context": "The Road We Travel:"
+        },
+        {
+          "url": "http://www.umiwellnesscenter.com/roads-we-travel",
+          "text": "Education & Awareness Lectures",
+          "is_internal": false,
+          "context": "Education & Awareness Lectures"
+        },
+        {
+          "url": "http://www.umiwellnesscenter.com/rhythms-for-blues/",
+          "text": "Rhythms for Blues:",
+          "is_internal": false,
+          "context": "Rhythms for Blues:"
+        },
+        {
+          "url": "http://www.umiwellnesscenter.com/rhythms-for-blues/",
+          "text": "Music, Art and Drama with You in Mind",
+          "is_internal": false,
+          "context": "Music, Art and Drama with You in Mind"
+        },
+        {
+          "url": "http://www.umiwellnesscenter.com/umi-moves/",
+          "text": "",
+          "is_internal": false,
+          "context": ""
+        },
+        {
+          "url": "http://www.umiwellnesscenter.com/roads-we-travel/",
+          "text": "",
+          "is_internal": false,
+          "context": ""
+        },
+        {
+          "url": "http://www.umiwellnesscenter.com/Rhythms-for-blues/",
+          "text": "",
+          "is_internal": false,
+          "context": ""
+        },
+        {
+          "url": "https://wkf.ms/3SZGO7m",
+          "text": "Media Release Form",
+          "is_internal": false,
+          "context": "Media Release Form"
+        },
+        {
+          "url": "http://www.umiwellnesscenter.com/umi-calendar/",
+          "text": "community calendar",
+          "is_internal": false,
+          "context": "See our community calendar or events page for upcoming activities!"
+        },
+        {
+          "url": "http://www.umiwellnesscenter.com/upcoming-umi-events/",
+          "text": "events page",
+          "is_internal": false,
+          "context": "See our community calendar or events page for upcoming activities!"
+        },
+        {
+          "url": "http://www.umiwellnesscenter.com/faqs/",
+          "text": "our membership model here.",
+          "is_internal": false,
+          "context": "Some classes are for Umi Members only. Our unique model allows providers and teachers to work across state lines, among other benefits. Find out more about our membership model here."
+        },
+        {
+          "url": "http://www.umiwellnesscenter.com/faqs/",
+          "text": "a private membership association",
+          "is_internal": false,
+          "context": "a private membership association"
+        },
+        {
+          "url": "https://forms.monday.com/forms/d1799ba7dca4c226986e97e424a00bfd?r=use1",
+          "text": "Apply Online",
+          "is_internal": false,
+          "context": "Apply Online"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://umiwellnesscenter.com/wp-content/uploads/2023/09/Umi-Oval-Logo_WebRes.png",
+          "alt": "Umi Wellness Center",
+          "title": "",
+          "context": ""
+        },
+        {
+          "src": "https://i0.wp.com/umiwellnesscenter.com/wp-content/uploads/2024/03/UmiMovesSpring.png?resize=918%2C616&ssl=1",
+          "alt": "",
+          "title": "UmiMovesSpring",
+          "context": ""
+        },
+        {
+          "src": "https://i0.wp.com/umiwellnesscenter.com/wp-content/uploads/2024/03/RoadsWeTravelCard.png?resize=918%2C613&ssl=1",
+          "alt": "",
+          "title": "RoadsWeTravelCard",
+          "context": ""
+        },
+        {
+          "src": "https://i0.wp.com/umiwellnesscenter.com/wp-content/uploads/2024/01/AdobeStock_317574354.jpeg?resize=300%2C200&ssl=1",
+          "alt": "",
+          "title": "In living room african father dancing with little daughter",
+          "context": ""
+        },
+        {
+          "src": "https://umiwellnesscenter.com/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg",
+          "alt": "Loading",
+          "title": "",
+          "context": "Submit"
+        }
+      ],
+      "forms": [
+        {
+          "action": "https://umiwellnesscenter.com/",
+          "method": "get",
+          "fields": [
+            {
+              "type": "search",
+              "name": "s",
+              "placeholder": "Search …",
+              "required": false
+            }
+          ],
+          "purpose": "unknown"
+        },
+        {
+          "action": "/offerings/classes/",
+          "method": "post",
+          "fields": [
+            {
+              "type": "text",
+              "name": "wpforms[fields][0][first]",
+              "placeholder": "",
+              "required": true
+            },
+            {
+              "type": "text",
+              "name": "wpforms[fields][0][last]",
+              "placeholder": "",
+              "required": true
+            },
+            {
+              "type": "number",
+              "name": "wpforms[fields][3]",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "email",
+              "name": "wpforms[fields][1]",
+              "placeholder": "",
+              "required": true
+            },
+            {
+              "type": "text",
+              "name": "wpforms[fields][2]",
+              "placeholder": "",
+              "required": true
+            },
+            {
+              "type": "hidden",
+              "name": "wpforms[id]",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "page_title",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "page_url",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "url_referer",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "page_id",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "wpforms[post_id]",
+              "placeholder": "",
+              "required": false
+            }
+          ],
+          "purpose": "contact"
+        }
+      ],
+      "navigation_items": [],
+      "call_to_actions": [
+        {
+          "text": "Submit",
+          "type": "button",
+          "url": "",
+          "context": "Submit"
+        }
+      ],
+      "contact_info": [],
+      "services_mentioned": [],
+      "testimonials": [],
+      "dynamic_content": "",
+      "category_analysis": {
+        "movement_score": 8,
+        "advocacy_score": 2,
+        "movement_weight": 17,
+        "advocacy_weight": 3,
+        "movement_density": 0.05519480519480519,
+        "advocacy_density": 0.00974025974025974,
+        "primary_category": "movement",
+        "confidence": 0.7,
+        "is_mixed_content": false
+      },
+      "sentiment_analysis": {
+        "polarity": 0.30499999999999994,
+        "subjectivity": 0.5471428571428572,
+        "tone": "positive"
+      },
+      "word_count": 247,
+      "reading_time": 1.235,
+      "analysis_timestamp": "2025-05-23T11:05:35.029368"
+    },
+    "https://umiwellnesscenter.com/patient-advocacy-consulting/": {
+      "url": "https://umiwellnesscenter.com/patient-advocacy-consulting/",
+      "title": "Patient Advocacy Consulting - Umi Wellness Center",
+      "meta_description": "",
+      "headings": {
+        "h1": [
+          "Patient Advocacy Consulting",
+          "What is Patient Advocacy?",
+          "Can you still help with paperwork?",
+          "The Umi Purpose",
+          "Inquire about membership here.",
+          "or"
+        ],
+        "h2": [],
+        "h3": [],
+        "h4": [],
+        "h5": [],
+        "h6": []
+      },
+      "body_text": "Patient Advocacy Consulting\n\n\n\n\n\n\n\n\nEDS & HSD Resources\n\n\n\nApply Today\n\n\n\nWhat is Patient Advocacy?\nPatient Advocacy has many hats in the medical community, and many incredible people dedicate hours of their day to these general services.\nPatient Advocacy Consulting at Umi is different. Here, we aren’t just navigating insurance paperwork or recommending the first doctor on our list. We LEARN you, and strive to guide you to people, answers and care you can trust.\nWe’ll start with a medical history and life history oriented around your needs and goals. We will listen to your story and help you feel seen and heard, so you can listen to your own body clearly and BELIEVE what you hear.\nThen, we will help guide you to people, answers, and care you can trust. But we don’t stope here. We will work with you before each new appointment to track symptoms, process possible outcomes and treatments, and prepare notes for you to take with you so you can REMEMBER what you want to say.\nNot only do we train for this, and study avidly to stay current on as many traditional, integrative and alternative options as we can we:\n\nBuild relationships with care providers in your area. \nSpend extra time and energy to listen to fellow patients about their experiences.\nAnd frequently have first hand experience of the conditions we specialize in. \n\nWhen you leave the doctor’s office feeling small, insignificant and confused, wishing you had remembered that one question or wondering if it is your fault that they can’t figure out what’s going on, Umi advocates are there to help you stand tall again. Or sit, or lay down! With pride and peace.\n\n\n\n\nCan you still help with paperwork?\nYes. We do everything else you have heard patient advocates do! But when we find you a physician we will vet them ahead of time concerning your condition and needs, study ways to best communicate with them as another unique individual in a complex process, help prepare you for the visit, and follow up after words to pursue your satisfaction and make sure your needs have actually been met.\nWhen we organize physician notes will pay close attention to errors, signs of possible misunderstanding, and even outright differences between your experience and that of the physician so you don’t have to spend a minute more than necessary with someone who isn’t truly listening to you. \nThe Umi Purpose\nWe do all this and SO much more within the freedom of our private membership association. Our advocates will create space for you to process your fears, anxiety, and concerns with thoughtfulness. They can also be a sounding board for your own process and creative ideas without consequences to your overall care.\nKnowing yourself and your body isn’t a privilege others should have while you are forced to observe from a distance. It is a gift to be loved, treasured and enjoyed. To be known by you.\n\n\n\n\nLearn More About:\nFAQs\nHow Umi Works\nOfferings\nCommunity Programs\nPatient Advocacy\nProviders\nStaff\nUmi Events\n\n\n\n\n\n\na private membership association\n\n\n\n\n\n\n\n\n\nInquire about membership here.\n or\n\n\nApply Online\n\n\n\n\nPlease enable JavaScript in your browser to complete this form.Please enable JavaScript in your browser to complete this form.Name *FirstLastContact NumberEmail *Comment or Message *Submit",
+      "links": [
+        {
+          "url": "https://umiwellnesscenter.com/",
+          "text": "",
+          "is_internal": true,
+          "context": ""
+        },
+        {
+          "url": "http://www.rachelleepac.com/patient-resources/",
+          "text": "",
+          "is_internal": false,
+          "context": ""
+        },
+        {
+          "url": "https://form.jotform.com/232746488606063",
+          "text": "Apply Today",
+          "is_internal": false,
+          "context": "Apply Today"
+        },
+        {
+          "url": "https://umiwellnesscenter.com/faqs/",
+          "text": "FAQs",
+          "is_internal": true,
+          "context": "FAQs"
+        },
+        {
+          "url": "https://umiwellnesscenter.com/how-umi-works/",
+          "text": "How Umi Works",
+          "is_internal": true,
+          "context": "How Umi Works"
+        },
+        {
+          "url": "https://umiwellnesscenter.com/offerings/",
+          "text": "Offerings",
+          "is_internal": true,
+          "context": "Offerings"
+        },
+        {
+          "url": "https://umiwellnesscenter.com/community-programs/",
+          "text": "Community Programs",
+          "is_internal": true,
+          "context": "Community Programs"
+        },
+        {
+          "url": "https://umiwellnesscenter.com/patient-advocacy-consulting/",
+          "text": "Patient Advocacy",
+          "is_internal": true,
+          "context": "Patient Advocacy"
+        },
+        {
+          "url": "https://umiwellnesscenter.com/providers/",
+          "text": "Providers",
+          "is_internal": true,
+          "context": "Providers"
+        },
+        {
+          "url": "https://umiwellnesscenter.com/staff-volunteers/",
+          "text": "Staff",
+          "is_internal": true,
+          "context": "Staff"
+        },
+        {
+          "url": "http://www.umiwellnesscenter.com/upcoming-umi-events/",
+          "text": "Umi Events",
+          "is_internal": false,
+          "context": "Umi Events"
+        },
+        {
+          "url": "http://www.umiwellnesscenter.com/faqs/",
+          "text": "a private membership association",
+          "is_internal": false,
+          "context": "a private membership association"
+        },
+        {
+          "url": "https://forms.monday.com/forms/d1799ba7dca4c226986e97e424a00bfd?r=use1",
+          "text": "Apply Online",
+          "is_internal": false,
+          "context": "Apply Online"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://umiwellnesscenter.com/wp-content/uploads/2023/09/Umi-Oval-Logo_WebRes.png",
+          "alt": "Umi Wellness Center",
+          "title": "",
+          "context": ""
+        },
+        {
+          "src": "https://i0.wp.com/umiwellnesscenter.com/wp-content/uploads/2023/09/Advocacy-Icon.png?resize=150%2C150&ssl=1",
+          "alt": "",
+          "title": "Advocacy Icon",
+          "context": ""
+        },
+        {
+          "src": "https://i0.wp.com/umiwellnesscenter.com/wp-content/uploads/2023/11/lensball-6299282_1280.jpg?resize=200%2C300&ssl=1",
+          "alt": "",
+          "title": "lensball-6299282_1280",
+          "context": ""
+        },
+        {
+          "src": "https://umiwellnesscenter.com/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg",
+          "alt": "Loading",
+          "title": "",
+          "context": "Submit"
+        }
+      ],
+      "forms": [
+        {
+          "action": "https://umiwellnesscenter.com/",
+          "method": "get",
+          "fields": [
+            {
+              "type": "search",
+              "name": "s",
+              "placeholder": "Search …",
+              "required": false
+            }
+          ],
+          "purpose": "unknown"
+        },
+        {
+          "action": "/patient-advocacy-consulting/",
+          "method": "post",
+          "fields": [
+            {
+              "type": "text",
+              "name": "wpforms[fields][0][first]",
+              "placeholder": "",
+              "required": true
+            },
+            {
+              "type": "text",
+              "name": "wpforms[fields][0][last]",
+              "placeholder": "",
+              "required": true
+            },
+            {
+              "type": "number",
+              "name": "wpforms[fields][3]",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "email",
+              "name": "wpforms[fields][1]",
+              "placeholder": "",
+              "required": true
+            },
+            {
+              "type": "text",
+              "name": "wpforms[fields][2]",
+              "placeholder": "",
+              "required": true
+            },
+            {
+              "type": "hidden",
+              "name": "wpforms[id]",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "page_title",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "page_url",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "url_referer",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "page_id",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "wpforms[post_id]",
+              "placeholder": "",
+              "required": false
+            }
+          ],
+          "purpose": "contact"
+        }
+      ],
+      "navigation_items": [],
+      "call_to_actions": [
+        {
+          "text": "Submit",
+          "type": "button",
+          "url": "",
+          "context": "Submit"
+        }
+      ],
+      "contact_info": [],
+      "services_mentioned": [],
+      "testimonials": [],
+      "dynamic_content": "",
+      "category_analysis": {
+        "movement_score": 2,
+        "advocacy_score": 9,
+        "movement_weight": 3,
+        "advocacy_weight": 32,
+        "movement_density": 0.005263157894736842,
+        "advocacy_density": 0.056140350877192984,
+        "primary_category": "advocacy",
+        "confidence": 0.8285714285714286,
+        "is_mixed_content": false
+      },
+      "sentiment_analysis": {
+        "polarity": 0.19359791092745635,
+        "subjectivity": 0.5405073461891644,
+        "tone": "positive"
+      },
+      "word_count": 542,
+      "reading_time": 2.71,
+      "analysis_timestamp": "2025-05-23T11:05:36.215957"
+    },
+    "https://umiwellnesscenter.com/community-programs/": {
+      "url": "https://umiwellnesscenter.com/community-programs/",
+      "title": "Community Programs - Umi Wellness Center",
+      "meta_description": "",
+      "headings": {
+        "h1": [
+          "Community Programs",
+          "Inquire about membership here.",
+          "OR"
+        ],
+        "h2": [
+          "Community programs are the expression of the members who embody them!",
+          "Programs are free to members and protected by membership.",
+          "For more information, please submit an inquiry below."
+        ],
+        "h3": [],
+        "h4": [],
+        "h5": [],
+        "h6": []
+      },
+      "body_text": "Community Programs\n\n\n\n\n\n\n\n\nCommunity programs are the expression of the members who embody them!\nPrograms are free to members and protected by membership.\nFor more information, please submit an inquiry below.\n\n\n\n\n\nSupport Groups\n\n\n\nMember Clubs\n\n\n\nPear UP! – Peer to Peer Support\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMeditation & Prayer\n\n\n\n\n\nArts/Music/Theater\n\n\n\n\n\nTrauma Recovery\n\n\n\n\n\n\n\na private membership association\n\n\n\n\n\n\n\n\nInquire about membership here.\n OR\n\n\nApply Online\n\n\n\n\nPlease enable JavaScript in your browser to complete this form.Please enable JavaScript in your browser to complete this form.Name *FirstLastContact NumberEmail *Comment or Message *Submit",
+      "links": [
+        {
+          "url": "https://umiwellnesscenter.com/",
+          "text": "",
+          "is_internal": true,
+          "context": ""
+        },
+        {
+          "url": "http://www.umiwellnesscenter.com/faqs/",
+          "text": "a private membership association",
+          "is_internal": false,
+          "context": "a private membership association"
+        },
+        {
+          "url": "https://forms.monday.com/forms/d1799ba7dca4c226986e97e424a00bfd?r=use1",
+          "text": "Apply Online",
+          "is_internal": false,
+          "context": "Apply Online"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://umiwellnesscenter.com/wp-content/uploads/2023/09/Umi-Oval-Logo_WebRes.png",
+          "alt": "Umi Wellness Center",
+          "title": "",
+          "context": ""
+        },
+        {
+          "src": "https://i0.wp.com/umiwellnesscenter.com/wp-content/uploads/2023/11/hands-718561_1280.jpg?resize=150%2C150&ssl=1",
+          "alt": "",
+          "title": "hands-718561_1280",
+          "context": ""
+        },
+        {
+          "src": "https://i0.wp.com/umiwellnesscenter.com/wp-content/uploads/2023/11/cooperate-2924372_1280.jpg?resize=150%2C150&ssl=1",
+          "alt": "",
+          "title": "cooperate-2924372_1280",
+          "context": ""
+        },
+        {
+          "src": "https://i0.wp.com/umiwellnesscenter.com/wp-content/uploads/2023/11/transformation-857734_1280-1.jpg?resize=150%2C150&ssl=1",
+          "alt": "",
+          "title": "transformation-857734_1280 (1)",
+          "context": ""
+        },
+        {
+          "src": "https://i0.wp.com/umiwellnesscenter.com/wp-content/uploads/2023/11/meditation-567593_1280.jpg?resize=150%2C150&ssl=1",
+          "alt": "",
+          "title": "meditation-567593_1280",
+          "context": ""
+        },
+        {
+          "src": "https://i0.wp.com/umiwellnesscenter.com/wp-content/uploads/2023/11/enthusiastic-1840031_1280.jpg?resize=150%2C150&ssl=1",
+          "alt": "",
+          "title": "enthusiastic-1840031_1280",
+          "context": ""
+        },
+        {
+          "src": "https://i0.wp.com/umiwellnesscenter.com/wp-content/uploads/2023/11/depression-1250897_1280.jpg?resize=150%2C150&ssl=1",
+          "alt": "",
+          "title": "depression-1250897_1280",
+          "context": ""
+        },
+        {
+          "src": "https://umiwellnesscenter.com/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg",
+          "alt": "Loading",
+          "title": "",
+          "context": "Submit"
+        }
+      ],
+      "forms": [
+        {
+          "action": "https://umiwellnesscenter.com/",
+          "method": "get",
+          "fields": [
+            {
+              "type": "search",
+              "name": "s",
+              "placeholder": "Search …",
+              "required": false
+            }
+          ],
+          "purpose": "unknown"
+        },
+        {
+          "action": "/community-programs/",
+          "method": "post",
+          "fields": [
+            {
+              "type": "text",
+              "name": "wpforms[fields][0][first]",
+              "placeholder": "",
+              "required": true
+            },
+            {
+              "type": "text",
+              "name": "wpforms[fields][0][last]",
+              "placeholder": "",
+              "required": true
+            },
+            {
+              "type": "number",
+              "name": "wpforms[fields][3]",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "email",
+              "name": "wpforms[fields][1]",
+              "placeholder": "",
+              "required": true
+            },
+            {
+              "type": "text",
+              "name": "wpforms[fields][2]",
+              "placeholder": "",
+              "required": true
+            },
+            {
+              "type": "hidden",
+              "name": "wpforms[id]",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "page_title",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "page_url",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "url_referer",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "page_id",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "wpforms[post_id]",
+              "placeholder": "",
+              "required": false
+            }
+          ],
+          "purpose": "contact"
+        }
+      ],
+      "navigation_items": [],
+      "call_to_actions": [
+        {
+          "text": "Submit",
+          "type": "button",
+          "url": "",
+          "context": "Submit"
+        }
+      ],
+      "contact_info": [],
+      "services_mentioned": [],
+      "testimonials": [],
+      "dynamic_content": "",
+      "category_analysis": {
+        "movement_score": 2,
+        "advocacy_score": 1,
+        "movement_weight": 3,
+        "advocacy_weight": 2,
+        "movement_density": 0.024193548387096774,
+        "advocacy_density": 0.016129032258064516,
+        "primary_category": "movement",
+        "confidence": 0.2,
+        "is_mixed_content": true
+      },
+      "sentiment_analysis": {
+        "polarity": 0.24500000000000002,
+        "subjectivity": 0.495,
+        "tone": "positive"
+      },
+      "word_count": 83,
+      "reading_time": 0.415,
+      "analysis_timestamp": "2025-05-23T11:05:39.111054"
+    },
+    "https://umiwellnesscenter.com/faqs/": {
+      "url": "https://umiwellnesscenter.com/faqs/",
+      "title": "FAQs - Umi Wellness Center",
+      "meta_description": "",
+      "headings": {
+        "h1": [
+          "Umi FAQs",
+          "Inquire about membership here.",
+          "OR"
+        ],
+        "h2": [],
+        "h3": [],
+        "h4": [],
+        "h5": [],
+        "h6": []
+      },
+      "body_text": "Umi FAQs\n\n\n\n\n\nWhat conditions do you care for?  Many! We don’t care for conditions, we care for people and the body’s that call them home.  While we can inspire you with wellness coaching, fitness, nutrition and unique classes that grow and shape you inside and out, we are particularly known for our knowledge and ability to care for complex and multi system conditions that are most often misdiagnosed and misunderstood.  Conditions like Ehlers-Danlos Syndromes, Fibromyalgia, or bizarre expression of sero-negative rheumatoid arthritis.\nMedical conditions like connective tissue disorders and fibromyalgia can have very mild expression, or advance suddenly and take the patient by surprise. If you are coming to us in one of these surprises our Navigator’s will connect you with an advocacy consultant as quickly as possible. If you are in-between knowing and not knowing, we are here for you right were you are and will help get you where you need to be.\n\nCan my family come too? Absolutely. Many challenges to our wellness are hereditary and we understand that one of the biggest fears of a parent is “What if my children or loved ones have this?” Bring your spouse, your partner, your caregivers. The space is for children, too (we’ll have ours there!), where they can meet with other kids with shared experiences, or a compassionate mentor to help them talk through what it means to have a chronic condition and still find joy in life. Our special family days will allow mamas and daddies to get care peacefully while children play and learn with one of our talented teachers and do art, breathe work, reading games, movement fun, gardening and so much more.\n\nI don’t think I have complex condition but I’m looking something different for my health and community. Can I join? Yes! We are passionate about sustaining health and being with you whether you are struggling in mind, body or spirit, or just need the kind of community where you can feel heard, respected and supported as a whole person. We believe in healing the disconnect between our bodies and sense of self that is so subconsciously perpetuated in modern medicine. That you must only observe yourself while others have the privilege of knowing and understanding you, and telling you what to do about it.\nUmi can be a place for you to BE, care for yourself and your family, friends, children or pets, and feel your best affordably and meaningfully.\n\n\n\nWhat about my anxiety? I have PTSD from how I’ve been treated by the medical community. You’re not alone. This is a safe place. Not only will you find a community full of kindred spirits working towards their own recovery, from medical trauma to physical, psychological trauma, and more, you will find Joy. We will be networking with wonderful Mental Health Providers to grow a group of counselors who know what you’re going through almost, or just as well as, you do.  We’re also setting up community trauma recovery programs where you can process your story through writing, art, movement or meditation and prayer, and begin to heal on your own gentle terms.\n\nMy medical care is a mess, papers everywhere, so much testing and lab work. I don’t know how to handle it all. I’m scared that if people knew all the things that I’ve been through that they’ll think I’m making this up! We’ve been there too. We’re partnering with Rachel Lee Patient Advocacy to train skilled patient advocates who know the nuances of your condition(s), and community Navigators who will be able to help organize your medical history, put together the big picture, and even come with you to appointments at the Center and help take notes, recall all the questions you want to ask, and then sit with you afterwards to process what needs to be done.\n\n\n\nWhat is a Private Membership Association (PMA)?  A PMA is a unique, unincorporated business model that allows for incredible creativity, free will and service for its members. It is completely in the private sphere and as such can be designed based on REAL NEEDS rather than beurocracy.  Think of Umi a bit like an exclusive club. But instead of charging you like a fancy club, we are using this special model to keep our costs lower than is possible with other business models, while raising the standard of care beyond excellence and into the realm of personal, unique neeeds of overlooked and marginalized communities. The PMA community is maintained by a trustee or trustees who are members, and services are provided by other members of that same community.\nWhen you join Umi, you affirm as a private individual, with inalienable rights protected by the Constitution and our legal advocacy team the following: 1. your right to chose your own medical care. 2. The right to choose your own treatment plan and modalities. 3. Your right to choose your own providers to meet these needs.\n\n\n\n\nWe chose the PMA model because it reflects our desire to create a community with real freedom. Not just for our providers to give skilled care and therapies affordably, but for our members to be able to truly be themselves. Second, it represents our desire to engage with the most difficult cases, not just easy ones for a quick buck.\n\n\n\nWhat does it cost? Our membership fee is small, and lasts a lifetime. No monthly or even annual fees that you do not choose. Our offerings are available as needed, or as a part of a variety of subscriptions that allow for discounted services throughout the entire center. You can choose a predesigned bundle, or work with a Navigator to create specialty subscriptions built around what you specifically need NOW that will allow you to get the care you need right away, and also have time to pay for it.  We will not be in network with insurance companies, but we will provide superbills for services your insurance covers, and support to help you learn to file with your insurance company. We never want cost to be the reason you can’t have the help you need. Visit our How Umi Works page for details on membership!\n\nI’m in a financial crisis from health, or caring for someone with many needs and we can’t afford anything right now. We want to help. Let us know what you are going through honestly and we will do everything we can to give you support to get better. Why? Because we believe in what we’re offering!  Let us help you get stable so that you can go back to work, or find a new job you can love that doesn’t compromise you’re health.  And if that isn’t enough, we are developing a special Umi Care Fund for the men, women, and children who need it most. For those who qualify for severe financial distress and below poverty income, you may apply for support from this fund and receive the services you need to help get out of crisis and improve you’re quality of life. For more details call us today. \n\n\n\n\n\n\n\n\nInquire about membership here.\n OR\n\n\nApply Online\n\n\n\n\nPlease enable JavaScript in your browser to complete this form.Please enable JavaScript in your browser to complete this form.Name *FirstLastContact NumberEmail *Comment or Message *Submit",
+      "links": [
+        {
+          "url": "https://umiwellnesscenter.com/",
+          "text": "",
+          "is_internal": true,
+          "context": ""
+        },
+        {
+          "url": "https://umiwellnesscenter.com/patient-advocacy-consulting/",
+          "text": "advocacy consultant",
+          "is_internal": true,
+          "context": "Medical conditions like connective tissue disorders and fibromyalgia can have very mild expression, or advance suddenly and take the patient by surprise. If you are coming to us in one of these surpri"
+        },
+        {
+          "url": "http://www.umiwellnesscenter.com/community-programs/",
+          "text": "community trauma recovery programs",
+          "is_internal": false,
+          "context": "What about my anxiety? I have PTSD from how I’ve been treated by the medical community. You’re not alone. This is a safe place. Not only will you find a community full of kindred spirits working towar"
+        },
+        {
+          "url": "https://umiwellnesscenter.com/faqs/www.rachelleepac.com",
+          "text": "Rachel Lee Patient Advocacy",
+          "is_internal": true,
+          "context": "My medical care is a mess, papers everywhere, so much testing and lab work. I don’t know how to handle it all. I’m scared that if people knew all the things that I’ve been through that they’ll think I"
+        },
+        {
+          "url": "https://umiwellnesscenter.com/how-umi-works/",
+          "text": "How Umi Works",
+          "is_internal": true,
+          "context": "What does it cost? Our membership fee is small, and lasts a lifetime. No monthly or even annual fees that you do not choose. Our offerings are available as needed, or as a part of a variety of subscri"
+        },
+        {
+          "url": "https://forms.monday.com/forms/d1799ba7dca4c226986e97e424a00bfd?r=use1",
+          "text": "Apply Online",
+          "is_internal": false,
+          "context": "Apply Online"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://umiwellnesscenter.com/wp-content/uploads/2023/09/Umi-Oval-Logo_WebRes.png",
+          "alt": "Umi Wellness Center",
+          "title": "",
+          "context": ""
+        },
+        {
+          "src": "https://i0.wp.com/umiwellnesscenter.com/wp-content/uploads/2023/08/book-g0c682d9cf_1280.jpg?resize=300%2C176&ssl=1",
+          "alt": "",
+          "title": "book-g0c682d9cf_1280",
+          "context": ""
+        },
+        {
+          "src": "https://umiwellnesscenter.com/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg",
+          "alt": "Loading",
+          "title": "",
+          "context": "Submit"
+        }
+      ],
+      "forms": [
+        {
+          "action": "https://umiwellnesscenter.com/",
+          "method": "get",
+          "fields": [
+            {
+              "type": "search",
+              "name": "s",
+              "placeholder": "Search …",
+              "required": false
+            }
+          ],
+          "purpose": "unknown"
+        },
+        {
+          "action": "/faqs/",
+          "method": "post",
+          "fields": [
+            {
+              "type": "text",
+              "name": "wpforms[fields][0][first]",
+              "placeholder": "",
+              "required": true
+            },
+            {
+              "type": "text",
+              "name": "wpforms[fields][0][last]",
+              "placeholder": "",
+              "required": true
+            },
+            {
+              "type": "number",
+              "name": "wpforms[fields][3]",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "email",
+              "name": "wpforms[fields][1]",
+              "placeholder": "",
+              "required": true
+            },
+            {
+              "type": "text",
+              "name": "wpforms[fields][2]",
+              "placeholder": "",
+              "required": true
+            },
+            {
+              "type": "hidden",
+              "name": "wpforms[id]",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "page_title",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "page_url",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "url_referer",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "page_id",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "wpforms[post_id]",
+              "placeholder": "",
+              "required": false
+            }
+          ],
+          "purpose": "contact"
+        }
+      ],
+      "navigation_items": [],
+      "call_to_actions": [
+        {
+          "text": "Submit",
+          "type": "button",
+          "url": "",
+          "context": "Submit"
+        }
+      ],
+      "contact_info": [],
+      "services_mentioned": [],
+      "testimonials": [],
+      "dynamic_content": "",
+      "category_analysis": {
+        "movement_score": 5,
+        "advocacy_score": 9,
+        "movement_weight": 9,
+        "advocacy_weight": 36,
+        "movement_density": 0.007358953393295176,
+        "advocacy_density": 0.029435813573180702,
+        "primary_category": "advocacy",
+        "confidence": 0.6,
+        "is_mixed_content": false
+      },
+      "sentiment_analysis": {
+        "polarity": 0.2440203099081604,
+        "subjectivity": 0.48427701581907184,
+        "tone": "positive"
+      },
+      "word_count": 1211,
+      "reading_time": 6.055,
+      "analysis_timestamp": "2025-05-23T11:05:40.927291"
+    },
+    "https://umiwellnesscenter.com/how-umi-works/": {
+      "url": "https://umiwellnesscenter.com/how-umi-works/",
+      "title": "How Umi Works - Umi Wellness Center",
+      "meta_description": "",
+      "headings": {
+        "h1": [
+          "Healing Together",
+          "Membership: How Umi Works",
+          "Why Membership?",
+          "Membership Benefits",
+          "Step 1: Apply!",
+          "Step 2: Sign & Send!",
+          "Step 3: Affirming Membership",
+          "Meeting with a Navigator",
+          "Visit a New Member Class!",
+          "Have questions?",
+          "Our Mission: to Leap!",
+          "L – Learn Continually",
+          "E – Engage Relationally",
+          "A – Attach with Joy",
+          "P – Play! Always.",
+          "Onward…",
+          "Inquire about membership here.",
+          "or"
+        ],
+        "h2": [],
+        "h3": [],
+        "h4": [],
+        "h5": [],
+        "h6": []
+      },
+      "body_text": "Healing Together \n\n\n\n\n\n\n\n\nMembership: How Umi Works\n\n\n\n\n\nCurious and want to learn more?\nDrop in to one of our new member classes! Offered every second Tuesday of each month via Zoom. Just email a request to our office at office@umiwellnesscenter.com or fill out an inquiry below. \nview dates and times on our community calendar. \n\n\n\nWhy Membership?\nUmi is a 1st and 14th Amendment Private Membership Association: a unique business model in the US that combines for-profit sustainability with non-profit spirit and some of the best protections for our members and providers available.\nNot only does PMA status allow us to offer services anywhere in the US from anywhere else in the US, it saves valuable time and money that we can put back into the community.\nMembership Benefits\nHere are a few of the benefits of membership at Umi.\n\n\n\n\n\nAccess to all Community Programs for free!\nAccess to all services, classes, programs, and events.\nAccess to community spaces [as they exist] at no extra cost.\nThe option to apply for financial support for services based on low income and/or financial distress.\nDiscounts and special promotions.\nAccess to information and support from Navigators, including reasonable observation and playtime with children during caregiver’s appointments.\n\n\n\n\n\n\n\n\nStep 1: Apply!\nOur application is very simple, and speaks to the heart of your story, needs and interest. It helps us get to know you.  Take a look here!\nOnce your application is affirmed, you will receive an email welcoming you to the center, sending a couple forms (see below) and your next steps.\nStep 2: Sign & Send! \nSign your membership contract, your legal protections*, and community covenant. Then email them in, then pay your one-time membership fee.\nMembership fees are lifetime – only pay once. Here’s the breakdown:\n\n\n\n\n\nIndividual $75.00\nFamilies of 2 or more joining together – $60.00/person\nLow Income/Financial Distress – $45.00\n\n\n\n\n\n*The protections of a private membership association are legally sealed by the financial transaction of joining members. It provides hard evidence for any federal or state institutions that would seek to limit our activates or gather fees for our activities.\nIf you feel you are in our low income or financial crisis category, give details to your Navigator or Advocate, and our office staff will specifically contact you to help get approval for the lower membership fee rate.\nStep 3: Affirming Membership\nOnce we receive your signed contract as a .pdf or scanned copy, it will be reviewed by the office of the Director for a final affirming signature.\nCongratulations! You’re now a member of the Umi Family!!!\nLet’s get you settled in.\nMeeting with a Navigator\nWe are here to serve you. A Navigator or Advocate will call or set up an online appointment to learn more about your needs.\nVisit a New Member Class!\nThese classes are offered monthly through the school year. They provide an opportunity for the community to meet other members, talk with advocates, and learn about how we embody our Code of Conduct and community acronyms. Info here.\nHave questions?\nWe are here for you! Send us an inquiry below and one of our Navigators (staff trained to help guide you through the center from here forward) will reach out to talk with you.  They can meet over the phone, online, even in person.\n\nOur Mission: to Leap!\nL – Learn Continually\nE – Engage Relationally\nA – Attach with Joy\nP – Play! Always.\n\n\n\nOnward…\n\n\n\nLearn More About:\nFAQs\nHow Umi Works\nOfferings\nCommunity Programs\nPatient Advocacy\nProviders\nStaff\nUmi Events\n\n\n\n\n\n\na private membership association\n\n\n\n\n\n\n\n\n\nInquire about membership here.\n or\n\n\nApply Online\n\n\n\n\nPlease enable JavaScript in your browser to complete this form.Please enable JavaScript in your browser to complete this form.Name *FirstLastContact NumberEmail *Comment or Message *Submit",
+      "links": [
+        {
+          "url": "https://umiwellnesscenter.com/",
+          "text": "",
+          "is_internal": true,
+          "context": ""
+        },
+        {
+          "url": "mailto:office@umiwellnesscenter.com",
+          "text": "office@umiwellnesscenter.com",
+          "is_internal": false,
+          "context": "Drop in to one of our new member classes! Offered every second Tuesday of each month via Zoom. Just email a request to our office at office@umiwellnesscenter.com or fill out an inquiry below."
+        },
+        {
+          "url": "http://www.umiwellnesscenter.com/umi-calendar/",
+          "text": "community calendar",
+          "is_internal": false,
+          "context": "view dates and times on our community calendar."
+        },
+        {
+          "url": "https://umiwellnesscenter.com/how-umi-works/www.umiwellnesscenter.com/community-programs/",
+          "text": "Community Programs",
+          "is_internal": true,
+          "context": "Community Programs"
+        },
+        {
+          "url": "https://form.jotform.com/232746488606063",
+          "text": "Take a look here!",
+          "is_internal": false,
+          "context": "Our application is very simple, and speaks to the heart of your story, needs and interest. It helps us get to know you.  Take a look here!"
+        },
+        {
+          "url": "https://umiwellnesscenter.com/upcoming-umi-events/",
+          "text": "Info here.",
+          "is_internal": true,
+          "context": "These classes are offered monthly through the school year. They provide an opportunity for the community to meet other members, talk with advocates, and learn about how we embody our Code of Conduct a"
+        },
+        {
+          "url": "https://umiwellnesscenter.com/faqs/",
+          "text": "FAQs",
+          "is_internal": true,
+          "context": "FAQs"
+        },
+        {
+          "url": "https://umiwellnesscenter.com/how-umi-works/",
+          "text": "How Umi Works",
+          "is_internal": true,
+          "context": "How Umi Works"
+        },
+        {
+          "url": "https://umiwellnesscenter.com/offerings/",
+          "text": "Offerings",
+          "is_internal": true,
+          "context": "Offerings"
+        },
+        {
+          "url": "https://umiwellnesscenter.com/community-programs/",
+          "text": "Community Programs",
+          "is_internal": true,
+          "context": "Community Programs"
+        },
+        {
+          "url": "https://umiwellnesscenter.com/patient-advocacy-consulting/",
+          "text": "Patient Advocacy",
+          "is_internal": true,
+          "context": "Patient Advocacy"
+        },
+        {
+          "url": "https://umiwellnesscenter.com/providers/",
+          "text": "Providers",
+          "is_internal": true,
+          "context": "Providers"
+        },
+        {
+          "url": "https://umiwellnesscenter.com/staff-volunteers/",
+          "text": "Staff",
+          "is_internal": true,
+          "context": "Staff"
+        },
+        {
+          "url": "http://www.umiwellnesscenter.com/upcoming-umi-events/",
+          "text": "Umi Events",
+          "is_internal": false,
+          "context": "Umi Events"
+        },
+        {
+          "url": "http://www.umiwellnesscenter.com/faqs/",
+          "text": "a private membership association",
+          "is_internal": false,
+          "context": "a private membership association"
+        },
+        {
+          "url": "https://forms.monday.com/forms/d1799ba7dca4c226986e97e424a00bfd?r=use1",
+          "text": "Apply Online",
+          "is_internal": false,
+          "context": "Apply Online"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://umiwellnesscenter.com/wp-content/uploads/2023/09/Umi-Oval-Logo_WebRes.png",
+          "alt": "Umi Wellness Center",
+          "title": "",
+          "context": ""
+        },
+        {
+          "src": "https://i0.wp.com/umiwellnesscenter.com/wp-content/uploads/2023/10/nature-5016844_1280.jpg?resize=300%2C200&ssl=1",
+          "alt": "",
+          "title": "nature-5016844_1280",
+          "context": ""
+        },
+        {
+          "src": "https://i0.wp.com/umiwellnesscenter.com/wp-content/uploads/2023/10/life-1003646_1280.jpg?resize=300%2C200&ssl=1",
+          "alt": "",
+          "title": "life-1003646_1280",
+          "context": ""
+        },
+        {
+          "src": "https://umiwellnesscenter.com/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg",
+          "alt": "Loading",
+          "title": "",
+          "context": "Submit"
+        }
+      ],
+      "forms": [
+        {
+          "action": "https://umiwellnesscenter.com/",
+          "method": "get",
+          "fields": [
+            {
+              "type": "search",
+              "name": "s",
+              "placeholder": "Search …",
+              "required": false
+            }
+          ],
+          "purpose": "unknown"
+        },
+        {
+          "action": "/how-umi-works/",
+          "method": "post",
+          "fields": [
+            {
+              "type": "text",
+              "name": "wpforms[fields][0][first]",
+              "placeholder": "",
+              "required": true
+            },
+            {
+              "type": "text",
+              "name": "wpforms[fields][0][last]",
+              "placeholder": "",
+              "required": true
+            },
+            {
+              "type": "number",
+              "name": "wpforms[fields][3]",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "email",
+              "name": "wpforms[fields][1]",
+              "placeholder": "",
+              "required": true
+            },
+            {
+              "type": "text",
+              "name": "wpforms[fields][2]",
+              "placeholder": "",
+              "required": true
+            },
+            {
+              "type": "hidden",
+              "name": "wpforms[id]",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "page_title",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "page_url",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "url_referer",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "page_id",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "wpforms[post_id]",
+              "placeholder": "",
+              "required": false
+            }
+          ],
+          "purpose": "contact"
+        }
+      ],
+      "navigation_items": [],
+      "call_to_actions": [
+        {
+          "text": "Submit",
+          "type": "button",
+          "url": "",
+          "context": "Submit"
+        }
+      ],
+      "contact_info": [
+        "office@umiwellnesscenter.com"
+      ],
+      "services_mentioned": [],
+      "testimonials": [],
+      "dynamic_content": "",
+      "category_analysis": {
+        "movement_score": 2,
+        "advocacy_score": 5,
+        "movement_weight": 3,
+        "advocacy_weight": 8,
+        "movement_density": 0.0043541364296081275,
+        "advocacy_density": 0.011611030478955007,
+        "primary_category": "advocacy",
+        "confidence": 0.45454545454545453,
+        "is_mixed_content": false
+      },
+      "sentiment_analysis": {
+        "polarity": 0.1392889352710781,
+        "subjectivity": 0.3853921871779014,
+        "tone": "positive"
+      },
+      "word_count": 622,
+      "reading_time": 3.11,
+      "analysis_timestamp": "2025-05-23T11:05:42.794019"
+    },
+    "https://umiwellnesscenter.com/offerings/": {
+      "url": "https://umiwellnesscenter.com/offerings/",
+      "title": "Offerings - Umi Wellness Center",
+      "meta_description": "",
+      "headings": {
+        "h1": [
+          "Healing Together",
+          "Send the contact form below for more info!",
+          "Online & hybrid Offerings",
+          "Inquire about membership here,",
+          "OR"
+        ],
+        "h2": [
+          "Here’s what we are building!",
+          "Our core, patient advocacy consulting and health coaching, is in full swing.",
+          "we are adding new free, community programs, online classes and self treatment courses each month."
+        ],
+        "h3": [],
+        "h4": [
+          "All are welcome, because what works for the most sensitive of us is better care for ALL of us.",
+          "Check out our new weekly and monthly classes HERE. Movement intelligence, music, and the InBody lecture series with special guest speakers.",
+          "Umi understands human bodies with chronic illnesses, connective tissue disorders, fibromyalgia, seronegative autoimmune diseases, and other complex, multi-systemic conditions."
+        ],
+        "h5": [],
+        "h6": []
+      },
+      "body_text": "Healing Together \n\n\n\n\n\n\n\n\nUmi Wellness Offerings & Services\n\n\n\n\n\nSend the contact form below for more info!\n\n\n\nHere’s what we are building!\n\nAll are welcome, because what works for the most sensitive of us is better care for ALL of us.\nCheck out our new weekly and monthly classes HERE. Movement intelligence, music, and the InBody lecture series with special guest speakers.\nUmi understands human bodies with chronic illnesses, connective tissue disorders, fibromyalgia, seronegative autoimmune diseases, and other complex, multi-systemic conditions.\n \n\n\n\nOnline & hybrid Offerings\n \n\n\n\n\n\n\n\n\n\nSomatic Therapies\n&\nBodywork\n\n\n\n\n\nMental & Spiritual\nWellness\n\n\n\n\n\n\nMovement Intelligence\n& Bones for Life(R)\n\n\n\n\n\n\n\nMedical Bridges (coming 2024)\n\n\n\n\n\nPatient Advocacy\nConsulting\n\n\n\n\n\n\nTrauma Support\n& Recovery\n\n\n\n\n\nOur core, patient advocacy consulting and health coaching, is in full swing.\nwe are adding new free, community programs, online classes and self treatment courses each month.\n \n\n\n\n\n\nThis community is built for you. As we grow we will be adding community acupuncture, ScarWork, massage, bodywork, OMT, Counseling, narrative trauma recovery, personal training, and all in the most mast cell friendly environment we can muster!\nAll memberships last a lifetime. Why are we doing it this way? In order to create and protect a place where each member can be truly free to explore, process, and understand the conditions they live with with freedom and genuine compassion. \n\nHow it Works\n\n\n\nNot just a community for you, for your whole family too!  In addition to a variety of support groups we’ll have teen and children’s social events like RPGs and board game afternoons, special big-brother and big-sister support/mentorship for children with chronic conditions, and family days where you can bring your children with you and have help looking out for them while you get the services you need.\n\nCommunity Programs\n\n\n\nUmi Classes and Events held year round! We’ll host educational events on unique and specialized conditions, navigating medical care, support for caregivers, understanding mental health in chronic conditions, special retreats for members to rest and focus on recovery, and classics like dance, movement, yoga and exercise taught by people with training and even personal experience with what you live with daily.\n\nCommunity Classes\n\n\n\n\n\n a private membership association\n\n\n\n\n\n\n\n\nInquire about membership here,\n\nThis is not a membership obligation. \nOR \n\n\nApply Online\n\n\n\n\nPlease enable JavaScript in your browser to complete this form.Please enable JavaScript in your browser to complete this form.Name *FirstLastContact NumberEmail *Comment or Message *Submit",
+      "links": [
+        {
+          "url": "https://umiwellnesscenter.com/",
+          "text": "",
+          "is_internal": true,
+          "context": ""
+        },
+        {
+          "url": "http://www.umiwellnesscenter.com/classes/",
+          "text": "HERE",
+          "is_internal": false,
+          "context": "HERE"
+        },
+        {
+          "url": "http://www.umiwellnesscenter.com/roads-we-travel/",
+          "text": "",
+          "is_internal": false,
+          "context": ""
+        },
+        {
+          "url": "https://umiwellnesscenter.com/zebra-heard/",
+          "text": "",
+          "is_internal": true,
+          "context": ""
+        },
+        {
+          "url": "http://www.umiwellnesscenter.com/umi-moves/",
+          "text": "",
+          "is_internal": false,
+          "context": ""
+        },
+        {
+          "url": "http://www.umiwellnesscenter.com/patient-advocacy-consulting/",
+          "text": "",
+          "is_internal": false,
+          "context": ""
+        },
+        {
+          "url": "http://www.umiwellnesscenter.com/community-programs/",
+          "text": "",
+          "is_internal": false,
+          "context": ""
+        },
+        {
+          "url": "https://umiwellnesscenter.com/how-umi-works/",
+          "text": "How it Works",
+          "is_internal": true,
+          "context": "How it Works"
+        },
+        {
+          "url": "https://umiwellnesscenter.com/community-programs/",
+          "text": "Community Programs",
+          "is_internal": true,
+          "context": "Community Programs"
+        },
+        {
+          "url": "https://umiwellnesscenter.com/offerings/classes/",
+          "text": "Community Classes",
+          "is_internal": true,
+          "context": "Community Classes"
+        },
+        {
+          "url": "http://www.umiwellnesscenter.com/faqs/",
+          "text": "a private membership association",
+          "is_internal": false,
+          "context": "a private membership association"
+        },
+        {
+          "url": "https://forms.monday.com/forms/d1799ba7dca4c226986e97e424a00bfd?r=use1",
+          "text": "Apply Online",
+          "is_internal": false,
+          "context": "Apply Online"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://umiwellnesscenter.com/wp-content/uploads/2023/09/Umi-Oval-Logo_WebRes.png",
+          "alt": "Umi Wellness Center",
+          "title": "",
+          "context": ""
+        },
+        {
+          "src": "https://i0.wp.com/umiwellnesscenter.com/wp-content/uploads/2023/07/acupuncture-gb8d8bcec7_1920-150x150-1.jpg?resize=1080%2C720&ssl=1",
+          "alt": "",
+          "title": "acupuncture-gb8d8bcec7_1920",
+          "context": ""
+        },
+        {
+          "src": "https://i0.wp.com/umiwellnesscenter.com/wp-content/uploads/2023/07/hands-g453d600e6_1920-150x150-1.jpg?resize=1080%2C718&ssl=1",
+          "alt": "",
+          "title": "hands-g453d600e6_1920",
+          "context": ""
+        },
+        {
+          "src": "https://i0.wp.com/umiwellnesscenter.com/wp-content/uploads/2023/07/people-g888aaeae2_1920-150x150-1.jpg?resize=1080%2C720&ssl=1",
+          "alt": "",
+          "title": "people-g888aaeae2_1920",
+          "context": ""
+        },
+        {
+          "src": "https://i0.wp.com/umiwellnesscenter.com/wp-content/uploads/2023/07/hands-gc11ac9b8e_1920-150x150-1.jpg?resize=1080%2C720&ssl=1",
+          "alt": "",
+          "title": "hands-gc11ac9b8e_1920",
+          "context": ""
+        },
+        {
+          "src": "https://i0.wp.com/umiwellnesscenter.com/wp-content/uploads/2023/07/hands-g418e34d61_1920-150x150-1.jpg?resize=1080%2C720&ssl=1",
+          "alt": "",
+          "title": "hands-g418e34d61_1920",
+          "context": ""
+        },
+        {
+          "src": "https://i0.wp.com/umiwellnesscenter.com/wp-content/uploads/2023/07/girl-g1a5451f01_1920-150x150-1.jpg?resize=1080%2C720&ssl=1",
+          "alt": "",
+          "title": "girl-g1a5451f01_1920",
+          "context": ""
+        },
+        {
+          "src": "https://umiwellnesscenter.com/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg",
+          "alt": "Loading",
+          "title": "",
+          "context": "Submit"
+        }
+      ],
+      "forms": [
+        {
+          "action": "https://umiwellnesscenter.com/",
+          "method": "get",
+          "fields": [
+            {
+              "type": "search",
+              "name": "s",
+              "placeholder": "Search …",
+              "required": false
+            }
+          ],
+          "purpose": "unknown"
+        },
+        {
+          "action": "/offerings/",
+          "method": "post",
+          "fields": [
+            {
+              "type": "text",
+              "name": "wpforms[fields][0][first]",
+              "placeholder": "",
+              "required": true
+            },
+            {
+              "type": "text",
+              "name": "wpforms[fields][0][last]",
+              "placeholder": "",
+              "required": true
+            },
+            {
+              "type": "number",
+              "name": "wpforms[fields][3]",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "email",
+              "name": "wpforms[fields][1]",
+              "placeholder": "",
+              "required": true
+            },
+            {
+              "type": "text",
+              "name": "wpforms[fields][2]",
+              "placeholder": "",
+              "required": true
+            },
+            {
+              "type": "hidden",
+              "name": "wpforms[id]",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "page_title",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "page_url",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "url_referer",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "page_id",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "wpforms[post_id]",
+              "placeholder": "",
+              "required": false
+            }
+          ],
+          "purpose": "contact"
+        }
+      ],
+      "navigation_items": [],
+      "call_to_actions": [
+        {
+          "text": "Submit",
+          "type": "button",
+          "url": "",
+          "context": "Submit"
+        }
+      ],
+      "contact_info": [],
+      "services_mentioned": [],
+      "testimonials": [],
+      "dynamic_content": "",
+      "category_analysis": {
+        "movement_score": 10,
+        "advocacy_score": 7,
+        "movement_weight": 22,
+        "advocacy_weight": 19,
+        "movement_density": 0.043478260869565216,
+        "advocacy_density": 0.037549407114624504,
+        "primary_category": "movement",
+        "confidence": 0.07317073170731707,
+        "is_mixed_content": true
+      },
+      "sentiment_analysis": {
+        "polarity": 0.16625541125541124,
+        "subjectivity": 0.4085010822510823,
+        "tone": "positive"
+      },
+      "word_count": 391,
+      "reading_time": 1.955,
+      "analysis_timestamp": "2025-05-23T11:05:44.724721"
+    },
+    "https://umiwellnesscenter.com/providers/": {
+      "url": "https://umiwellnesscenter.com/providers/",
+      "title": "Providers - Umi Wellness Center",
+      "meta_description": "Meet our amazing community of providers and staff! Many of whom live with chronic conditions themselves and have channeled that experience into your care.",
+      "headings": {
+        "h1": [
+          "Mission & Vision",
+          "Clinical & Wellness Providers",
+          "Interested in joining our staff?"
+        ],
+        "h2": [],
+        "h3": [],
+        "h4": [],
+        "h5": [],
+        "h6": []
+      },
+      "body_text": "Mission & Vision\n\n\n\n\n\n\n\n\n\n\nClinical & Wellness Providers\n\n\n\n\n\n\n\n\n\n\n\n\nRachel Lee Davis is Director and Provider at Umi Wellness. She has a passion for teaching and is excited to bring a variety of classes and events to the Umi community for members and clinicians, as well as return to working in her first language: movement.\nHer specialties are: Autism communication and culture, trauma recovery (especially medical and sexual trauma), and patient advocacy consulting for complex Ehlers-Danlos Syndrome cases and autoimmune conditions. Rachel will also be offering classes with Umi-Moves such as movement intelligence, pre-therapy alignment, fascia mobility and more. \n\n“I am daily inspired by the EDS/HSD community and the strength they embody even when they feel they have none left. I know that feeling. Somehow you keep going. But what if we all didn’t have to do it alone? Or for as many months, days and years? Years of being thought of as broken, dismissed by doctors and rejected by family. With Umi we have the opportunity to build a community that can fill the gap we wake up every day thinking would never be full.” –Rachel Lee\n\n\n\n\n\n\n\n\n\n\nTheresia Random- Welcoming Theresia Of Randomly Natural. This chronic illness warrior has a broad repertoire of somatic therapies she brings to our community with the nuance, care and skill to treat even the most sensitive bodies, minds and hearts.  Theresia is passionate about fibromyalgia, Ehlers-Danlos, and special approaches like wave therapy and lymphatic release for Cancer Care.\nIn addition to in-person sessions, Terri will teach a variety of online classes throughout the year such as Somatic therapy self-treatment and how to make your own safe essential oils. \n\nEmail livelife@naturallyrandom.com for where you can try some Life water! Hydrate to be great.\n\n \n\n\n\n\n\n\n\n\n\nKatye Wood – Joining Umi with art, music and laughter. Katye is an elementary music educator, EDS-er and mom, passionate about all rhythms of the world!\n\nKatye comes to start out as a community program volunteer.\nHer community music night “Sound Sanctuary” is featured on our Rhythms for  Blues Arts Page.  Click here to learn more and register!\n\nKatye also teaches private music lessons with a specialty in children with special needs, diverse minds, and physical challenges like chronic illness. We gladly recommend her and her lifetime of expertise to any in the NC Triangle area looking for a dedicated and intuitive music teacher, or theory tutor. \n \n\n\n\n\n\n\n\n\n\n\n\n\n\nKaitlyn Scola – joining Umi as a senior navigator while studying to be a dedicated patient advocacy consultant and finishing a degree in genetic counseling. Kaitlyn is warm, full of heart, and we are thrilled to celebrate her gifts here at Umi.\nYou can read about the services we are collecting and networking to provide on our Offerings page. \n\n\n\n\n\n\nWe are meeting with potential providers! \nUmi is unique in how we network with people. Relationship and quality are valued more than competition. If you have even just a few hours to spare to learn about some of the special members we support, and serve them in our community, we’d like to talk with you.\nLooking for a full time home with freedom to use your skills with clients ANYWHERE in the US? Want to support to create the kind of meaningful practice you can love to come work in every day? Us too. So we built it!\nWe would like to connect with mental health providers, bodywork and movement specialists, acupuncturists, nutritionists, family nurse practitioners, and more. If you don’t see YOU, send us your resume and ideas office@umiwellnesscenter.com. \nThank you for your curiosity!\n\n\n\n\n\n\n a private membership association\n\n\n\n\n\n\n\n\n\nInterested in joining our staff?\n \nSend us a note with your name, details about you and your interest in being staff or a provider, and we will reach out to you. If you would like to include a resume, please email directly at office@umiwellnesscenter.com \n\nThank you for your curiosity!",
+      "links": [
+        {
+          "url": "https://umiwellnesscenter.com/",
+          "text": "",
+          "is_internal": true,
+          "context": ""
+        },
+        {
+          "url": "https://umiwellnesscenter.com/providers/www.rachelleepac.com",
+          "text": "patient advocacy consulting",
+          "is_internal": true,
+          "context": "Her specialties are: Autism communication and culture, trauma recovery (especially medical and sexual trauma), and patient advocacy consulting for complex Ehlers-Danlos Syndrome cases and autoimmune c"
+        },
+        {
+          "url": "https://umiwellnesscenter.com/providers/www.umiwellnesscenter.com/umi-moves/",
+          "text": "Umi-Moves",
+          "is_internal": true,
+          "context": "Her specialties are: Autism communication and culture, trauma recovery (especially medical and sexual trauma), and patient advocacy consulting for complex Ehlers-Danlos Syndrome cases and autoimmune c"
+        },
+        {
+          "url": "mailto:livelife@naturallyrandom.com",
+          "text": "livelife@naturallyrandom.com",
+          "is_internal": false,
+          "context": "Email livelife@naturallyrandom.com for where you can try some Life water! Hydrate to be great."
+        },
+        {
+          "url": "https://umiwellnesscenter.com/rhythms-for-blues/",
+          "text": "Click here",
+          "is_internal": true,
+          "context": "Her community music night “Sound Sanctuary” is featured on our Rhythms for  Blues Arts Page.  Click here to learn more and register!"
+        },
+        {
+          "url": "http://www.umiwellnesscenter.com/offerings/",
+          "text": "Offerings",
+          "is_internal": false,
+          "context": "You can read about the services we are collecting and networking to provide on our Offerings page."
+        },
+        {
+          "url": "mailto:office@umiwellnesscenter.com",
+          "text": "office@umiwellnesscenter.com.",
+          "is_internal": false,
+          "context": "We would like to connect with mental health providers, bodywork and movement specialists, acupuncturists, nutritionists, family nurse practitioners, and more. If you don’t see YOU, send us your resume"
+        },
+        {
+          "url": "http://www.umiwellnesscenter.com/faqs/",
+          "text": "a private membership association",
+          "is_internal": false,
+          "context": "a private membership association"
+        },
+        {
+          "url": "mailto:UmiWellness.Info@gmail.com",
+          "text": "office@umiwellnesscenter.com",
+          "is_internal": false,
+          "context": "Send us a note with your name, details about you and your interest in being staff or a provider, and we will reach out to you. If you would like to include a resume, please email directly at office@um"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://umiwellnesscenter.com/wp-content/uploads/2023/09/Umi-Oval-Logo_WebRes.png",
+          "alt": "Umi Wellness Center",
+          "title": "",
+          "context": ""
+        },
+        {
+          "src": "https://i0.wp.com/umiwellnesscenter.com/wp-content/uploads/2023/09/20230918_192600.jpg?resize=225%2C300&ssl=1",
+          "alt": "",
+          "title": "20230918_192600",
+          "context": ""
+        },
+        {
+          "src": "https://i0.wp.com/umiwellnesscenter.com/wp-content/uploads/2024/03/2024-02-28-16.14.28.jpg?resize=225%2C300&ssl=1",
+          "alt": "",
+          "title": "2024-02-28 16.14.28",
+          "context": ""
+        },
+        {
+          "src": "https://i0.wp.com/umiwellnesscenter.com/wp-content/uploads/2024/03/IMG-20240209-WA0002.jpg?resize=225%2C300&ssl=1",
+          "alt": "",
+          "title": "IMG-20240209-WA0002",
+          "context": ""
+        },
+        {
+          "src": "https://i0.wp.com/umiwellnesscenter.com/wp-content/uploads/2023/10/coming-soon-1898936_1280.jpg?resize=1080%2C675&ssl=1",
+          "alt": "",
+          "title": "coming-soon-1898936_1280",
+          "context": ""
+        }
+      ],
+      "forms": [
+        {
+          "action": "https://umiwellnesscenter.com/",
+          "method": "get",
+          "fields": [
+            {
+              "type": "search",
+              "name": "s",
+              "placeholder": "Search …",
+              "required": false
+            }
+          ],
+          "purpose": "unknown"
+        }
+      ],
+      "navigation_items": [],
+      "call_to_actions": [],
+      "contact_info": [
+        "livelife@naturallyrandom.com",
+        "office@umiwellnesscenter.com",
+        "office@umiwellnesscenter.com"
+      ],
+      "services_mentioned": [],
+      "testimonials": [],
+      "dynamic_content": "",
+      "category_analysis": {
+        "movement_score": 11,
+        "advocacy_score": 8,
+        "movement_weight": 22,
+        "advocacy_weight": 13,
+        "movement_density": 0.03225806451612903,
+        "advocacy_density": 0.01906158357771261,
+        "primary_category": "movement",
+        "confidence": 0.2571428571428571,
+        "is_mixed_content": true
+      },
+      "sentiment_analysis": {
+        "polarity": 0.2432944606413994,
+        "subjectivity": 0.5333940719144801,
+        "tone": "positive"
+      },
+      "word_count": 641,
+      "reading_time": 3.205,
+      "analysis_timestamp": "2025-05-23T11:05:46.585438"
+    },
+    "https://umiwellnesscenter.com/staff-volunteers/": {
+      "url": "https://umiwellnesscenter.com/staff-volunteers/",
+      "title": "Staff & Volunteers - Umi Wellness Center",
+      "meta_description": "",
+      "headings": {
+        "h1": [
+          "Staff & Volunteers",
+          "Interested in joining our staff?",
+          "Neither Umi nor RLPAC will send you any spam or sell your information. This information will be kept private."
+        ],
+        "h2": [],
+        "h3": [
+          "Volunteers Wanted!",
+          "Do you enjoy hosting or putting on events? Or supporting from the quiet background? There’s room for you here. Come and give back to the amazing chronic warrior community with support for your gifts."
+        ],
+        "h4": [],
+        "h5": [],
+        "h6": []
+      },
+      "body_text": "Staff & Volunteers\n\n\n\n\n\n\nVolunteers Wanted! \nDo you enjoy hosting or putting on events? Or supporting from the quiet background? There’s room for you here. Come and give back to the amazing chronic warrior community with support for your gifts.\n \n\n\n\n\n\n\n\n\n\n\n\n\nAudrey Whitlock is joining Umi as Office Co-Manager!\nAudrey has a Bachelor’s degree in English and a Master’s degree from Gordon-Conwell Theological Seminary where she and Director Rachel Lee first met over a shared love of books, coffee, and Broadway. She has held multiple management positions and is skilled in a wide variety of internal operations and community development skills, due in no small part to her love for people and keen attention to detail.\nAudrey’s sees all her work as service. While she works full time managing the Gordon-Conwell Seminary bookstore, she is looking forward to spending weekends helping Umi Wellness Center grow and reach out to the Charlotte community and fill this special, much needed space. Audrey loves reading, writing, movies, singing, and adores her amazing godchildren, niece and two wonderful dogs.\n\n\n\n\n\n\n\n\n\n\n\n\n\nNathan Paul Davis is joining Umi as a volunteer business consultant.\nHe holds a masters in business from the Jack Welch Institute at Strayer University and over a decade of experience in small business administration, finance, marketing and higher educational leadership. Most importantly, he is husband of Umi founder Rachel Lee Davis and a passionate volunteer in support of the mission and vision of the wellness center. The two entrepreneurs and teachers have navigated many years of working together, both in business and other endeavors like parenting their two wonderful children, and managing the complexities of multisystem chronic conditions passed down on both sides of the family. Finding answers was finding hope, and Nathan hopes to help other families find answers they also need, and have the support he personally knows is so invaluable to this community.\n\n\n\n\n\n\nMany thanks to our part-time volunteers!  \nMargaret\nDaisy\nAudrey\nand Jenna!\n\n\n\n\n\n\na private membership association\n\n\n\n\n\n\n\n\nInterested in joining our staff?\n \nSend us a note with your name, details about you and your interest in being staff or a provider, and we will reach out to you! If you’d like to include a resume please email directly at office@umiwellnesscenter.com. \nThank you for your curiosity!  \n \n\n\n\nNeither Umi nor RLPAC will send you any spam or sell your information. This information will be kept private.\n\n\n\n\nName\n\n\nEmail Address\n\n\nMessage here\n\n\n\n\n\n\n8 + 13 = \n\n\nSend",
+      "links": [
+        {
+          "url": "https://umiwellnesscenter.com/",
+          "text": "",
+          "is_internal": true,
+          "context": ""
+        },
+        {
+          "url": "http://www.umiwellnesscenter.com/faqs/",
+          "text": "a private membership association",
+          "is_internal": false,
+          "context": "a private membership association"
+        },
+        {
+          "url": "mailto:UmiWellness.Info@gmail.com",
+          "text": "office@umiwellnesscenter.com.",
+          "is_internal": false,
+          "context": "Send us a note with your name, details about you and your interest in being staff or a provider, and we will reach out to you! If you’d like to include a resume please email directly at office@umiwell"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://umiwellnesscenter.com/wp-content/uploads/2023/09/Umi-Oval-Logo_WebRes.png",
+          "alt": "Umi Wellness Center",
+          "title": "",
+          "context": ""
+        },
+        {
+          "src": "https://i0.wp.com/umiwellnesscenter.com/wp-content/uploads/2023/09/61976149_10104482944465401_4503411039651495936_n.jpg?resize=240%2C300&ssl=1",
+          "alt": "",
+          "title": "61976149_10104482944465401_4503411039651495936_n",
+          "context": ""
+        },
+        {
+          "src": "https://i0.wp.com/umiwellnesscenter.com/wp-content/uploads/2023/09/Nathan-Head-Photo.jpg?resize=224%2C300&ssl=1",
+          "alt": "",
+          "title": "Nathan Head Photo",
+          "context": ""
+        }
+      ],
+      "forms": [
+        {
+          "action": "https://umiwellnesscenter.com/",
+          "method": "get",
+          "fields": [
+            {
+              "type": "search",
+              "name": "s",
+              "placeholder": "Search …",
+              "required": false
+            }
+          ],
+          "purpose": "unknown"
+        },
+        {
+          "action": "https://umiwellnesscenter.com/staff-volunteers/",
+          "method": "post",
+          "fields": [
+            {
+              "type": "text",
+              "name": "et_pb_contact_name_0",
+              "placeholder": "Name",
+              "required": false
+            },
+            {
+              "type": "text",
+              "name": "et_pb_contact_email_0",
+              "placeholder": "Email Address",
+              "required": false
+            },
+            {
+              "type": "text",
+              "name": "et_pb_contact_message_0",
+              "placeholder": "Message here",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "et_pb_contactform_submit_0",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "text",
+              "name": "et_pb_contact_captcha_0",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "_wpnonce-et-pb-contact-form-submitted-0",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "_wp_http_referer",
+              "placeholder": "",
+              "required": false
+            }
+          ],
+          "purpose": "contact"
+        }
+      ],
+      "navigation_items": [],
+      "call_to_actions": [
+        {
+          "text": "Send",
+          "type": "button",
+          "url": "",
+          "context": "8 + 13 = \n\n\nSend"
+        }
+      ],
+      "contact_info": [
+        "office@umiwellnesscenter.com"
+      ],
+      "services_mentioned": [],
+      "testimonials": [],
+      "dynamic_content": "",
+      "category_analysis": {
+        "movement_score": 1,
+        "advocacy_score": 3,
+        "movement_weight": 4,
+        "advocacy_weight": 8,
+        "movement_density": 0.00847457627118644,
+        "advocacy_density": 0.01694915254237288,
+        "primary_category": "advocacy",
+        "confidence": 0.3333333333333333,
+        "is_mixed_content": true
+      },
+      "sentiment_analysis": {
+        "polarity": 0.22003968253968256,
+        "subjectivity": 0.4325496031746031,
+        "tone": "positive"
+      },
+      "word_count": 402,
+      "reading_time": 2.01,
+      "analysis_timestamp": "2025-05-23T11:05:48.421244"
+    },
+    "https://umiwellnesscenter.com/upcoming-umi-events/": {
+      "url": "https://umiwellnesscenter.com/upcoming-umi-events/",
+      "title": "Upcoming Umi Events - Umi Wellness Center",
+      "meta_description": "",
+      "headings": {
+        "h1": [
+          "Umi Events",
+          "After a wonderful grand opening we are looking forward to a tremendous year.",
+          "Zebra Heard now every third Friday Or Saturday!",
+          "New Member Class & Open House",
+          "Zebra Heard!!!",
+          "Roads We Travel",
+          "Inquire about membership here.",
+          "or"
+        ],
+        "h2": [],
+        "h3": [],
+        "h4": [],
+        "h5": [],
+        "h6": []
+      },
+      "body_text": "Umi Events\n\n\n\n\n\nAfter a wonderful grand opening we are looking forward to a tremendous year.\nZebra Heard now every third Friday Or Saturday!\n\n\n\n\n\n\n\n\nRegister Here\n\nNew Member Class & Open House\nA monthly meeting for new Umi Members and Guests!\nIf you’re curious about Umi’s inner workings, you can join us too.\nEvery Second Monday, 8:00 to 9:00 PM EST THIS MONTH!\n\n\n\n\nZebra Heard!!!\nCompanionship, Community and Creative Fun.\nHappening every third Friday or Saturday evening of each month.\nClick Here for More Details\n\n\n\n\nRoads We Travel\nBringing you thought provoking, expert lectures on a variety of topics:\nWelcoming Dr. Alan Spanos this June!\nDr. Meg Mizrachi of Congruency Physical Therapy\nand many more.\nVisit our dedicated page for more details.\n\n\n\n\nMedia Release Form\n\n\n\n\n\n\na private membership association\n\n\n\n\n\n\n\n\n\nInquire about membership here.\n or\n\n\nApply Online\n\n\n\n\nPlease enable JavaScript in your browser to complete this form.Please enable JavaScript in your browser to complete this form.Name *FirstLastContact NumberEmail *Comment or Message *Submit",
+      "links": [
+        {
+          "url": "https://umiwellnesscenter.com/",
+          "text": "",
+          "is_internal": true,
+          "context": ""
+        },
+        {
+          "url": "http://www.umiwellnesscenter.com/umi-calendar/",
+          "text": "every third Friday Or Saturday",
+          "is_internal": false,
+          "context": "every third Friday Or Saturday"
+        },
+        {
+          "url": "https://wkf.ms/49YQxQR",
+          "text": "Register Here",
+          "is_internal": false,
+          "context": "Register Here"
+        },
+        {
+          "url": "https://umiwellnesscenter.com/zebra-heard/",
+          "text": "Click Here for More Details",
+          "is_internal": true,
+          "context": "Click Here for More Details"
+        },
+        {
+          "url": "http://www.umiwellnesscenter.com/roads-we-travel/",
+          "text": "",
+          "is_internal": false,
+          "context": ""
+        },
+        {
+          "url": "https://umiwellnesscenter.com/roads-we-travel/",
+          "text": "Visit our dedicated page for more details.",
+          "is_internal": true,
+          "context": "Visit our dedicated page for more details."
+        },
+        {
+          "url": "https://wkf.ms/3SZGO7m",
+          "text": "Media Release Form",
+          "is_internal": false,
+          "context": "Media Release Form"
+        },
+        {
+          "url": "http://www.umiwellnesscenter.com/faqs/",
+          "text": "a private membership association",
+          "is_internal": false,
+          "context": "a private membership association"
+        },
+        {
+          "url": "https://forms.monday.com/forms/d1799ba7dca4c226986e97e424a00bfd?r=use1",
+          "text": "Apply Online",
+          "is_internal": false,
+          "context": "Apply Online"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://umiwellnesscenter.com/wp-content/uploads/2023/09/Umi-Oval-Logo_WebRes.png",
+          "alt": "Umi Wellness Center",
+          "title": "",
+          "context": ""
+        },
+        {
+          "src": "https://i0.wp.com/umiwellnesscenter.com/wp-content/uploads/2024/03/NewMemberClassOpenHouse.png?resize=300%2C200&ssl=1",
+          "alt": "",
+          "title": "NewMemberClassOpenHouse",
+          "context": ""
+        },
+        {
+          "src": "https://i0.wp.com/umiwellnesscenter.com/wp-content/uploads/2023/10/zebras-8054175_1280.jpg?resize=300%2C200&ssl=1",
+          "alt": "",
+          "title": "zebras-8054175_1280",
+          "context": ""
+        },
+        {
+          "src": "https://i0.wp.com/umiwellnesscenter.com/wp-content/uploads/2024/03/RoadsWeTravelCard.png?resize=300%2C200&ssl=1",
+          "alt": "",
+          "title": "RoadsWeTravelCard",
+          "context": ""
+        },
+        {
+          "src": "https://umiwellnesscenter.com/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg",
+          "alt": "Loading",
+          "title": "",
+          "context": "Submit"
+        }
+      ],
+      "forms": [
+        {
+          "action": "https://umiwellnesscenter.com/",
+          "method": "get",
+          "fields": [
+            {
+              "type": "search",
+              "name": "s",
+              "placeholder": "Search …",
+              "required": false
+            }
+          ],
+          "purpose": "unknown"
+        },
+        {
+          "action": "/upcoming-umi-events/",
+          "method": "post",
+          "fields": [
+            {
+              "type": "text",
+              "name": "wpforms[fields][0][first]",
+              "placeholder": "",
+              "required": true
+            },
+            {
+              "type": "text",
+              "name": "wpforms[fields][0][last]",
+              "placeholder": "",
+              "required": true
+            },
+            {
+              "type": "number",
+              "name": "wpforms[fields][3]",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "email",
+              "name": "wpforms[fields][1]",
+              "placeholder": "",
+              "required": true
+            },
+            {
+              "type": "text",
+              "name": "wpforms[fields][2]",
+              "placeholder": "",
+              "required": true
+            },
+            {
+              "type": "hidden",
+              "name": "wpforms[id]",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "page_title",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "page_url",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "url_referer",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "page_id",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "wpforms[post_id]",
+              "placeholder": "",
+              "required": false
+            }
+          ],
+          "purpose": "contact"
+        }
+      ],
+      "navigation_items": [],
+      "call_to_actions": [
+        {
+          "text": "Submit",
+          "type": "button",
+          "url": "",
+          "context": "Submit"
+        }
+      ],
+      "contact_info": [],
+      "services_mentioned": [],
+      "testimonials": [],
+      "dynamic_content": "",
+      "category_analysis": {
+        "movement_score": 3,
+        "advocacy_score": 0,
+        "movement_weight": 3,
+        "advocacy_weight": 0,
+        "movement_density": 0.014563106796116505,
+        "advocacy_density": 0.0,
+        "primary_category": "movement",
+        "confidence": 1.0,
+        "is_mixed_content": false
+      },
+      "sentiment_analysis": {
+        "polarity": 0.2459595959595959,
+        "subjectivity": 0.4806483199340343,
+        "tone": "positive"
+      },
+      "word_count": 160,
+      "reading_time": 0.8,
+      "analysis_timestamp": "2025-05-23T11:05:51.674558"
+    },
+    "https://umiwellnesscenter.com/zebra-heard/": {
+      "url": "https://umiwellnesscenter.com/zebra-heard/",
+      "title": "Zebra Heard - Umi Wellness Center",
+      "meta_description": "Companionship, Community and Creative Fun. Happening every third Friday or Saturday evening of each month. Sign Up below for event details and announcements!",
+      "headings": {
+        "h1": [
+          "Zebra Heard!!!",
+          "More events on our new page The Roads We Travel.",
+          "Zebra Heard!!!",
+          "Inquire about membership here.",
+          "or"
+        ],
+        "h2": [
+          "Schedule",
+          "August: Huntersville, NC",
+          "September: Morgan Falls Overlook, Atlanta, GA",
+          "October: Ashville, NC",
+          "“Joy does not simply happen to us.",
+          "We have to choose joy and keep choosing it every day.”",
+          "– Henri Nouwen"
+        ],
+        "h3": [
+          "Every third Friday or Saturday of each month."
+        ],
+        "h4": [],
+        "h5": [],
+        "h6": []
+      },
+      "body_text": "Zebra Heard!!!\n\n\n\n\n\n\nMore events on our new page The Roads We Travel.\n\nZebra Sign Up\n\n\n\n\n\nSchedule\nAugust: Huntersville, NC\nSeptember: Morgan Falls Overlook, Atlanta, GA\nOctober: Ashville, NC\nRegister for event details and updates, and follow on socials!\n\n\n\n\n\nZebra Heard!!!\nCompanionship, Community and Creative Fun.\nSign Up below for event details and announcements!\nEvery third Friday or Saturday of each month.\n\n\n“Joy does not simply happen to us.\nWe have to choose joy and keep choosing it every day.”\n– Henri Nouwen\n\nZebra Sign Up\n\nThis patient-led event invites Zebras, Non-Zebras, their families, and Clinicians/Providers in our community to come and H-E-A-R each other.\nH – Hear our words AND our bodies\nA – Advocate for ourselves, for our families, for others\nE – Educate those who help us and Encourage them to listen\nR – Redeem our experiences with Joy and Community\n“Zebra Heard” is a regularly occurring gathering of public Umi events to honor, represent, and thrive with the Ehlers-Danlos Syndrome and Hypermobile Spectrum Disorder community. Guest speakers have included mothers, advocates, veterans, and more.\nCome hear their stories. Come bring your own!\nWe will have open-mic time for anyone who wishes to share.\n\n\n\n\n\n\n\nMedia Release Form\n\n\n\n\n\n\na private membership association\n\n\n\n\n\n\n\n\n\nInquire about membership here.\n or\n\n\nApply Online\n\n\n\n\nPlease enable JavaScript in your browser to complete this form.Please enable JavaScript in your browser to complete this form.Name *FirstLastContact NumberEmail *Comment or Message *Submit",
+      "links": [
+        {
+          "url": "https://umiwellnesscenter.com/",
+          "text": "",
+          "is_internal": true,
+          "context": ""
+        },
+        {
+          "url": "https://umiwellnesscenter.com/roads-we-travel/",
+          "text": "The Roads We Travel.",
+          "is_internal": true,
+          "context": "More events on our new page The Roads We Travel."
+        },
+        {
+          "url": "https://wkf.ms/3UZTIUl",
+          "text": "Zebra Sign Up",
+          "is_internal": false,
+          "context": "Zebra Sign Up"
+        },
+        {
+          "url": "https://wkf.ms/3UZTIUl",
+          "text": "Zebra Sign Up",
+          "is_internal": false,
+          "context": "Zebra Sign Up"
+        },
+        {
+          "url": "https://www.facebook.com/UmiWellnessCenter",
+          "text": "",
+          "is_internal": false,
+          "context": ""
+        },
+        {
+          "url": "https://www.instagram.com/umi_wellness_center/",
+          "text": "",
+          "is_internal": false,
+          "context": ""
+        },
+        {
+          "url": "https://wkf.ms/3SZGO7m",
+          "text": "Media Release Form",
+          "is_internal": false,
+          "context": "Media Release Form"
+        },
+        {
+          "url": "http://www.umiwellnesscenter.com/faqs/",
+          "text": "a private membership association",
+          "is_internal": false,
+          "context": "a private membership association"
+        },
+        {
+          "url": "https://forms.monday.com/forms/d1799ba7dca4c226986e97e424a00bfd?r=use1",
+          "text": "Apply Online",
+          "is_internal": false,
+          "context": "Apply Online"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://umiwellnesscenter.com/wp-content/uploads/2023/09/Umi-Oval-Logo_WebRes.png",
+          "alt": "Umi Wellness Center",
+          "title": "",
+          "context": ""
+        },
+        {
+          "src": "https://i0.wp.com/umiwellnesscenter.com/wp-content/uploads/2023/10/zebras-8054175_1280.jpg?resize=300%2C200&ssl=1",
+          "alt": "",
+          "title": "zebras-8054175_1280",
+          "context": ""
+        },
+        {
+          "src": "https://umiwellnesscenter.com/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg",
+          "alt": "Loading",
+          "title": "",
+          "context": "Submit"
+        }
+      ],
+      "forms": [
+        {
+          "action": "https://umiwellnesscenter.com/",
+          "method": "get",
+          "fields": [
+            {
+              "type": "search",
+              "name": "s",
+              "placeholder": "Search …",
+              "required": false
+            }
+          ],
+          "purpose": "unknown"
+        },
+        {
+          "action": "/zebra-heard/",
+          "method": "post",
+          "fields": [
+            {
+              "type": "text",
+              "name": "wpforms[fields][0][first]",
+              "placeholder": "",
+              "required": true
+            },
+            {
+              "type": "text",
+              "name": "wpforms[fields][0][last]",
+              "placeholder": "",
+              "required": true
+            },
+            {
+              "type": "number",
+              "name": "wpforms[fields][3]",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "email",
+              "name": "wpforms[fields][1]",
+              "placeholder": "",
+              "required": true
+            },
+            {
+              "type": "text",
+              "name": "wpforms[fields][2]",
+              "placeholder": "",
+              "required": true
+            },
+            {
+              "type": "hidden",
+              "name": "wpforms[id]",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "page_title",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "page_url",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "url_referer",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "page_id",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "wpforms[post_id]",
+              "placeholder": "",
+              "required": false
+            }
+          ],
+          "purpose": "contact"
+        }
+      ],
+      "navigation_items": [],
+      "call_to_actions": [
+        {
+          "text": "Submit",
+          "type": "button",
+          "url": "",
+          "context": "Submit"
+        }
+      ],
+      "contact_info": [],
+      "services_mentioned": [],
+      "testimonials": [],
+      "dynamic_content": "",
+      "category_analysis": {
+        "movement_score": 1,
+        "advocacy_score": 2,
+        "movement_weight": 1,
+        "advocacy_weight": 3,
+        "movement_density": 0.0030581039755351682,
+        "advocacy_density": 0.009174311926605505,
+        "primary_category": "advocacy",
+        "confidence": 0.5,
+        "is_mixed_content": false
+      },
+      "sentiment_analysis": {
+        "polarity": 0.31958347259358283,
+        "subjectivity": 0.37089870913400336,
+        "tone": "positive"
+      },
+      "word_count": 237,
+      "reading_time": 1.185,
+      "analysis_timestamp": "2025-05-23T11:05:53.541862"
+    },
+    "https://umiwellnesscenter.com/rhythms-for-blues/": {
+      "url": "https://umiwellnesscenter.com/rhythms-for-blues/",
+      "title": "Rhythms for Blues - Umi Wellness Center",
+      "meta_description": "",
+      "headings": {
+        "h1": [
+          "Rhythms for Blues",
+          "Don’t let life get you down!",
+          "Get up and dance, or rest with peace in our music, arts and drama offerings.",
+          "Our wellness philosophy:",
+          "Why use a club when a feather works even better?",
+          "Inquire about membership here.",
+          "OR"
+        ],
+        "h2": [],
+        "h3": [],
+        "h4": [],
+        "h5": [],
+        "h6": []
+      },
+      "body_text": "Rhythms for Blues\n\n\n\n\n\n\n\n\nDon’t let life get you down! \nGet up and dance, or rest with peace in our music, arts and drama offerings.\n\n\n\n\n\n\n\nHoping to Return this Fall! Have a passion for teaching and desire to make offerings accessible for medical challenges? Please reach out!  We are eagerly looking for caring creatives to expand these offerings to our local areas and online. Email office@umiwellnesscenter.com. \n\nSound Sanctuary – with talented music educator Katye Wood\n\nLlama Drama – Once a month online drama games for hypermobile kiddos.\nHeart Beats – Sway and Play with this once a month dance and movement exploration for kids with POTS and other Cardio-Conditions. \n\n\n\nSound Sanctuary\n\nThis series is a special 6 week series of weekly online Music and Movement gatherings designed to give you time to rest, relax, recharge, and rejoice in the special ways that sound and movement help renew our mind, body, and spirit. \nEach of the gatherings will be appropriate for all ages, movement activities will have options to adapt them to what your body needs at that time, and can be enjoyed by anyone, regardless of previous musical experience. \nJoin us as we enjoy the experience of community built by shared experiences and hopefully add resources for you to draw from in your wellness journey.\n \n\nReturning in Fall 2024. Enjoy your summer!\n\n\nRegister Here for Event Link!\n\n\n\n\n\n\n\n\n\n\nClasses are offered in 6 week or 8 weeks blocks with rest periods between.\nMost classes have both in-person and online options! There is much you can do from the comfort of your home. \n\nContact Us\n\n\n\nOur wellness philosophy:\nWhy use a club when a feather works even better?\n\nWe design our classes to specially fit those with complex health challenges like:\nEhlers-Danlos Syndromes/hypermobility Spectrum Disorders\nGenetic disorders\nFibromyalgia\nChronic fatigue\nCancer\nand\nAutoimmune Conditions\nThis thoughtfulness of nuance in our offerings make them MORE than suitable for all. the details of creating work for the most challenging bodies speaks deeply and more effectively to all bodies.\n\n\n\nSee our community calendar or events page for upcoming activities!\nSome classes are for Umi Members only. Our unique model allows providers and teachers to work across state lines, among other benefits. Find out more about our membership model here.\n\n\n\n\n\na private membership association\n\n\n\n\n\n\n\n\nInquire about membership here.\n OR\n\n\nApply Online\n\n\n\n\nPlease enable JavaScript in your browser to complete this form.Please enable JavaScript in your browser to complete this form.Name *FirstLastContact NumberEmail *Comment or Message *Submit",
+      "links": [
+        {
+          "url": "https://umiwellnesscenter.com/",
+          "text": "",
+          "is_internal": true,
+          "context": ""
+        },
+        {
+          "url": "mailto:office@umiwellnesscenter.com",
+          "text": "office@umiwellnesscenter.com",
+          "is_internal": false,
+          "context": "Hoping to Return this Fall! Have a passion for teaching and desire to make offerings accessible for medical challenges? Please reach out!  We are eagerly looking for caring creatives to expand these o"
+        },
+        {
+          "url": "https://umiwellnesscenter.com/rhythms-for-blues/www.umiwellnesscenter.com/providers/",
+          "text": "Katye Wood",
+          "is_internal": true,
+          "context": "Sound Sanctuary – with talented music educator Katye Wood"
+        },
+        {
+          "url": "https://wkf.ms/3v0iHfB",
+          "text": "Register Here for Event Link!",
+          "is_internal": false,
+          "context": "Register Here for Event Link!"
+        },
+        {
+          "url": "https://umiwellnesscenter.com/contact-us/",
+          "text": "Contact Us",
+          "is_internal": true,
+          "context": "Contact Us"
+        },
+        {
+          "url": "http://www.umiwellnesscenter.com/umi-calendar/",
+          "text": "community calendar",
+          "is_internal": false,
+          "context": "See our community calendar or events page for upcoming activities!"
+        },
+        {
+          "url": "http://www.umiwellnesscenter.com/upcoming-umi-events/",
+          "text": "events page",
+          "is_internal": false,
+          "context": "See our community calendar or events page for upcoming activities!"
+        },
+        {
+          "url": "http://www.umiwellnesscenter.com/faqs/",
+          "text": "our membership model here.",
+          "is_internal": false,
+          "context": "Some classes are for Umi Members only. Our unique model allows providers and teachers to work across state lines, among other benefits. Find out more about our membership model here."
+        },
+        {
+          "url": "http://www.umiwellnesscenter.com/faqs/",
+          "text": "a private membership association",
+          "is_internal": false,
+          "context": "a private membership association"
+        },
+        {
+          "url": "https://forms.monday.com/forms/d1799ba7dca4c226986e97e424a00bfd?r=use1",
+          "text": "Apply Online",
+          "is_internal": false,
+          "context": "Apply Online"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://umiwellnesscenter.com/wp-content/uploads/2023/09/Umi-Oval-Logo_WebRes.png",
+          "alt": "Umi Wellness Center",
+          "title": "",
+          "context": ""
+        },
+        {
+          "src": "https://i0.wp.com/umiwellnesscenter.com/wp-content/uploads/2024/01/AdobeStock_317574354-scaled.jpeg?resize=1080%2C720&ssl=1",
+          "alt": "",
+          "title": "In living room african father dancing with little daughter",
+          "context": ""
+        },
+        {
+          "src": "https://umiwellnesscenter.com/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg",
+          "alt": "Loading",
+          "title": "",
+          "context": "Submit"
+        }
+      ],
+      "forms": [
+        {
+          "action": "https://umiwellnesscenter.com/",
+          "method": "get",
+          "fields": [
+            {
+              "type": "search",
+              "name": "s",
+              "placeholder": "Search …",
+              "required": false
+            }
+          ],
+          "purpose": "unknown"
+        },
+        {
+          "action": "/rhythms-for-blues/",
+          "method": "post",
+          "fields": [
+            {
+              "type": "text",
+              "name": "wpforms[fields][0][first]",
+              "placeholder": "",
+              "required": true
+            },
+            {
+              "type": "text",
+              "name": "wpforms[fields][0][last]",
+              "placeholder": "",
+              "required": true
+            },
+            {
+              "type": "number",
+              "name": "wpforms[fields][3]",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "email",
+              "name": "wpforms[fields][1]",
+              "placeholder": "",
+              "required": true
+            },
+            {
+              "type": "text",
+              "name": "wpforms[fields][2]",
+              "placeholder": "",
+              "required": true
+            },
+            {
+              "type": "hidden",
+              "name": "wpforms[id]",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "page_title",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "page_url",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "url_referer",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "page_id",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "wpforms[post_id]",
+              "placeholder": "",
+              "required": false
+            }
+          ],
+          "purpose": "contact"
+        }
+      ],
+      "navigation_items": [],
+      "call_to_actions": [
+        {
+          "text": "Submit",
+          "type": "button",
+          "url": "",
+          "context": "Submit"
+        }
+      ],
+      "contact_info": [
+        "office@umiwellnesscenter.com"
+      ],
+      "services_mentioned": [],
+      "testimonials": [],
+      "dynamic_content": "",
+      "category_analysis": {
+        "movement_score": 5,
+        "advocacy_score": 2,
+        "movement_weight": 15,
+        "advocacy_weight": 2,
+        "movement_density": 0.03275109170305677,
+        "advocacy_density": 0.004366812227074236,
+        "primary_category": "movement",
+        "confidence": 0.7647058823529411,
+        "is_mixed_content": false
+      },
+      "sentiment_analysis": {
+        "polarity": 0.2820712081128748,
+        "subjectivity": 0.4763447971781305,
+        "tone": "positive"
+      },
+      "word_count": 409,
+      "reading_time": 2.045,
+      "analysis_timestamp": "2025-05-23T11:05:56.771281"
+    },
+    "https://umiwellnesscenter.com/roads-we-travel/": {
+      "url": "https://umiwellnesscenter.com/roads-we-travel/",
+      "title": "Roads We Travel - Umi Wellness Center",
+      "meta_description": "",
+      "headings": {
+        "h1": [
+          "The Roads We Travel",
+          "Our journey can be long, troubled and challenging.",
+          "This lecture series is curated to give that journey a little more hope.",
+          "Lectures that are open to the public will be labeled as their dates and times are announced.  Email Office@umicharlotte.com to sign up or get on our event news list for regular announcements. Makes sure you add this email to your contact list so you don’t miss any news updates!",
+          "We have to live differently.",
+          "Our wellness philosophy:",
+          "Why use a club when a feather works even better?",
+          "Inquire about membership here.",
+          "OR"
+        ],
+        "h2": [],
+        "h3": [],
+        "h4": [],
+        "h5": [],
+        "h6": []
+      },
+      "body_text": "The Roads We Travel\n\n\n\n\n\n\n\n\nOur journey can be long, troubled and challenging. \nThis lecture series is curated to give that journey a little more hope.\n \n\n\n\n\n\n\n\nFall 2024: Dates and Times TBA as Speakers confirm! Here’s a preview:\nNow Open!\n\nRegistration Open:\nIt’s All In Your Head – Brain, Spine & Fighting Gravity with Rachel Lee – September 7th\nMast connections – No One Left Behind with Rachel Lee – Rescheduled for Dec. 8th, 3pm due to helene\nReThinking EDS – A series with DR. Alan Spanos, exploring EDS roots, resources, new ideas, old problems, and need of patients.\nCurrent Dates:\n\nNovember 17th, 2024 at 3pm via Zoom.\nDecember 29th, 2024 at 3pm via Zoom\nJanuary TBA (likely the third Sunday)\n\nscheduling in Process:\nLymphatics and Essentials with Theresia Random\nDr. Meg Mizrachi of Congruency Physical therapy\nDrawing a Blank – The basic framework of preparing for a doctor visit with Rachel Lee\n \nPast Events – \nEDS: The Stiff & The Loose – June 4th (Zoom) Dr. Alan Spanos\nReThinking EDS – June 15th in Charlotte, NC! Dr. Alan Spanos\n\nLectures that are open to the public will be labeled as their dates and times are announced.  Email Office@umicharlotte.com to sign up or get on our event news list for regular announcements. Makes sure you add this email to your contact list so you don’t miss any news updates!\n\n\n\nThe Roads Series\n\nA lecture series inspired by the incredible journey’s of chronic Illness warriors and Zebras. From patients, professionals, therapists, doctors, creatives and friends, we hope to bring a little less pain and a little more hope to your life.\nWe have to live differently.\nAs we embody what it means to survive with our without a sense of choice, this online and in-person series of lectures and experiences are made to help integrate what we see, feel, taste, smell, and hear outside of our bodies and notice them within the body itself. Bring them in, and re-connect with that thing which makes our survival so much of a struggle.\nFrom academic lectures on rare disorders and complications to sound bathing, healing oils and music, Umi hopes to lighten your load.\n\nRegister Here\n\n\n\nRachel giving an intro workshop to Bones for Life (R) work of Dr. Ruthy Alon. Young woman in a Bones Wrap feeling relief in hips, spine and head pressure. Rachel explaining how joints are “brought home.”\n\n\n\n\n\n\n\n\n\n\nClasses are offered in 6 week or 8 weeks blocks with rest periods between.\nMost classes have both in-person and online options! There is much you can do from the comfort of your home. \n\nContact Us\n\n\n\nOur wellness philosophy:\nWhy use a club when a feather works even better?\n\nWe design our classes to specially fit those with complex health challenges like:\nEhlers-Danlos Syndromes/Hypermobile spectrum Disorder\nGenetic disorders\nFibromyalgia\nChronic fatigue\nCancer\nand\nAutoimmune Conditions\nThis thoughtfulness of nuance in our offerings make them MORE than suitable for all. the details of creating work for the most challenging bodies speaks deeply and more effectively to all bodies.\n\n\n\nSee our community calendar or events page for upcoming activities!\nSome classes are for Umi Members only. Our unique model allows providers and teachers to work across state lines, among other benefits. Find out more about our membership model here.\n\n\n\n\n\na private membership association\n\n\n\n\n\n\n\n\nInquire about membership here.\n OR\n\n\nApply Online\n\n\n\n\nPlease enable JavaScript in your browser to complete this form.Please enable JavaScript in your browser to complete this form.Name *FirstLastContact NumberEmail *Comment or Message *Submit",
+      "links": [
+        {
+          "url": "https://umiwellnesscenter.com/",
+          "text": "",
+          "is_internal": true,
+          "context": ""
+        },
+        {
+          "url": "https://naturallyrandom.com/",
+          "text": "Lymphatics and Essentials",
+          "is_internal": false,
+          "context": "Lymphatics and Essentials with Theresia Random"
+        },
+        {
+          "url": "https://umiwellnesscenter.com/roads-we-travel/www.rachelleepac.com",
+          "text": "Rachel Lee",
+          "is_internal": true,
+          "context": "Drawing a Blank – The basic framework of preparing for a doctor visit with Rachel Lee"
+        },
+        {
+          "url": "https://rachelleepac.com/spanos-resources/",
+          "text": "Dr. Alan Spanos",
+          "is_internal": false,
+          "context": "EDS: The Stiff & The Loose – June 4th (Zoom) Dr. Alan Spanos"
+        },
+        {
+          "url": "https://rachelleepac.com/spanos-resources/",
+          "text": "Dr. Alan Spanos",
+          "is_internal": false,
+          "context": "ReThinking EDS – June 15th in Charlotte, NC! Dr. Alan Spanos"
+        },
+        {
+          "url": "mailto:Rachel.Lee@umicharlotte.com",
+          "text": "Office@umicharlotte.com",
+          "is_internal": false,
+          "context": "Lectures that are open to the public will be labeled as their dates and times are announced.  Email Office@umicharlotte.com to sign up or get on our event news list for regular announcements. Makes su"
+        },
+        {
+          "url": "https://wkf.ms/3x6RKHG",
+          "text": "Register Here",
+          "is_internal": false,
+          "context": "Register Here"
+        },
+        {
+          "url": "https://umiwellnesscenter.com/contact-us/",
+          "text": "Contact Us",
+          "is_internal": true,
+          "context": "Contact Us"
+        },
+        {
+          "url": "http://www.umiwellnesscenter.com/umi-calendar/",
+          "text": "community calendar",
+          "is_internal": false,
+          "context": "See our community calendar or events page for upcoming activities!"
+        },
+        {
+          "url": "http://www.umiwellnesscenter.com/upcoming-umi-events/",
+          "text": "events page",
+          "is_internal": false,
+          "context": "See our community calendar or events page for upcoming activities!"
+        },
+        {
+          "url": "http://www.umiwellnesscenter.com/faqs/",
+          "text": "our membership model here.",
+          "is_internal": false,
+          "context": "Some classes are for Umi Members only. Our unique model allows providers and teachers to work across state lines, among other benefits. Find out more about our membership model here."
+        },
+        {
+          "url": "http://www.umiwellnesscenter.com/faqs/",
+          "text": "a private membership association",
+          "is_internal": false,
+          "context": "a private membership association"
+        },
+        {
+          "url": "https://forms.monday.com/forms/d1799ba7dca4c226986e97e424a00bfd?r=use1",
+          "text": "Apply Online",
+          "is_internal": false,
+          "context": "Apply Online"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://umiwellnesscenter.com/wp-content/uploads/2023/09/Umi-Oval-Logo_WebRes.png",
+          "alt": "Umi Wellness Center",
+          "title": "",
+          "context": ""
+        },
+        {
+          "src": "https://i0.wp.com/umiwellnesscenter.com/wp-content/uploads/2023/11/AdobeStock_114889068-scaled.jpeg?resize=1080%2C721&ssl=1",
+          "alt": "",
+          "title": "Beautiful surreal alternate colored forest landscape",
+          "context": ""
+        },
+        {
+          "src": "https://i0.wp.com/umiwellnesscenter.com/wp-content/uploads/2024/06/449076873_428071380053840_5719336888697277665_n.jpg?resize=640%2C480&ssl=1",
+          "alt": "",
+          "title": "449076873_428071380053840_5719336888697277665_n",
+          "context": ""
+        },
+        {
+          "src": "https://umiwellnesscenter.com/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg",
+          "alt": "Loading",
+          "title": "",
+          "context": "Submit"
+        }
+      ],
+      "forms": [
+        {
+          "action": "https://umiwellnesscenter.com/",
+          "method": "get",
+          "fields": [
+            {
+              "type": "search",
+              "name": "s",
+              "placeholder": "Search …",
+              "required": false
+            }
+          ],
+          "purpose": "unknown"
+        },
+        {
+          "action": "/roads-we-travel/",
+          "method": "post",
+          "fields": [
+            {
+              "type": "text",
+              "name": "wpforms[fields][0][first]",
+              "placeholder": "",
+              "required": true
+            },
+            {
+              "type": "text",
+              "name": "wpforms[fields][0][last]",
+              "placeholder": "",
+              "required": true
+            },
+            {
+              "type": "number",
+              "name": "wpforms[fields][3]",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "email",
+              "name": "wpforms[fields][1]",
+              "placeholder": "",
+              "required": true
+            },
+            {
+              "type": "text",
+              "name": "wpforms[fields][2]",
+              "placeholder": "",
+              "required": true
+            },
+            {
+              "type": "hidden",
+              "name": "wpforms[id]",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "page_title",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "page_url",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "url_referer",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "page_id",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "wpforms[post_id]",
+              "placeholder": "",
+              "required": false
+            }
+          ],
+          "purpose": "contact"
+        }
+      ],
+      "navigation_items": [],
+      "call_to_actions": [
+        {
+          "text": "Submit",
+          "type": "button",
+          "url": "",
+          "context": "Submit"
+        }
+      ],
+      "contact_info": [
+        "Office@umicharlotte.com"
+      ],
+      "services_mentioned": [],
+      "testimonials": [],
+      "dynamic_content": "",
+      "category_analysis": {
+        "movement_score": 4,
+        "advocacy_score": 3,
+        "movement_weight": 7,
+        "advocacy_weight": 5,
+        "movement_density": 0.010218978102189781,
+        "advocacy_density": 0.0072992700729927005,
+        "primary_category": "movement",
+        "confidence": 0.16666666666666666,
+        "is_mixed_content": true
+      },
+      "sentiment_analysis": {
+        "polarity": 0.1264331214762249,
+        "subjectivity": 0.4632030804444596,
+        "tone": "positive"
+      },
+      "word_count": 581,
+      "reading_time": 2.905,
+      "analysis_timestamp": "2025-05-23T11:05:58.625565"
+    },
+    "https://umiwellnesscenter.com/contact-us/": {
+      "url": "https://umiwellnesscenter.com/contact-us/",
+      "title": "Contact Us - Umi Wellness Center",
+      "meta_description": "",
+      "headings": {
+        "h1": [
+          "Contact Us",
+          "Inquire about membership here.",
+          "OR"
+        ],
+        "h2": [],
+        "h3": [],
+        "h4": [],
+        "h5": [],
+        "h6": []
+      },
+      "body_text": "Contact Us\n\n\n\n\n\n\n\n\n\n\n\nContact:\nPhone: 704-246-7513\nEmail preferred: \nOffice@umiwellnesscenter.com\n\nLocations:\nOnline – we strive to make our offerings accessible to all, offered nationwide. \n\nCharlotte, NC\nAsheville, NC\nFort Mill, SC\nAtlanta, GA\nPhiladelphia, PA\nAdministrative address available upon request! We are where our members are, making house calls, hosting gatherings, and providing community. \n \n\n\n\n\n\n\n\n\nInquire about membership here.\n OR\n\n\nApply Online\n\n\n\n\nPlease enable JavaScript in your browser to complete this form.Please enable JavaScript in your browser to complete this form.Name *FirstLastContact NumberEmail *Comment or Message *Submit",
+      "links": [
+        {
+          "url": "https://umiwellnesscenter.com/",
+          "text": "",
+          "is_internal": true,
+          "context": ""
+        },
+        {
+          "url": "http://www.umiwellnesscenter.com/roads-we-travel/",
+          "text": "",
+          "is_internal": false,
+          "context": ""
+        },
+        {
+          "url": "https://forms.monday.com/forms/d1799ba7dca4c226986e97e424a00bfd?r=use1",
+          "text": "Apply Online",
+          "is_internal": false,
+          "context": "Apply Online"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://umiwellnesscenter.com/wp-content/uploads/2023/09/Umi-Oval-Logo_WebRes.png",
+          "alt": "Umi Wellness Center",
+          "title": "",
+          "context": ""
+        },
+        {
+          "src": "https://i0.wp.com/umiwellnesscenter.com/wp-content/uploads/2024/03/RoadsWeTravelCard.png?resize=918%2C613&ssl=1",
+          "alt": "",
+          "title": "RoadsWeTravelCard",
+          "context": ""
+        },
+        {
+          "src": "https://umiwellnesscenter.com/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg",
+          "alt": "Loading",
+          "title": "",
+          "context": "Submit"
+        }
+      ],
+      "forms": [
+        {
+          "action": "https://umiwellnesscenter.com/",
+          "method": "get",
+          "fields": [
+            {
+              "type": "search",
+              "name": "s",
+              "placeholder": "Search …",
+              "required": false
+            }
+          ],
+          "purpose": "unknown"
+        },
+        {
+          "action": "/contact-us/",
+          "method": "post",
+          "fields": [
+            {
+              "type": "text",
+              "name": "wpforms[fields][0][first]",
+              "placeholder": "",
+              "required": true
+            },
+            {
+              "type": "text",
+              "name": "wpforms[fields][0][last]",
+              "placeholder": "",
+              "required": true
+            },
+            {
+              "type": "number",
+              "name": "wpforms[fields][3]",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "email",
+              "name": "wpforms[fields][1]",
+              "placeholder": "",
+              "required": true
+            },
+            {
+              "type": "text",
+              "name": "wpforms[fields][2]",
+              "placeholder": "",
+              "required": true
+            },
+            {
+              "type": "hidden",
+              "name": "wpforms[id]",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "page_title",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "page_url",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "url_referer",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "page_id",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "wpforms[post_id]",
+              "placeholder": "",
+              "required": false
+            }
+          ],
+          "purpose": "contact"
+        }
+      ],
+      "navigation_items": [],
+      "call_to_actions": [
+        {
+          "text": "Submit",
+          "type": "button",
+          "url": "",
+          "context": "Submit"
+        }
+      ],
+      "contact_info": [
+        "704-246-7513",
+        "Office@umiwellnesscenter.com"
+      ],
+      "services_mentioned": [],
+      "testimonials": [],
+      "dynamic_content": "",
+      "category_analysis": {
+        "movement_score": 1,
+        "advocacy_score": 0,
+        "movement_weight": 2,
+        "advocacy_weight": 0,
+        "movement_density": 0.020618556701030927,
+        "advocacy_density": 0.0,
+        "primary_category": "movement",
+        "confidence": 1.0,
+        "is_mixed_content": false
+      },
+      "sentiment_analysis": {
+        "polarity": 0.26875,
+        "subjectivity": 0.39375000000000004,
+        "tone": "positive"
+      },
+      "word_count": 84,
+      "reading_time": 0.42,
+      "analysis_timestamp": "2025-05-23T11:06:01.074868"
+    }
+  }
+}

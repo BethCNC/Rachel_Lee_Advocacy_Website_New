@@ -1,0 +1,35 @@
+SEO AUDIT EXECUTIVE SUMMARY
+Website: https://umiwellnesscenter.com/
+Audit Date: 2025-05-23 11:13:35
+============================================================
+
+OVERVIEW:
+Pages Analyzed: 25
+Pages with SEO Issues: 23
+Total SEO Issues Found: 69
+Broken Links: 8
+Redirect Chains: 0
+Slow Loading Pages: 0
+Average Load Time: 0.35s
+
+CRITICAL ISSUES:
+• 2 pages missing titles
+• 16 pages missing meta descriptions
+• 8 broken links found
+• 0 slow-loading pages (>3s)
+
+ISSUE BREAKDOWN:
+• Meta Description Issues: 19
+• Heading Issues: 22
+• Image Issues: 19
+• Other Issues: 6
+• Title Issues: 3
+
+RECOMMENDATIONS:
+1. Fix all broken links immediately
+2. Add missing meta descriptions
+3. Optimize page load times
+4. Fix missing title tags
+5. Add alt text to images
+6. Implement structured data
+7. Fix redirect chains

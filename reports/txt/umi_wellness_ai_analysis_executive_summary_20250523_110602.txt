@@ -1,0 +1,45 @@
+UMI WELLNESS CENTER - AI CONTENT ANALYSIS & UX STRATEGY REPORT
+======================================================================
+
+EXECUTIVE SUMMARY:
+Total pages analyzed: 14
+Movement-focused content: 5 pages
+Advocacy-focused content: 4 pages
+Mixed content pages: 5 pages
+
+CONTENT MIGRATION RECOMMENDATIONS:
+
+Movement Website Content:
+  - Home Page - Umi Wellness Center (https://umiwellnesscenter.com/)
+  - Community Classes - Umi Wellness Center (https://umiwellnesscenter.com/offerings/classes/)
+  - Upcoming Umi Events - Umi Wellness Center (https://umiwellnesscenter.com/upcoming-umi-events/)
+  - Rhythms for Blues - Umi Wellness Center (https://umiwellnesscenter.com/rhythms-for-blues/)
+  - Contact Us - Umi Wellness Center (https://umiwellnesscenter.com/contact-us/)
+
+Advocacy Website Content:
+  - Patient Advocacy Consulting - Umi Wellness Center (https://umiwellnesscenter.com/patient-advocacy-consulting/)
+  - FAQs - Umi Wellness Center (https://umiwellnesscenter.com/faqs/)
+  - How Umi Works - Umi Wellness Center (https://umiwellnesscenter.com/how-umi-works/)
+  - Zebra Heard - Umi Wellness Center (https://umiwellnesscenter.com/zebra-heard/)
+
+UX RECOMMENDATIONS:
+
+Information Architecture:
+  • Create clear separation between Movement and Advocacy services
+  • Implement distinct visual branding for each business branch
+  • Design separate user journeys for each target audience
+
+Navigation Strategy:
+  • Use distinct primary navigation for each website
+  • Implement breadcrumbs for complex service hierarchies
+  • Create cross-referral system between the two sites
+
+Content Strategy:
+  • Develop audience-specific content for each branch
+  • Create clear calls-to-action for different user intents
+  • Implement content personalization based on user journey
+
+User Experience:
+  • Streamline booking processes for each service type
+  • Create trust signals appropriate for each audience
+  • Implement progressive disclosure for complex information

@@ -1,0 +1,179 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+# 🤖 Cursor AI Agent Project Instructions — Rachel Lee Patient Advocacy Website
+
+## 📌 Summary
+
+You are assisting with the development of a fully custom WordPress website for **Rachel Lee Patient Advocacy**, based on a Tailwind CSS design system defined in Figma. This project must meet the highest standards of accessibility, semantic structure, responsive design, and performance. Your role is to translate design tokens and components into code, assist with clean ACF integrations, and ensure the resulting site is usable, maintainable, and neurodivergent-friendly.
+
+---
+
+## 🧠 Purpose & Vision
+
+This site will provide support and services for patients with complex healthcare needs. It must be ely intuitive for audiences with ADHD, autism, chronic illness, and low digital literacy.
+
+A **separate site will be created later** for "Umi Movement Intelligence" — only advocacy content belongs here.
+
+---
+
+## 🔧 Full Tech Stack
+
+| Layer          | Technology                        | Purpose                                    |
+| -------------- | --------------------------------- | ------------------------------------------ |
+| CMS            | WordPress (5.8+)                  | Content management and admin editing       |
+| Framework      | PHP / WordPress theme             | Template structure and logic               |
+| CSS Utility    | Tailwind CSS (v3+)                | Design token utility system                |
+| Content Fields | ACF Pro + Flexible Content        | Component-based content editing for client |
+| Deployment     | DreamHost Shared Hosting          | Live site hosting (FTP upload)             |
+| GitHub         | `Rachel_Lee_Advocacy_Website_New` | Source control & collaboration             |
+| Build Tool     | PostCSS + autoprefixer            | Tailwind integration with WordPress        |
+| Tokens         | Figma Tokens via JSON export      | Source of truth for design consistency     |
+
+> 📁 All API keys and tokens **must be stored in `.env` file only**. Cursor AI cannot read them, so reference them with `process.env.KEY_NAME` and manually configure in production.
+
+---
+
+## 🏗️ Project File Structure
+
+```
+wp-content/themes/rachel-advocacy/
+├── assets/
+│   ├── css/
+│   ├── js/
+│   └── images/
+├── components/
+│   ├── button.php
+│   ├── card.php
+│   ├── accordion.php
+├── template-parts/
+│   └── flexible-content/
+│       ├── hero.php
+│       ├── faq.php
+│       ├── image-text.php
+│       ├── testimonial.php
+├── acf-json/                # ACF field exports
+├── functions.php
+├── style.css
+├── tailwind.config.js
+├── postcss.config.js
+└── package.json
+```
+
+---
+
+## 📐 Design Tokens to Tailwind Conversion
+
+* You must read the exported design tokens JSON.
+* Map all design token values to `theme.extend` in `tailwind.config.js`:
+
+  * Colors → `colors`
+  * Font sizes → `fontSize`
+  * Line heights → `lineHeight`
+  * Border radii → `borderRadius`
+  * Spacing → `spacing`
+  * Breakpoints → `screens`
+
+> Maintain naming conventions exactly as defined in tokens for long-term compatibility.
+
+---
+
+## 🔨 WordPress + ACF Setup
+
+### Required ACF Fields:
+
+| ACF Block Key       | Output Template   | Purpose                             |
+| ------------------- | ----------------- | ----------------------------------- |
+| `hero_block`        | `hero.php`        | Title, image, subtitle, CTA         |
+| `image_text_split`  | `image-text.php`  | Side-by-side text and media layout  |
+| `testimonial_block` | `testimonial.php` | Client or user quote cards          |
+| `faq_block`         | `faq.php`         | Accordion for questions and answers |
+| `cta_banner`        | `cta-banner.php`  | Full-width attention CTA section    |
+| `form_block`        | `form.php`        | Intake or contact form              |
+
+ACF JSON field definitions must be committed to `/acf-json/` and synced with the GitHub repo.
+
+---
+
+## 🧩 Component Development
+
+Each component must:
+
+* Follow BEM-style naming when custom CSS is required (`.button--large`, `.card__body`, etc.)
+* Be developed as a reusable PHP partial inside `/components`
+* Use `get_field()` or `the_field()` with conditional logic
+* Be accessible (ARIA, labels, alt text, etc.)
+
+---
+
+## 📃 Page Templates
+
+| Page            | Template                  | Description                                         |
+| --------------- | ------------------------- | --------------------------------------------------- |
+| Home            | `page-home.php`           | Hero + services CTA + client testimonials           |
+| About           | `page-about.php`          | Mission, values, team bio                           |
+| Services        | `page-services.php`       | Cards for services + detail links                   |
+| Advocacy Detail | `single-service.php`      | Full template for individual services (if CPT used) |
+| Contact         | `page-contact.php`        | Embedded form + address + email                     |
+| FAQ             | `page-faq.php`            | ACF accordion fields                                |
+| Blog            | `index.php`, `single.php` | Optional for educational resources                  |
+
+---
+
+## 🔍 Accessibility Requirements
+
+* Comply with **WCAG 2.1 AA** minimum
+* All focusable elements must be keyboard-navigable
+* Use semantic HTML tags: `<section>`, `<nav>`, `<article>`, etc.
+* Avoid low contrast: 4.5:1 text contrast minimum
+* Don’t use parallax, autoplay video, or aggressive animations
+* Use skip links and accessible landmarks
+* All form inputs require `label for` associations
+* Include keyboard-visible focus outlines
+
+---
+
+## ⚙️ Build Commands (Node Environment)
+
+```bash
+npm install
+npx tailwindcss -i ./assets/css/style.css -o ./style.css --watch
+```
+
+---
+
+## 🚀 DreamHost Deployment
+
+### Deployment Method: FTPt File Manager → `/wp-content/themes/`
+* Extract, then activate via WordPress admin
+
+---
+
+## 🤖 Cursor AI Agent Instructions
+
+### Do:
+
+* Use Tailwind utilities based on design token mappings
+* Generate PHP output templates for ACF flexible content
+* Assist in checking ARIA, `alt`, `label`, `role`, and other accessibility tags
+* Optimize HTML structure for screen readers and keyboard use
+* Suggest SEO improvements (title structure, meta, semantic headings)
+* When generating code, **assume tokens, colors, sizes, and spacings will be dynamic and sourced from a JSON token file**
+* Document new files, blocks, or system changes in inline comments
+
+### Don’t:
+
+* Never hardcode values that exist in tokens
+* Never output inaccessible markup without guidance labels
+* Don’t remove any manually created or client-authored content unless instructed
+
+---
+
+## ✅ Commit Protocol
+
+* Always write clear Git commit messages
+* Push to `main` or a feature branch
+* Track changes to ACF via `acf-json/`
+* Manual updates to `.env` should be excluded via `.gitignore`
