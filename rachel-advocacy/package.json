@@ -1,0 +1,34 @@
+{
+  "name": "rachel-advocacy-theme",
+  "version": "1.0.0",
+  "description": "WordPress theme for Rachel Lee Patient Advocacy with Tailwind CSS and accessibility focus",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwindcss -i ./assets/css/style.css -o ./style.css --minify",
+    "watch": "tailwindcss -i ./assets/css/style.css -o ./style.css --watch",
+    "dev": "npm run watch",
+    "production": "npm run build"
+  },
+  "keywords": [
+    "wordpress",
+    "theme",
+    "tailwindcss",
+    "accessibility",
+    "patient-advocacy"
+  ],
+  "author": "Beth Cartrette",
+  "license": "GPL-2.0-or-later",
+  "devDependencies": {
+    "tailwindcss": "^3.4.0",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.32",
+    "@tailwindcss/forms": "^0.5.7",
+    "@tailwindcss/typography": "^0.5.10",
+    "@tailwindcss/aspect-ratio": "^0.4.2"
+  },
+  "browserslist": [
+    "last 2 versions",
+    "> 1%",
+    "IE 11"
+  ]
+} 

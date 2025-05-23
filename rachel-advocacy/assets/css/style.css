@@ -1,0 +1,330 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom base styles for accessibility and brand consistency */
+@layer base {
+  /* Improved focus styles for accessibility */
+  *:focus {
+    outline: 2px solid theme('colors.primary.600');
+    outline-offset: 2px;
+  }
+
+  /* Remove default focus styles and apply custom ones */
+  button:focus,
+  a:focus,
+  input:focus,
+  textarea:focus,
+  select:focus {
+    outline: 2px solid theme('colors.primary.600');
+    outline-offset: 2px;
+  }
+
+  /* Ensure sufficient color contrast */
+  body {
+    @apply text-neutral-800 bg-white;
+    font-family: theme('fontFamily.sans');
+    line-height: 1.6;
+  }
+
+  /* Heading hierarchy for screen readers */
+  h1 {
+    @apply text-4xl font-bold text-neutral-900 mb-6;
+  }
+
+  h2 {
+    @apply text-3xl font-semibold text-neutral-800 mb-4;
+  }
+
+  h3 {
+    @apply text-2xl font-medium text-neutral-700 mb-3;
+  }
+
+  h4 {
+    @apply text-xl font-medium text-neutral-700 mb-2;
+  }
+
+  h5 {
+    @apply text-lg font-medium text-neutral-600 mb-2;
+  }
+
+  h6 {
+    @apply text-base font-medium text-neutral-600 mb-1;
+  }
+
+  /* Improved link accessibility */
+  a {
+    @apply text-primary-600 underline decoration-1 underline-offset-2;
+    transition: all 0.2s ease-in-out;
+  }
+
+  a:hover {
+    @apply text-primary-700 decoration-2;
+  }
+
+  a:focus {
+    @apply bg-primary-50 px-1 -mx-1 rounded;
+  }
+
+  /* Form elements for better accessibility */
+  input[type="text"],
+  input[type="email"],
+  input[type="tel"],
+  input[type="password"],
+  input[type="search"],
+  textarea,
+  select {
+    @apply border-neutral-300 rounded-md shadow-sm focus:border-primary-500 focus:ring-primary-500;
+  }
+
+  /* Ensure buttons have proper contrast */
+  button {
+    @apply cursor-pointer;
+  }
+
+  /* Improve table accessibility */
+  table {
+    @apply w-full border-collapse;
+  }
+
+  th {
+    @apply bg-neutral-50 font-semibold text-left p-3 border-b border-neutral-200;
+  }
+
+  td {
+    @apply p-3 border-b border-neutral-100;
+  }
+
+  /* List improvements */
+  ul, ol {
+    @apply ml-6;
+  }
+
+  li {
+    @apply mb-1;
+  }
+
+  /* Blockquote styling */
+  blockquote {
+    @apply border-l-4 border-primary-500 pl-6 italic text-neutral-600 my-6;
+  }
+
+  /* Code styling */
+  code {
+    @apply bg-neutral-100 px-1 py-0.5 rounded text-sm font-mono;
+  }
+
+  pre {
+    @apply bg-neutral-900 text-neutral-100 p-4 rounded-lg overflow-x-auto;
+  }
+
+  pre code {
+    @apply bg-transparent p-0;
+  }
+}
+
+@layer components {
+  /* Button component styles */
+  .btn {
+    @apply inline-flex items-center justify-center px-6 py-3 border border-transparent text-base font-medium rounded-md transition-all duration-200 ease-in-out focus:outline-none focus:ring-2 focus:ring-offset-2;
+  }
+
+  .btn-primary {
+    @apply bg-primary-600 text-white hover:bg-primary-700 focus:ring-primary-500;
+  }
+
+  .btn-secondary {
+    @apply bg-secondary-600 text-white hover:bg-secondary-700 focus:ring-secondary-500;
+  }
+
+  .btn-outline {
+    @apply border-primary-600 text-primary-600 hover:bg-primary-600 hover:text-white focus:ring-primary-500;
+  }
+
+  .btn-large {
+    @apply px-8 py-4 text-lg;
+  }
+
+  .btn-small {
+    @apply px-4 py-2 text-sm;
+  }
+
+  /* Card component styles */
+  .card {
+    @apply bg-white rounded-lg shadow-md border border-neutral-200 overflow-hidden;
+  }
+
+  .card-header {
+    @apply px-6 py-4 border-b border-neutral-200 bg-neutral-50;
+  }
+
+  .card-body {
+    @apply px-6 py-4;
+  }
+
+  .card-footer {
+    @apply px-6 py-4 border-t border-neutral-200 bg-neutral-50;
+  }
+
+  /* Form component styles */
+  .form-group {
+    @apply mb-6;
+  }
+
+  .form-label {
+    @apply block text-sm font-medium text-neutral-700 mb-2;
+  }
+
+  .form-input {
+    @apply w-full px-3 py-2 border border-neutral-300 rounded-md shadow-sm focus:outline-none focus:ring-2 focus:ring-primary-500 focus:border-primary-500;
+  }
+
+  .form-textarea {
+    @apply w-full px-3 py-2 border border-neutral-300 rounded-md shadow-sm focus:outline-none focus:ring-2 focus:ring-primary-500 focus:border-primary-500 min-h-[120px];
+  }
+
+  .form-select {
+    @apply w-full px-3 py-2 border border-neutral-300 rounded-md shadow-sm focus:outline-none focus:ring-2 focus:ring-primary-500 focus:border-primary-500;
+  }
+
+  .form-error {
+    @apply text-error text-sm mt-1;
+  }
+
+  .form-help {
+    @apply text-neutral-600 text-sm mt-1;
+  }
+
+  /* Alert/Notification styles */
+  .alert {
+    @apply px-4 py-3 rounded-md border mb-4;
+  }
+
+  .alert-success {
+    @apply bg-green-50 border-green-200 text-green-800;
+  }
+
+  .alert-warning {
+    @apply bg-yellow-50 border-yellow-200 text-yellow-800;
+  }
+
+  .alert-error {
+    @apply bg-red-50 border-red-200 text-red-800;
+  }
+
+  .alert-info {
+    @apply bg-blue-50 border-blue-200 text-blue-800;
+  }
+
+  /* Navigation styles */
+  .nav-primary {
+    @apply bg-white shadow-sm border-b border-neutral-200;
+  }
+
+  .nav-link {
+    @apply text-neutral-600 hover:text-primary-600 px-3 py-2 rounded-md text-sm font-medium transition-colors duration-200;
+  }
+
+  .nav-link.active {
+    @apply text-primary-600 bg-primary-50;
+  }
+
+  /* Container and layout utilities */
+  .container {
+    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+  }
+
+  .section {
+    @apply py-12 lg:py-16;
+  }
+
+  .section-large {
+    @apply py-16 lg:py-24;
+  }
+
+  /* Accessibility utilities */
+  .sr-only {
+    @apply screen-reader-text;
+  }
+
+  .focus-visible {
+    @apply focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2;
+  }
+
+  /* Animation utilities for reduced motion */
+  @media (prefers-reduced-motion: reduce) {
+    .reduced-motion * {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+      scroll-behavior: auto !important;
+    }
+  }
+}
+
+@layer utilities {
+  /* Custom spacing utilities */
+  .space-y-section > * + * {
+    @apply mt-12 lg:mt-16;
+  }
+
+  .space-y-content > * + * {
+    @apply mt-6;
+  }
+
+  /* Text utilities for accessibility */
+  .text-readable {
+    font-size: 1.125rem;
+    line-height: 1.7;
+  }
+
+  .text-large {
+    font-size: 1.25rem;
+    line-height: 1.6;
+  }
+
+  /* Focus trap utility for modals */
+  .focus-trap {
+    position: relative;
+  }
+
+  .focus-trap::before,
+  .focus-trap::after {
+    content: '';
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    opacity: 0;
+    pointer-events: none;
+  }
+
+  /* High contrast mode support */
+  @media (prefers-contrast: high) {
+    .high-contrast {
+      --tw-ring-color: currentColor;
+      border-color: currentColor !important;
+    }
+  }
+
+  /* Print styles */
+  @media print {
+    .print-hidden {
+      display: none !important;
+    }
+
+    .print-block {
+      display: block !important;
+    }
+
+    body {
+      background: white !important;
+      color: black !important;
+    }
+
+    a[href^="http"]:after {
+      content: " (" attr(href) ")";
+      font-size: 0.8em;
+      color: #666;
+    }
+  }
+} 
